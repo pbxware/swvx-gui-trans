@@ -88,7 +88,7 @@ T_ERROR_ACTIVATING:["Возникла проблема при активации
 T_SUCCESS_ACTIVATING:["Приветствие активировано"],
 T_EXISTING_UNAVAILABLE:["Приветствие 'недоступен'"],
 T_EXISTING_BUSY:["Приветствие 'занято'"],
-T_RING_PHONE:["Ring Extension"],
+T_RING_PHONE:["Звонить"],
 T_NO_RECORDED_FILE:["Вы еще не записали приветствие"],
 T_RECORDED_SUCCESS:["Ваше приветствие записано"],
 T_ACTIVE:["Активна"],

@@ -1,19 +1,19 @@
 $VAR1 = {
-          'T_USE_THIS_FORM' => 'Use this form to generate custom statistical reports about this extension\'s call history.',
-          'T' => 'Total Cumulative',
-          'T_MMDDYYYY8' => 'dd/mm/yyyy',
-          '__INCLUDES' => [
-                            'incl_header',
-                          ],
-          'T_HOLD_DOWN_CTRL16' => 'Hold down CTRL to select multiple items',
-          'T_USER_EXTENSIONS' => 'User Extensions Fields',
-          'T3' => 'By Hour of Day',
-          'T_CHART_REPORT' => 'Chart Report',
-          'T_TO_DATE3' => 'To Date',
-          'T4' => 'Day of Week',
-          'T_FROM_DATE3' => 'From Date',
-          'T_VIEW_REPORT' => 'View Report',
-          'T_OUPUT_TO_XLS_F' => 'Output to .xls file',
-          'T_BREAKDOWN' => 'Breakdown',
-          'T2' => 'By Date'
-        };
+    '__INCLUDES' => [
+        'incl_header'
+    ],
+    'T_USE_THIS_FORM' => 'Используйте эту форму для генерации отчета по истории звонков этого добавочного номера',
+    'T' => 'Всего совокупно',
+    'T_MMDDYYYY8' => 'мм/дд/гггг',
+    'T_HOLD_DOWN_CTRL16' => 'Удерживайте CTRL для выбора нескольких пунктов',
+    'T_USER_EXTENSIONS' => 'Добавочные пользователя',
+    'T3' => 'По часу дня',
+    'T_CHART_REPORT' => 'Chart Report',
+    'T_TO_DATE3' => 'До даты',
+    'T4' => 'День недели',
+    'T_FROM_DATE3' => 'С даты',
+    'T_VIEW_REPORT' => 'Просмотреть отчет',
+    'T_OUPUT_TO_XLS_F' => 'Вывод в .xls файл',
+    'T_BREAKDOWN' => 'Разбивка',
+    'T2' => 'По дате'
+};
