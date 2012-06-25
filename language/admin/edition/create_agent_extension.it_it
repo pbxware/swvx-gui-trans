@@ -1,6 +1,0 @@
-$VAR1 = {
-          'T_DIGITS_IN_LENGT' => 'Cifre in lunghezza',
-          '__INCLUDES' => [
-                            'incl_header',
-                          ]
-        };

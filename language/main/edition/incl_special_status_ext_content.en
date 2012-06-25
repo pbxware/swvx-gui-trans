@@ -1,4 +1,0 @@
-$VAR1 = {
-          'T_QUEUE_LOGIN_STA' => 'Queue Login Status',
-          'T_PARKING_LOT' => 'Parking Lot'
-        };

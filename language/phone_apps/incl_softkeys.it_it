@@ -1,6 +1,0 @@
-$VAR1 = {
-          'T_BACK' => 'Indietro',
-          'T_HOME' => 'Home',
-          'T_REFRESH' => 'Aggiorna',
-          'T_EXIT' => 'Esci'
-        };

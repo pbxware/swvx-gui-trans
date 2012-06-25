@@ -1,7 +1,0 @@
-$VAR1 = {
-          'T_YES_DELETE_RULE' => 'Sì, elimina regola',
-          '__INCLUDES' => [
-                            'incl_header',
-                          ],
-          'T_ARE_YOU_SURE_YO' => 'Eliminare definitivamente la regola in uscita'
-        };

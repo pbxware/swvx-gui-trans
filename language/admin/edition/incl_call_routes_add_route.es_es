@@ -1,4 +1,0 @@
-$VAR1 = {
-          'T_SINGLE_DID' => 'DID único',
-          'T_MULTIPLE_DID' => 'DID múltiple'
-        };

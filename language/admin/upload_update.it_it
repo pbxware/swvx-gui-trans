@@ -1,7 +1,0 @@
-$VAR1 = {
-          'T_UPLOAD' => 'carica',
-          '__INCLUDES' => [
-                            'incl_header',
-                          ],
-          'T_UPLOAD_UPDATE' => 'Carica file aggiornamento'
-        };

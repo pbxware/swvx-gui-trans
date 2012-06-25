@@ -1,5 +1,0 @@
-$VAR1 = {
-          'T_ACTION_TYPE25' => 'Tipo de acción',
-          'T_DTMF_DIGITS_TO' => 'Dígitos DTMF que se reproducirán',
-          'T_VARIABLE22' => '(Variable)'
-        };

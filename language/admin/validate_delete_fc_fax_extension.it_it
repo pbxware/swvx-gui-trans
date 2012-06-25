@@ -1,7 +1,0 @@
-$VAR1 = {
-          '__INCLUDES' => [
-                            'incl_header'
-                          ],
-          'T_YES_DELETE_EXT' => 'Sì, elimina codice funzione',
-          'T_ARE_YOU_SURE_YO' => 'Eliminare definitivamente questo codice funzione fax'
-        };

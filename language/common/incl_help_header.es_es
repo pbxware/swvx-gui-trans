@@ -1,5 +1,0 @@
-$VAR1 = {
-          'T_ERROR' => 'ERROR',
-          'T_CLOSE_WINDOW' => 'CERRAR VENTANA',
-          '__INCLUDES' => []
-        };

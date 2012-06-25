@@ -1,5 +1,0 @@
-$VAR1 = {
-          'T_ACTION' => 'Acción',
-          'T_NEW' => 'Nuevo',
-          'T_MODIFY' => 'Modificar'
-        };

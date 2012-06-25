@@ -1,5 +1,0 @@
-$VAR1 = {
-          'T_CALL_START_TIME' => 'Hora de inicio',
-          'T_STOP_RECORD' => 'Detener grabación',
-          'T_START_RECORD' => 'Grabar llamada'
-        };

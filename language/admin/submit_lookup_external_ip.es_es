@@ -1,7 +1,0 @@
-$VAR1 = {
-          '__INCLUDES' => [
-                            'incl_popupheader',
-                          ],
-          'T_CHOOSE_THIS_IP' => 'Seleccionar esta IP',
-          'T_EXTERNAL_IP_DET' => 'IP externa detectada'
-        };

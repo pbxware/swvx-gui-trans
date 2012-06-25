@@ -1,6 +1,0 @@
-$VAR1 = {
-          'T_GOOD498' => '¡SÍ! Se registró correctamente.',
-          '__INCLUDES' => [
-                            'incl_header',
-                          ]
-        };
