@@ -1,4 +1,5 @@
-Object.extend(switchvox.lang._LANG.keys,{PAGE_TITLE_CONF_SETT:["Конференц-зал"],
+Object.extend(switchvox.lang._LANG.keys,{
+PAGE_TITLE_CONF_SETT:["Конференц-комната"],
 PAGE_TITLE_CREATE:["Создать"],
 PAGE_TITLE_MODIFY:["Редактировать"],
 BTN_SAVE_CONF_SETT:["Сохранить"],
@@ -21,4 +22,4 @@ OPT_ONLY_SOUND:["Только звук"],
 OPT_SOUND_W_CALL_NM:["Звук и Имя"],
 OPT_MOD_USER_RV_OPT:["User Review Option"],
 MSG_CONFIRM_DELETE:["Вы уверены, что хотите удалить свой конференц-зал?"],
-VAL_CONF_ROOM_5_DIGITS:["Номер конференц-зала должен иметь 5 цифр и не может начинаться с нуля "0" "]});
+VAL_CONF_ROOM_5_DIGITS:["Номер конференц-зала должен иметь 5 цифр и не может начинаться с нуля '0'"]});
