@@ -41,7 +41,7 @@ T_VM_ALL_CALLS		=> 'all calls',
 T_VM_TO_VOICEMAI	=> 'to voicemail',
 T_VM_AFTER			=> 'after',
 T_VM_RINGS_WHEN		=> 'rings when time is',
-T_VM_ANYTIME		=> 'Anytime',
+T_VM_ANYTIME		=> 'В любое время',
 
 # unanswered_rules/voicemail
 T_CC_CASCADE		=> 'Cascade',
@@ -52,7 +52,7 @@ T_CC_TO				=> 'to',
 T_CC_AFTER			=> 'after',
 T_CC_RINGS			=> 'rings',
 T_CC_WHEN_TIME_I	=> 'when time is',
-T_CC_ANYTIME		=> 'Anytime',
+T_CC_ANYTIME		=> 'В любое время',
 T_CC_MAKE_SURE		=> 'Make sure you prepend the number required to make outgoing calls.',
 T_CC_EXAMPLE		=> 'Example',
 

@@ -7,7 +7,7 @@ my $LANG =
 T_PAGE_INTRO => 'There are three types of Phonebook entries',
 T_SYSTEM_EXT => 'System Extension',
 T_SYSTEM_EXT_DESC => 'Other extensions on your PBX.',
-T_EXTERNAL_NUMS => 'External Number',
+T_EXTERNAL_NUMS => 'Внешний номер',
 T_EXTERNAL_NUMS_DESC => q(
 Phone numbers outside of your PBX. Make sure to enter these as you 
 would dial them from your phone. For example, if you must dial 9 to get an external line,
