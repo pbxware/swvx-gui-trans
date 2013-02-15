@@ -75,4 +75,6 @@ T_CALLER_ID:["Caller ID"],
 T_CALL_DIRECTION:["Call Direction"],
 OPT_FROM:["From"],
 OPT_TO:["To"],
-T_SCARY_DELETE_RECORDING_SCHEDULE:["After deleting this call recording rule, you will not be able to archive all of the recordings it generated via an automated process. It is advised that you adjust the keep rules for this recording rule to archive all recordings prior to deleting it."]});
+T_SCARY_DELETE_RECORDING_SCHEDULE:["After deleting this call recording rule, you will not be able to archive all of the recordings it generated via an automated process. It is advised that you adjust the keep rules for this recording rule to archive all recordings prior to deleting it."],
+BTN_MODIFY_BACKUP:["Call Recording Settings"],
+T_ACCOUNT_DELETED:["Account Deleted"]});

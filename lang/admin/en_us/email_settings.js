@@ -11,5 +11,5 @@ T_EMAIL_SETTINGS:["SMTP Settings"],
 T_VOICEMAIL_NOTIF:["Notification Diagnostics"],
 T_ARE_USERS_NOT_R:["Are users not receiving notification emails?"],
 T_CUSTOMIZE_THE_S:["Server Settings"],
-VAL_ERR_SMTP_USER_PASS:["%s must be less than %s and may only contain letters, numbers, and the following characters: -_.,@#+%$*[]{}?/!:~=^"],
+VAL_ERR_SMTP_USER_PASS:["%s must be %s characters or less and may only contain letters, numbers, and the following characters: -_.,@#+%$*[]{}?/!:~=^"],
 VAL_SERVER_REQUIRED_4_USER_PASS:["%s is required to save username and password settings."]});

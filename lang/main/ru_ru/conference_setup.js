@@ -1,5 +1,4 @@
-Object.extend(switchvox.lang._LANG.keys,{
-PAGE_TITLE_CONF_SETT:["Конференц-комната"],
+Object.extend(switchvox.lang._LANG.keys,{PAGE_TITLE_CONF_SETT:["Конференц-комната"],
 PAGE_TITLE_CREATE:["Создать"],
 PAGE_TITLE_MODIFY:["Редактировать"],
 BTN_SAVE_CONF_SETT:["Сохранить"],

@@ -1,5 +1,4 @@
-Object.extend(switchvox.lang._LANG.keys,{
-PT_PHONE_FEATURES:["Функции телефона"],
+Object.extend(switchvox.lang._LANG.keys,{PT_PHONE_FEATURES:["Функции телефона"],
 TAB_PHONE_OPTS:["Телефон"],
 TAB_PHONE_OPTS_SUB:["Настройки"],
 TAB_RINGTONES:["Особый"],

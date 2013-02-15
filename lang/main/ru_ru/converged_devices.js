@@ -1,5 +1,4 @@
-Object.extend(switchvox.lang._LANG.keys,{
-VCD_NUM_EXT:["Номер/Внутр.номер"],
+Object.extend(switchvox.lang._LANG.keys,{VCD_NUM_EXT:["Номер/Внутр.номер"],
 VCD_DEL_EXT:["удалить номер"],
 VCD_LABEL:["Метка"],
 VCD_XFER_KEY:["Цифра перевода"],

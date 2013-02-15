@@ -1,5 +1,4 @@
-Object.extend(switchvox.lang._LANG.keys,{
-PT_CALL_RULE_SET:["Правила набора"],
+Object.extend(switchvox.lang._LANG.keys,{PT_CALL_RULE_SET:["Правила набора"],
 BTN_ADD_RULE:["Создать"],
 TABLE_HEAD_RULES:["Действия для плана набора"],
 TABLE_NO_DATA_RULES:["Нет действий."],

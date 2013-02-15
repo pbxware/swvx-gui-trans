@@ -1,5 +1,4 @@
-Object.extend(switchvox.lang._LANG.keys,{
-PT_EMAIL:["Email"],
+Object.extend(switchvox.lang._LANG.keys,{PT_EMAIL:["Email"],
 T_FWDING_DISABLED:["Эта функция отключена системным администратором."],
 T_LOCAL_NO_CHANGE:["Файл WAV будет всегда быть прикреплен к локальной копии."],
 E_VALID_EXT_TO_RING:["Пожалуйста, выберите внутренний номер."],

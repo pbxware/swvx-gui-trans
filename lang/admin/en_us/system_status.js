@@ -1,5 +1,5 @@
 Object.extend(switchvox.lang._LANG.keys,{
-PT_CONN_STATUS:["Состояние подключении"],
+PT_CONN_STATUS:["Connection Status"],
 PB_SIP:["See the current status of registered SIP phones, and diagnose any problems."],
 PB_HARDWARE:["This displays all channels on all installed hardware devices."],
 MSG_VOIP_LOADING:["Retrieving data for VOIP Providers"],

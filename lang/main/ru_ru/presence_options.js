@@ -1,5 +1,4 @@
-Object.extend(switchvox.lang._LANG.keys,{
-BTN_CREATE_PRES:["Создать статус"],
+Object.extend(switchvox.lang._LANG.keys,{BTN_CREATE_PRES:["Создать статус"],
 TH_PRESENCE_STATUS:["Полный статус"],
 TH_OWNER:["Владелец"],
 TT_SYSTEM_PRESENCE:["Это системный статус его нельзя изменить или удалить."],
