@@ -1,7 +1,7 @@
 Object.extend(switchvox.lang._LANG.keys,{PAGE_TITLE_CONF_SETT:["Конференц-комната"],
 PAGE_TITLE_CREATE:["Создать"],
 PAGE_TITLE_MODIFY:["Редактировать"],
-BTN_SAVE_CONF_SETT:["Сохранить"],
+BTN_SAVE_CONF_SETT:["Сохранить настройки конференции"],
 BTN_DEL_CONF_ROOM:["Удалить"],
 SECT_GEN_SETT:["Общие параметры"],
 SECT_CONF_ADM:["Администратор конференц-зала"],
