@@ -1,9 +1,9 @@
-Object.extend(switchvox.lang._LANG.keys,{DESC_EXTENSIONS:["Manage your extensions and phones, set up call routing, and give your administrators the appropriate permissions."],
-DESC_TOOLS:["Set up and manage your PBX tools such as Time Frames, IVR Menus, Voicemail, and Music on Hold."],
-DESC_REPORTING:["Get detailed usage reports about your calling patterns and queue activity."],
-DESC_SERVER:["Perform maintenance tasks, manage your server's network settings, and diagnose issues."],
+Object.extend(switchvox.lang._LANG.keys,{DESC_EXTENSIONS:["Управляйте вашими добавочными и телефонами, устанавливайте правила маршрутизации звонков и предоставьте вашим администраторам соответствующие права."],
+DESC_TOOLS:["Устанавливайте и управляйте инструментами вашей АТС, такими как Time Frames, меню IVR, голосовой почтой и музыкой на удержании."],
+DESC_REPORTING:["Получайте детальные отчеты о структуре ваших звонков и активности в очередях."],
+DESC_SERVER:["Проводите работы по поддержанию системы, управляйте настройками сети вашего сервера и диагностируйте проблемы."],
 TITLE_EXTENSIONS:["Setup"],
-TITLE_TOOLS:["Tools"],
-TITLE_REPORTING:["Reporting"],
-TITLE_SERVER:["Server"],
-UPT_ADMIN_HOME:["Administration Home"]});
+TITLE_TOOLS:["Инструменты"],
+TITLE_REPORTING:["Отчетность"],
+TITLE_SERVER:["Сервер"],
+UPT_ADMIN_HOME:["Главная страница администратора"]});

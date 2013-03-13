@@ -1,10 +1,10 @@
 Object.extend(switchvox.lang._LANG.keys,{T_IP_NETB_INFO:["IP/Netblock Info"],
 T_IP_NETB:["IP/Netblock"],
-T_SERVICE_BLOCKED:["Service Blocked"],
-T_DATE_BLOCKED:["Date Blocked"],
-T_LOGIN_ATTEMPTS:["Login Attempts"],
-T_NO_LOGIN_ATTEMPTS:["There are no login attempts for this IP Address/Netblock"],
+T_SERVICE_BLOCKED:["Услуга заблокирована"],
+T_DATE_BLOCKED:["Дата блокировки"],
+T_LOGIN_ATTEMPTS:["Попытки входа"],
+T_NO_LOGIN_ATTEMPTS:["Нет попыток входа для этого IP адреса/Netblock"],
 T_IP_ACC_TITLE:["IP Access Log"],
 T_SECTION:["Secction"],
-T_ACCOUNT:["Account"],
-T_DATE_ATTEMPTED:["Date Attempted"]});
+T_ACCOUNT:["Учетная запись"],
+T_DATE_ATTEMPTED:["Дата попытки"]});

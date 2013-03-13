@@ -1,5 +1,5 @@
 Object.extend(switchvox.lang._LANG.keys,{T_SUBJECT:["Объект"],
-T_TEMPLATE_NAME:["Имя шаблна"],
+T_TEMPLATE_NAME:["Имя шаблона"],
 T_CREATE_TEMPLATE:["Создать шаблон уведомления"],
 T_MODIFY_TEMPLATE:["Изменить шаблон уведомления"],
 T_RESTORE_TO_ORIG:["Восстановить исходный шаблон"],

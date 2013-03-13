@@ -1,9 +1,9 @@
-Object.extend(switchvox.lang._LANG.keys,{UPT_CREATE_CUSTOM_SB_PANEL:["Create Custom Switchboard Panel"],
-UPT_MODIFY_CUSTOM_SB_PANEL:["Modify Custom Switchboard Panel"],
-SAVE_PANEL:["Save Switchboard Panel"],
-SH_PANEL_SETTINGS:["Panel Settings"],
-SH_EXTENSIONS_ALLOWED:["Extensions allowed to use this panel"],
-T_PANEL_NAME:["Panel Name"],
-T_PANEL_DESCRIPTION:["Panel Description"],
-T_PANEL_URL:["Panel URL"],
-SUBMIT_CREATE_PANEL:["Create Custom Panel"]});
+Object.extend(switchvox.lang._LANG.keys,{UPT_CREATE_CUSTOM_SB_PANEL:["Создать персональную панель Switchboard"],
+UPT_MODIFY_CUSTOM_SB_PANEL:["Изменить персональную панель Switchboard"],
+SAVE_PANEL:["Сохранить панель Switchboard"],
+SH_PANEL_SETTINGS:["Настройки панели"],
+SH_EXTENSIONS_ALLOWED:["Доступные для этой панели добавочные"],
+T_PANEL_NAME:["Имя панели"],
+T_PANEL_DESCRIPTION:["Описание панели"],
+T_PANEL_URL:["URL панели"],
+SUBMIT_CREATE_PANEL:["Создать персональную панель"]});

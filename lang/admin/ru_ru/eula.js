@@ -1,5 +1,5 @@
-Object.extend(switchvox.lang._LANG.keys,{T_SAVE_SETTINGS:["Accept"],
-T_EULA:["End User License Agreement"],
-T_BLURB:["Each Administrative User must accept the following End User License Agreement before continuing."],
-T_CANCEL:["Cancel"],
+Object.extend(switchvox.lang._LANG.keys,{T_SAVE_SETTINGS:["Принять"],
+T_EULA:["Лицензионное соглашение с конечным пользователем"],
+T_BLURB:["Каждый административный пользователь должен принять следующее Лицензионное соглашение с конечным пользователем до того, как продолжить."],
+T_CANCEL:["Отменить"],
 });

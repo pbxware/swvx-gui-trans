@@ -1,3 +1,3 @@
-Object.extend(switchvox.lang._LANG.keys,{T_REREUN_DIAGNOSE:["Rerun Diagnose Email"],
-T_ENTER_AN_EMAIL:["Enter an email address to test outgoing email with: "],
-T_RUNNING_DIAG:["Running Diagnostic Tool"]});
+Object.extend(switchvox.lang._LANG.keys,{T_REREUN_DIAGNOSE:["Запустить диагностирование электронной почты еще раз"],
+T_ENTER_AN_EMAIL:["Введите адрес электронной почты для тестирования исходящей почты с: "],
+T_RUNNING_DIAG:["Использование инструмента диагностики"]});
