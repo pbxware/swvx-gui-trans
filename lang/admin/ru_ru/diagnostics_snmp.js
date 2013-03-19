@@ -1,4 +1,4 @@
-Object.extend(switchvox.lang._LANG.keys,{T_V1V2:["SNMP v1/v2c название сообщества],
+Object.extend(switchvox.lang._LANG.keys,{T_V1V2:["SNMP v1/v2c название сообщества"],
 T_V3_USERNAME:["Имя пользователя SNMP v3"],
 T_V3_PASSWORD:["Пароль пользователя SNMP v3"],
 T_SAVE_SNMP_SETTINGS:["Сохранить настройки SNMP"],
