@@ -1,7 +1,7 @@
 Object.extend(switchvox.lang._LANG.keys,{PT_MY_ACCOUNT:["Моя учетная запись"],
 T_FIRST_NAME:["Имя"],
 T_LAST_NAME:["Фамилия"],
-T_LANG_LOCALE:["Язык"],
+T_LANG_LOCALE:["Язык / Регион"],
 T_USER_CAN_EDIT:["Пользователь может редактировать"],
 T_EMAIL_ADDRESS:["Адрес электронной почты"],
 T_FOR_VOICEMAIL_N:["для уведомлений"],

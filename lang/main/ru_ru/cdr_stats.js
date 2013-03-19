@@ -56,7 +56,7 @@ OH_TOTAL_NUMBER_OF_OUTGOING_CALLS:["Всего исходящих звонков
 OH_TOTAL_TALKING_TIME:["Общее время разговора"],
 OH_TOTAL_CALL_DURATION:["Общая продолжительность звонков"],
 OH_AVERAGE_TALK_TIME_PER_CALL:["Среднее время разговора"],
-OH_AVERAGE_CALL_TIME_PER_CALL:["Средняя продолжительность звонков"],
+OH_AVERAGE_CALL_TIME_PER_CALL:["Средняя продолжительность звонка"],
 OH_REPORT_FIELDS:["Поля отчета"],
 SELECT_REPORT_FIELD:["Пожалуйста, выберите хотя бы одно поле."],
 CHART_ONLY_ONE:["Для графиков можно выбрать только одно поле"],

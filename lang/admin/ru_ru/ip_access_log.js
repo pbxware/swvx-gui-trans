@@ -5,6 +5,6 @@ T_DATE_BLOCKED:["Дата блокировки"],
 T_LOGIN_ATTEMPTS:["Попытки входа"],
 T_NO_LOGIN_ATTEMPTS:["Нет попыток входа для этого IP адреса/Netblock"],
 T_IP_ACC_TITLE:["IP Access Log"],
-T_SECTION:["Secction"],
+T_SECTION:["Раздел"],
 T_ACCOUNT:["Учетная запись"],
 T_DATE_ATTEMPTED:["Дата попытки"]});
