@@ -1,5 +1,5 @@
-Object.extend(switchvox.lang._LANG.keys,{T_SAVE_EXTENSION:["Сохранить добавочный"],
-T_REQUIRE_PASSWORD:["Требуется пароль на добавочный"],
+Object.extend(switchvox.lang._LANG.keys,{T_SAVE_EXTENSION:["Сохранить номер"],
+T_REQUIRE_PASSWORD:["Требуется пароль на внутренний номер"],
 T_EXTENSION_DESCRIPTION:["Длиной в 2 цифры"],
 T_FC_FAX:["Сервисный код Факс"],
 T_MODIFY_FC_FAX:["Сервисный код Факс"],

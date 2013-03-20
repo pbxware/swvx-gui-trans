@@ -1,6 +1,6 @@
-Object.extend(switchvox.lang._LANG.keys,{T_CREATE_EXTENSION_TEMPLATE:["Создать шаблон добавочного"],
+Object.extend(switchvox.lang._LANG.keys,{T_CREATE_EXTENSION_TEMPLATE:["Создать шаблон номера"],
 T_FETCHING_LIST:["Получение списка шаблонов"],
-T_EXTENSION_TEMPLATES:["Шаблоны добавочного"],
+T_EXTENSION_TEMPLATES:["Шаблоны внутренних номеров"],
 T_NO_EXTENSION_TEMPLATES:["Нет шаблонов."],
 COL_TEMPLATE_NAME:["Имя шаблона"],
 COL_DATE_CREATED:["Дата создания"],

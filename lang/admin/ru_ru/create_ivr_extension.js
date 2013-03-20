@@ -17,6 +17,6 @@ T_MODIFY_EXTENSION:["Изменить Внутренний номер IVR"],
 T_INTERRUPTIBLE:["Прерываемый"],
 T_IVR_SETTINGS:["Настройки IVR"],
 T_IVR_MENU_BEGINNING:["Начало меню IVR"],
-T_IVR_SAVE:["Сохранить добавочный IVR"],
+T_IVR_SAVE:["Сохранить номер IVR"],
 T_UPDATE_MSG:["Внутренний номер IVR успешно сохранен."],
 });

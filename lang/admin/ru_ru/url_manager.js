@@ -1,6 +1,6 @@
 Object.extend(switchvox.lang._LANG.keys,{URL_MAN_SAVE:["Сохранить триггер"],
 URL_MAN_ON_INC:["URL при событии входящего звонка"],
-URL_MAN_ON_ROUTE:["URL при маршрутизации на добавочный"],
+URL_MAN_ON_ROUTE:["URL при маршрутизации на внутренний номер"],
 URL_MAN_ON_CALL_ANS:["URL при событии отвеченного звонка"],
 URL_MAN_ON_NEW_VM:["URL при событии новой голосовой почты"],
 URL_MAN_ON_CHECK_VM:["URL для события проверенной голосовой почты"],
