@@ -1,0 +1,13 @@
+$VAR1 = {
+          'GBR_INVALID_SCHEDULE_END' => 'Fine programmazione non valida dopo numero di occorrenze. Deve essere un numero da 1-99999.',
+          'WND_END_DATE' => 'data di fine',
+          'CCG_INVALID_RECURRENCE_F' => 'Frequenza ricorrenza non valida. Esempio formato frequenza : 1Y,2M,3W,4D,5h,6m = 1 anno, 2 mesi, 3 settimane, 4 giorni, 5 ore, 6 minuti.',
+          'HPV_INVALID_DAY_OF_THE_W' => 'Nome della settimana non valido. Deve essere un numero tra 1 e 7 (1=lunedì,7=domenica) ',
+          'THS_REQUESTED_SCHEDULE_I' => 'Id programmazione richiesto inesistente nel sistema.',
+          'BMJ_START_DATE' => 'data di inizio',
+          'QWX_INVALID_MONTH_POSITI' => 'Posizione mese non valida. Deve essere primo, secondo, terzo, quarto o ultimo.',
+          'RAW_INVALID_MONTH_NUMBER' => 'Numero mese non valido. Deve essere un numero tra 1 e 12. (1=gennaio,12=dicembre) ',
+          'AGY_UNABLE_TO_DELETE_THI' => 'Impossibile eliminare la programmazione. È necessario rimuovere prima tutti i rapporti programmati utilizzati da questa programmazione.',
+          'HNI_INVALID_DAY_OF_THE_M' => 'Nome del giorno non valido. Deve essere un numero tra 1e 31.',
+          'CKH_INVALID_SCHEDULE_NAM' => 'Nome programmazione non valido. Nome programmazione può contenere solo alfanumerici ed avere una lunghezza tra 1 e 32 caratteri.'
+        };

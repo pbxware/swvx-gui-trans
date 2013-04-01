@@ -1,0 +1,9 @@
+$VAR1 = {
+          'ZFU_INVALID_CALLER_ID_NA' => 'Nom d\'ID d\'appelant non valide. Le nom d\'id appelant peut uniquement contenir des caractères alphanumériques, des espaces, des _ ou une &.',
+          'GTH_PROBLEMS_CONNECTING' => 'Problèmes de connexion au serveur asterisk (%1).',
+          'WOH_INVALID_VARIABLE_FOR' => 'Format de variable non valide pour paramètre (%1). Le format de variable doit être VARIABLE_NAME=VARIABLE_VALUE.',
+          'HGG_INVALID_DIAL_AS_EXTE' => 'Mauvaise composition de numéro de poste. Ce numéro de poste n\'existe pas dans le système ou est d\'un type non valide. Veuillez choisir un poste SIP, analogique ou virtuel valide.',
+          'ZJQ_INVALID_PHONE_NUMBER' => 'Le numéro de téléphone ou le numéro de poste n\'est pas valide pour le paramètre %1. Les numéros peuvent uniquement contenir des chiffres, * ou #.',
+          'UFZ_YOUR_CALL_FAILED_TO' => 'Votre appel n\'a pu être mis en relation (%1).',
+          'FVN_INVALID_TIMEOUT_MUS' => 'Délai maximal non valide. doit être un nombre compris entre 0 et 999.'
+        };

@@ -1,0 +1,8 @@
+$VAR1 = {
+          'AJX_YOU_ARE_NOT_ALLOWED' => 'No está autorizado a eliminar la plantilla de extensión predeterminada',
+          'CMH_MISSING_ACCOUNT_ID' => 'Falta el ID de cuenta',
+          'QSN_AN_EXTENSION_TEMPLAT' => 'Ya existe una plantilla de extensión con ese nombre. Por favor, elija un nombre diferente.',
+          'XKZ_MISSING_TEMPLATE_NAM' => 'Falta el nombre de la plantilla',
+          'HAN_MISSING_VALUES' => 'Faltan valores',
+          'OXY_DEFAULT' => 'Predeterminado'
+        };

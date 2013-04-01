@@ -1,0 +1,6 @@
+$VAR1 = {
+          'EZM_MISSING_THE_VALUES_T' => 'Valori mancanti per creare agente',
+          'SFJ_MISSING_DBO_IN_GET_A' => 'dbO mancante in get_all_queues',
+          'KNS_MISSING_EXTENSION_IN' => 'Estensione mancante in creazione estensione agente',
+          'ORT_MISSING_ACCOUNT_ID' => 'ID account mancante'
+        };

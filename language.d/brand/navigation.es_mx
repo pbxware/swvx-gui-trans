@@ -1,0 +1,4 @@
+$VAR1 = {
+          'N_VOICEMAIL' => 'Buzón de voz / Fax',
+          'N_VOICEMAIL_DESC' => 'Compruebe y administre el buzón de voz y el fax, grabe el saludo del buzón de voz y configure la notificación del mensaje.'
+        };

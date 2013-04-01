@@ -1,0 +1,18 @@
+$VAR1 = {
+          'OMT_A_PHONE_MUST_BE_MAPP' => 'A cada teléfono se le debe asignar una extensión sip válida antes de poder tener el estado configurado.',
+          'XNI_CUSTOM_SNOM_DIGITMAP' => 'El mapa de dígitos personalizado de Snom debe ser inferior a 1024 caracteres.',
+          'ZYS_YOU_MUST_SUPPLY_EITH' => 'Debe proporcionar o un estado, un host alternativo o un id_cuenta para actualizar este teléfono.',
+          'WKJ_YOU_MUST_SUPPLY_EITH' => 'Debe proporcionar o un estado o un id_cuenta para actualizar este teléfono.',
+          'MHN_THE_PHONE_AT_MAC_ADD' => 'No se pudo reiniciar el teléfono. Reinice manualmente este teléfono para completar las actualizaciones.',
+          'XBE_CUSTOM_NTP_SERVER_MU' => 'El Servidor NTP personalizado debe ser una URL válida con una longitud inferior a 512 caracteres.',
+          'UNL_A_PHONE_CANNOT_GO_FR' => 'Un teléfono no puede pasar de un estado desconocido a configurado. En primer lugar debe configurarse como sin asignación.',
+          'NQC_ONLY_VALUES_BETWEEN' => 'Los únicos valores válidos para la longitud de la extensión son los comprendidos entre 3 y 7 .',
+          'TDE_CUSTOM_POLYCOM_DIGIT' => 'El tiempo de espera del mapa de dígitos personalizado de Polycom debe ser una lista de números delimitados por barras verticales inferior a 768 caracteres.',
+          'RVA_PHONE_CANNOT_BE_SET' => 'El estado del teléfono no puede establecerse como configurado. No hay paquetes de funciones del teléfono disponibles.',
+          'LVQ_YOU_MUST_PASS_IN_AT' => 'Debe incluir al menos una opción del teléfono para la actualización.',
+          'ERR_NON_NUMERIC_PHONE_ID' => 'Error interno: ID de teléfono no numérico',
+          'TBG_THE_ACCOUNT_ID_PASSE' => 'El id_cuenta introducido ya fue asignado a otro teléfono.',
+          'MQP_INVALID_PHONE_STATE' => 'Estado de teléfono no válido. Los estados válidos son: desconocido, sin mapear y configurado.',
+          'HHX_CUSTOM_POLYCOM_DIGIT' => 'El mapa de dígitos personalizado para Snom debe tener menos de 768 caracteres.',
+          'XFD_THE_ACCOUNT_ID_MUST' => 'El id_cuenta debe referirse a la extensión SIP.'
+        };

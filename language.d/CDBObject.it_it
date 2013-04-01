@@ -1,0 +1,4 @@
+$VAR1 = {
+          'ARG_MISSING_UID_IN_CALLE' => 'UID mancante in chiamati per query_cdfb\\n',
+          'YFE_PERMISSION_FAILURE_O' => 'Permesso non riuscito su CDB:(%1) (%2)\\n'
+        };

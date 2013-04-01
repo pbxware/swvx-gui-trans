@@ -1,0 +1,8 @@
+$VAR1 = {
+          'PBX_RESPONSE_FROM_DIGIUM' => 'Respuesta de Digium: <pre>%1</pre>',
+          'OPY_ONE_OR_MORE_DB_VALUE' => 'no se han ajustado uno o más valores de la base de datos. La descarga no puede continuar',
+          'IFA_COULD_NOT_FETCH_NEED' => 'No pudieron recuperar los archivos necesarios',
+          'FIH_THERE_WAS_AN_ISSUE_I' => 'Se ha detectado un problema al instalar su licencia G729. <br/>',
+          'HOA_ERROR_ACCESSING_DB' => 'Error al acceder a la base de datos',
+          'PCJ_MOVING_THE_FILES_INT' => 'se ha producido un fallo al mover los archivos a su ubicación'
+        };

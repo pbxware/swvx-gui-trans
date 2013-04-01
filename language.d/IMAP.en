@@ -1,0 +1,13 @@
+$VAR1 = {
+          'UXM_COULD_NOT_OPEN_MIME' => 'Could not open MIME cache dir',
+          'MBF_INCORRECT_ARGS' => 'incorrect args',
+          'SGO_COULD_NOT_OPEN_TEMPF' => 'Could not open tempfile: %1',
+          'GFX_MISSING_FOLDER_ANDO' => 'missing folder and/or uid',
+          'DXB_MISSING_FOLDER' => 'Missing folder',
+          'IOA_CANNOT_MOVE_MESSAGES' => 'cannot move messages between fax and voicemail folders',
+          'BPY_COULD_NOT_CREATE_NEW' => 'Could not create new IMAP folder: Missing Folder Name',
+          'NCL_MESSAGE_HAS_BEEN_FOR' => 'Message has been forwarded over %1 times. Possible infinite forwarding',
+          'FHH_UNABLE_TO_APPEND_MES' => 'Unable to append message: %1',
+          'OBX_COULD_NOT_READ_MIME' => 'Could not read MIME cache file',
+          'TKF_COULD_NOT_OPEN_MIME' => 'Could not open MIME cache file'
+        };

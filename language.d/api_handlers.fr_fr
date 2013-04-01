@@ -1,0 +1,11 @@
+$VAR1 = {
+          'API_MISSING_METHOD' => 'Méthode manquante pour votre requête.',
+          'ZTW_MISSING_THE_REQUEST' => 'Tableau de requêtes manquant pour votre requête par lot.',
+          'API_EMPTY_XML' => 'Votre requête XML était vide.',
+          'API_METHOD_NOT_FOUND' => 'La méthode demandée (%1) est introuvable.',
+          'API_PARSE_REQUEST' => 'Erreur lors du traitement de votre requête XML. Erreur XML: %1.',
+          'DWT_YOUR_JSON_REQUEST_IS' => 'Votre requête JSON n\'est pas correctement structurée.',
+          'YEN_YOU_DO_NOT_HAVE_THE' => 'Vous n\'avez pas les permissions requises pour exécuter cette méthode d\'API.',
+          'API_XML_RESPONSE_PARSE' => 'Erreur de d\'interprétation de votre réponse XML.  Erreur XML: %1',
+          'SAQ_THE_POST_BODY_OF_YOU' => 'Le corps de votre requête JSON était vide.'
+        };

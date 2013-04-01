@@ -1,0 +1,12 @@
+$VAR1 = {
+          'PLM_MISSING_DB_GET_INFO' => 'oggetto database mancante in chiamata per get_call_recording_info',
+          'ERX_MISSING_DB_GET' => ' database mancante in chiamata per get_recorded_call_path',
+          'IXR_MISSING_DATA_MODIFY' => 'Dati mancanti in chiamata per modify_call_recording',
+          'GTD_MISSING_DB_CREATE' => 'Database mancante in chiamata per create_call_recording',
+          'TAC_MISSING_ID_DELETE' => 'call_recordings_id mancante in chiamata per delete_recorded_calls',
+          'XRD_MISSING_DB_DELETE' => 'Database mancante in chiamata per delete_call_recording',
+          'IHY_MISSING_DB_DELETE_REC' => 'Database mancante in chiamata per delete_call_recording',
+          'ERW_MISSING_ID_GET' => 'recorded_calls_id mancante in chiamata per get_recorded_call_path',
+          'TDZ_MISSING_DB_MODIFY' => 'Database mancante in chiamata per modify_call_recording',
+          'JBG_MISSING_DATA_CREATE' => 'Dati mancanti in chiamata per create_call_recording'
+        };

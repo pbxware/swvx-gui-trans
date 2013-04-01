@@ -1,0 +1,15 @@
+$VAR1 = {
+          'UMC_INVALID_FILE_HANDLE' => 'Ricevuto file handle (%1) non valido per il file caricato.',
+          'ZDR_INVALID_SYNC_STATUS' => 'Stato_sincronizzazione (%1) non valido. Il valore deve essere IN ATTESAESEGUITO o NON RIUSCITO.',
+          'GYA_EVENT_IS_PENDING' => 'L\'evento %1 è ancora in attesa.  Impostare il flag forza eliminazione per cancellare un evento in attesa.',
+          'JKI_PEER_SYNC_ERROR' => 'Errore sincronizzazione peer: %1 : (%2) %3',
+          'ZPL_THERE_IS_A_VERSION_M' => 'La versione del peer %1 non corrisponde a quella di questo server.',
+          'DWR_UNKNOWN_PEER_VERSION' => 'La versione del peer %1 è sconosciuta.  Attendere che il peer sia connesso a questo server prima di continuare.',
+          'EAS_THE_1_PEER_VERSION' => 'La versione del peer %1 non è compatibile con questo server.',
+          'MOB_SERVER_UUID_MISMATCH' => 'L\'UUID del server remoto non corrisponde alla copia locale.',
+          'MXG_EXTENSION_CONFLICT' => 'L\'estensione %1 %2 è in conflitto con l\'estensione %3 %4.',
+          'MHQ_INVALID_EVENT_ID_1' => 'Id_evento %1 non valido. Gli id_eventi possono contenere solo cifre.',
+          'ZYZ_REMOTE_PEER_SYNC_ERR' => 'Errore (%1) Sincronizzazione peer remoto: %2 : (%3) %4',
+          'GXH_THE_REQUESTED_EVENT' => 'L\'id_evento (%1) richiesto è inesistente.',
+          'PCJ_CALL_RULE_CONFLICT' => 'Le estensioni %1 possono entrare in conflitto con la regola di chiamata in uscita %2 su questo server.'
+        };

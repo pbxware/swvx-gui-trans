@@ -1,0 +1,4 @@
+$VAR1 = {
+          'DCC_DIGIT_MAP_ERROR' => 'Votre demande de mise à jour des options du Pack de Fonctions de Téléphone n\'a pu être achevée.',
+          'KLU_DIGIT_MAP_INVALID' => 'Votre demande de mise à jour des paramètres digitmap de configuration du téléphone contient une entrée non valide.'
+        };

@@ -1,0 +1,22 @@
+$VAR1 = {
+          'E_DATE_RANGE_ERROR' => 'La "Fecha hasta" es anterior a su "Fecha desde',
+          'E_MISSING_CALLER_ID_NAME' => 'Debe introducir un número o nombre de ID de la persona que llama.',
+          'E_INVALID_START_DATE' => 'Fecha de inicio no válida. El formato de fecha es (dd/mm/aaaa)',
+          'E_INVALID_SORT_FIELD' => 'Campo de clasificación no válido',
+          'E_INVALID_REPORT_FIELD' => 'Report_field no válido (%1)',
+          'E_CHART' => 'Sólo puede incluir 1 campo en la tabla al mismo tiempo.',
+          'E_INVALID_REPORT_FORMAT' => 'Formato no válido',
+          'E_INVALID_END_DATE' => 'Fecha de finalización no válida. El formato de fecha es (dd/mm/aaaa)',
+          'E_INVALID_SORT_ORDER' => 'Orden de clasificación no válido',
+          'E_SEARCH_NUMBER_TOO_SHORT' => 'Su número de búsqueda debe ser de al menos 2 dígitos',
+          'E_INVALID_BREAKDOWN' => 'Desglose no válido',
+          'FPR_INCOMING_DID_IS_INVA' => 'El número DID de entrada no es válido. Debe ser un número de entre 3 y 32 caracteres de longitud.',
+          'E_PAGE_NUMBER_NUM_ONLY' => 'Page_number solo puede contener dígitos',
+          'WUD_COULD_NOT_WRITE_GRAP' => 'El archivo de gráficos no se escribió en el disco (%1)',
+          'E_INVALID_SEARCH_TYPE' => 'Tipo de búsqueda no válida',
+          'E_SEARCH_NAME_TOO_SHORT' => 'Su nombre de búsqueda debe tener al menos 2 caracteres',
+          'E_ITEMS_PER_PAGE_NUM_ONLY' => 'items_per_page sólo puede contener dígitos',
+          'VRL_COULD_NOT_PLOT_GRAPH' => 'No se pudo trazar el archivo del gráfico (%1)',
+          'E_INVALID_IGNORE_WEEKENDS' => 'Ignore_weekends no válido',
+          'E_MISSING_ACCOUNT' => 'Debe facilitar al menos 1 cuenta y/ un ID de proveedor'
+        };

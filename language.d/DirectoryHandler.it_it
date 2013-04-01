@@ -1,0 +1,17 @@
+$VAR1 = {
+          'IZQ_MISSING_COLLECTION_I' => 'ID raccolta mancante',
+          'MSR_MISSING_THE_DIRECTOR' => 'Tipo ricerca directory mancante',
+          'UPI_INVALID_EXIT_EXTENSI' => 'Estensione uscita non valida',
+          'XPH_SUCCESSFULLY_MODIFIE' => 'Modifica estensione directory riuscita',
+          'TZX_DEFAULT_GROUP' => 'Gruppo predefinito',
+          'JKJ_CAN_DIAL_FROM_IVR' => 'Possibilità di composizione da IVR',
+          'QJP_MISSING_COLLECTION_T' => 'Tipo raccolta mancante',
+          'FGA_SUCCESSFULLY_DELETED' => 'Eliminazione estensione directory riuscita.',
+          'KQU_EXTENSION_MUST_BE_C' => 'L\'estensione deve avere una lunghezza di %1 cifre.',
+          'ISZ_MISSING_YOUR_MEMBERS' => 'Membri personali mancanti',
+          'NZQ_EXTENSION_MUST_BE_C' => 'L\'estensione deve avere una lunghezza di %1 cifre.',
+          'UGK_MISSING_THE_CALL_QUE' => 'ID coda chiamata mancante',
+          'DBK_MISSING_THE_DIRECTOR' => 'Tipo ricerca directory mancante',
+          'UVM_MISSING_INDIVIDUALS' => 'Scelta individuale o gruppo mancante',
+          'SFT_MISSING_ACCOUNT_ID' => 'ID account mancante'
+        };

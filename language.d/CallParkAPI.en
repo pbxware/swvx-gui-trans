@@ -1,0 +1,16 @@
+$VAR1 = {
+          'TLS_MISSING_EXTENSION_IN' => 'Missing Extension in extension creation',
+          'WAA_YOUR_CALL_PARK_EXTEN' => 'Your call park extension can not be included in your parking lot. Please choose a different extension or a different parking lot range.',
+          'NYO_THE_RANGE_OF_RESERVE' => 'The range of reserved parking lot extensions cannot include more than 99 extensions.',
+          'PFA_THE_PARKING_LOT_END' => 'The parking lot end extension must be greater than the parking lot begining.',
+          'YLA_MISSING_ACCOUNT_ID' => 'Missing Account ID',
+          'EAB_MISSING_ID_IN_GET_CA' => 'Missing id in get_call_queue_values',
+          'JET_MISSING_EXTENSION_IN' => 'Missing Extension in agent extension creation',
+          'XIX_INTERNAL' => 'Internal',
+          'YGV_LONG_DISTANCE' => 'Long Distance',
+          'PLM_ONE_NINE_HUNDRED' => '1-900 Numbers',
+          'RPX_TOLL_FREE' => 'Toll Free',
+          'HCH_LOCAL' => 'Local',
+          'RFR_NINE_ONE_ONE' => '911',
+          'ZAZ_INTERNATIONAL' => 'International',
+        };

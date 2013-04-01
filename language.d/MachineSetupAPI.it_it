@@ -1,0 +1,9 @@
+$VAR1 = {
+          'SWU_MISSING_OUTGOING_RUL' => 'Id regola in uscita mancante',
+          'KLZ_THERE_IS_A_PROBLEM_W' => 'Problema con l\'espressione regolare.',
+          'KIS_MISSING_DATA' => 'Dati mancanti',
+          'NTK_MISSING_OUTGOING_RUL' => 'Regole in uscita mancanti in riordina',
+          'CQC_MISSING_CGI' => 'CGI mancante',
+          'ALI_INVALID_OUTGOING_CON' => 'Regola contesto in uscita non valida. Nessuna priorità.',
+          'AYT_MISSING_DATABASE_OBJ' => 'Oggetto database mancante'
+        };

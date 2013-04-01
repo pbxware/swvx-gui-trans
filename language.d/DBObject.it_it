@@ -1,0 +1,16 @@
+$VAR1 = {
+          'NYK_DB_LABEL_LABEL_NO' => 'Etichetta db [%1] non trovata. O param incompleti',
+          'LZF_DB_CONNECTION_ERROR' => 'Errore connessione DB: %1',
+          'CAP_FAILED_TO_CONNECT_TO' => 'Impossibile connettersi al database (%1)',
+          'UNX_DB_PREP_ERROR_ERR' => 'Errore prep DB: %1',
+          'HUH_BEGIN_TRANSACTION' => 'Inizio transazione',
+          'DDO_PROBLEMS_STORING_YOU' => 'Problemi durante l\'archiviazione delle modifiche. Riprovare più tardi.',
+          'UEO_PROBLEMS_EXECUTING_S' => 'Problemi durante l\'esecuzione del database sql',
+          'UDL_DB_ERROR_ERR' => 'Error DB: %1',
+          'HOL_DATABASE_ERROR_ER' => 'Errore database: (%1)',
+          'TIT_MISSING_DATABASE' => 'Database mancante',
+          'JOF_PROBLEMS_STORING_YOU' => 'Problemi durante l\'archiviazione delle modifiche. Riprovare più tardi. (%1)',
+          'OEJ_DB_EXECUTION_ERROR' => 'Errore esecuzione DB: %1',
+          'EYY_PROBLEMS_QUERY_DATAB' => 'Problemi durante l\'interrogazione del database',
+          'STS_RECONNECT_SUCCESSFUL' => 'Riconnessione riuscita'
+        };

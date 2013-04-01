@@ -1,0 +1,7 @@
+$VAR1 = {
+          'QAX_TECH_SUPPORT_ACCESS' => 'L\'accesso all\'assistenza tecnica è stato abilitato.  Assicurarsi di disabilitarlo al termine.',
+          'AKW_PROBLEMS_RETRIEVING' => 'Problemi durante il recupero del file archiviato',
+          'UKJ_TECH_SUPPORT_ACCESS' => 'L\'accesso all\'assistenza tecnica è stato disabilitato.',
+          'SHC_DID_NOT_RECIEVE_A_PR' => 'Non è stato possibile ricevere una risposta adeguata dal servizio web di assistenza.',
+          'QWE_YOUR_TSR_REPORT_WAS' => 'L\'invio del rapporto TSR è riuscito.'
+        };

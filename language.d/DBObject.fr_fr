@@ -1,0 +1,16 @@
+$VAR1 = {
+          'LZF_DB_CONNECTION_ERROR' => 'Erreur de connexion à la BD: %1',
+          'NYK_DB_LABEL_LABEL_NO' => 'Label BDD [%1] introuvable.  Ou paramètres incomplets.',
+          'UNX_DB_PREP_ERROR_ERR' => 'Erreur prép. BDD :  %1',
+          'CAP_FAILED_TO_CONNECT_TO' => 'Impossible de se connecter à la base de données (%1)',
+          'HUH_BEGIN_TRANSACTION' => 'Début transaction',
+          'DDO_PROBLEMS_STORING_YOU' => 'Problèmes pour sauvegarder vos modifications.  Veuillez essayer à nouveau.',
+          'UEO_PROBLEMS_EXECUTING_S' => 'Problèmes d\'exécution de SQL',
+          'UDL_DB_ERROR_ERR' => 'Erreur de BDD: %1',
+          'HOL_DATABASE_ERROR_ER' => 'Erreur de base de données :  (%1)',
+          'TIT_MISSING_DATABASE' => 'Base de données manquante',
+          'JOF_PROBLEMS_STORING_YOU' => 'Problèmes pour sauvegarder vos modifications.  Veuillez essayer à nouveau. (%1)',
+          'EYY_PROBLEMS_QUERY_DATAB' => 'Problèmes de requête de base de données',
+          'OEJ_DB_EXECUTION_ERROR' => 'Erreur d\'exécution BDD :  %1',
+          'STS_RECONNECT_SUCCESSFUL' => 'Reconnexion réussie'
+        };

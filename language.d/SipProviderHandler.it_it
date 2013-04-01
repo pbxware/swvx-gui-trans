@@ -1,0 +1,18 @@
+$VAR1 = {
+          'XIX_INTERNAL' => 'Interni',
+          'HCH_LOCAL' => 'Locali',
+          'PLM_ONE_NINE_HUNDRED' => 'Numeri 1-900',
+          'ZAZ_INTERNATIONAL' => 'Internazionali',
+          'REY_YOU_MUST_CHOOSE_AT_L' => 'È necessario scegliere almeno 1 codec',
+          'NBM_INVALID_SIP_EXPIRY' => 'Scadenza Sip non valida. Deve avere una lunghezza di 0-4 cifre',
+          'BWM_MISSING_THE_SIP_PROV' => 'Fornitore Sip mancante',
+          'LZV_SUCCESSFULLY_ADDED_N' => 'Aggiunta nuovo fornitore SIP riuscita.',
+          'NNN_A_SIP_PROVIDER_WITH' => 'Esiste già un fornitore SIP con questo nome nel sistema. Scegliere un nuovo nome.',
+          'RFR_NINE_ONE_ONE' => '911',
+          'FGN_SUCCESSFULLY_MODIFIE' => 'Modifica fornitore sip riuscita.',
+          'YGV_LONG_DISTANCE' => 'Interurbani',
+          'USL_PROVIDER_ID_IS_MISSI' => 'ID fornitore mancante',
+          'WWD_MISSING_THE_SIP_PROV' => 'Fornitore Sip mancante',
+          'EMR_SUCCESSFULLY_DELETE' => 'Fornitore SIP eliminato correttamente',
+          'RPX_TOLL_FREE' => 'Numeri verdi'
+        };

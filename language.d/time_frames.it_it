@@ -1,0 +1,3 @@
+$VAR1 = {
+          'ERC_INVALID_TIME_FRAME_I' => 'Id intervallo di tempo non valido (%1). Id intervallo di tempo deve essere di cifre.'
+        };

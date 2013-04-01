@@ -1,0 +1,10 @@
+$VAR1 = {
+          'XIX_INTERNAL' => 'Interni',
+          'RFR_NINE_ONE_ONE' => '911',
+          'TXL_A_IAX_PROVIDER_WITH' => 'Un provider IAX con questo nome è già esistente sul vostro sistema. Scegliere un altro nome.',
+          'HCH_LOCAL' => 'Locali',
+          'PLM_ONE_NINE_HUNDRED' => 'Numeri 1-900',
+          'YGV_LONG_DISTANCE' => 'Interurbani',
+          'ZAZ_INTERNATIONAL' => 'Internazionali',
+          'RPX_TOLL_FREE' => 'Numeri verdi'
+        };

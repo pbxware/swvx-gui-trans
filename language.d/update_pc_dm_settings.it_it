@@ -1,0 +1,4 @@
+$VAR1 = {
+          'DCC_DIGIT_MAP_ERROR' => 'La tua richiesta di aggiornamento Telefono Feature Pack opzioni potrebbero non essere completato.',
+          'KLU_DIGIT_MAP_INVALID' => 'La richiesta di aggiornamento delle impostazioni di mappatura cifre di configurazione telefono conteneva un input non valido.'
+        };

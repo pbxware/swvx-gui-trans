@@ -1,0 +1,8 @@
+$VAR1 = {
+          'PBX_BRAND_NAME' => 'Switchvox',
+          'OPH_BRAND_IN_FAX' => 'Switchvox',
+          'OBT_COPYRIGHT_TEXT' => 'Todos los derechos reservados &copy; 2011 Digium, Inc.',
+          'ERX_COPYRIGHT_HTML' => 'Todos los derechos reservados &copy; 2011, <a style="color:#fff;" href="http://www.digium.com">Digium, Inc</a>',
+          'PBX_A__BRAND_NAME' => 'un Switchvox',
+          'JKL_EMAIL_FROM_ADDRESS' => 'Digium Switchvox'
+        };

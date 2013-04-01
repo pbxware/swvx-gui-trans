@@ -1,0 +1,6 @@
+$VAR1 = {
+          'GJC_INVALID_VALUE_ENTERE' => 'Valor introducido no válido',
+          'TWP_NO_MAPPING' => 'Sin direccionamiento',
+          'PGD_SUCCESSFULLY_SET_YOU' => 'Se ha configurado correctamente la visibilidad de los proveedores VOIP',
+          'BRE_INVALID_VALUE_ENTERE' => 'Valor introducido no válido'
+        };

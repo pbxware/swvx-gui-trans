@@ -1,0 +1,13 @@
+$VAR1 = {
+          'ZBT_DELETE_DELETED_AN_AB' => '\'Supprimer\' a supprimé un nombre anormal de lignes: %1',
+          'SYC_UPDATE_AFFECTED_AN_A' => '\'Mettre à jour\' a affecté un nombre anormal de lignes: %1',
+          'OSJ_INVALID_CONTEXT_OR_C' => 'Contexte ou id de contexte non valide',
+          'WGM_INVALID_OR_MISSING_A' => 'Id de compte non valide ou manquant',
+          'UTH_UNKNOWN_CONTEXT_ID' => 'ID de contexte inconnu: %1',
+          'KDH_INVALID_CHANNEL_STRI' => 'Chaîne de canal non valide',
+          'VUT_UNABLE_TO_DETERMINE' => 'Impossible de déterminer l\'id de fournisseur',
+          'RGB_INVALID_1_OUTGOING' => '%1 non valide. La règle pour les appels sortants doit avoir un état et un id.',
+          'IWD_INVALID_ARGS_ACCO' => 'Args non valides: (%1, %2)',
+          'FGC_ERROR_FROM_FILENAME' => 'Erreur d\'%1: %2 dans %3 - %4',
+          'OHU_CANT_UPDATE_A_CONTE' => 'Impossible de mettre à jour un contexte sans outgoing_context_id'
+        };

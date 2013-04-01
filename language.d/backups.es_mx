@@ -1,0 +1,17 @@
+$VAR1 = {
+          'E_BACKUP_FTPPATH' => 'Se necesita una ruta FTP que debe tener entre 1 y 255 caracteres de largo.',
+          'E_BACKUP_FTPHOST' => 'Se necesita un host FTP que debe tener entre 1 y 64 caracteres de largo.',
+          'E_BACKUP_NO_WRITE' => 'El acceso fue correcto, al igual que la ruta, pero no se pudo cargar un archivo de prueba.<br/>Asegúrese de que tiene permisos de escritura en esta ruta.',
+          'E_BACKUP_TIME' => 'Su hora de copia de seguridad es incorrecta. (Ejemplo 2:00)',
+          'E_BACKUP_NO_CONNECTION' => 'No se pudo establecer ninguna conexión con el servidor ftp.<br/>Asegúrese de que escribió el host correctamente, que hay un servidor ftp válido en funcionamiento y que su máquina PBX tiene una ruta a su host ftp (por ejemplo, sin restricciones debidas al firewall).',
+          'E_BACKUP_FTPUSER' => 'Se necesita un usuario FTP que debe tener entre 1 y 32 caracteres de largo.',
+          'E_BACKUP_NO_PATH' => 'El acceso fue correcto, pero no se pudo acceder a la ruta FTP indicada.<br/>Asegúrese de que la ruta existe y de que tiene los permisos adecuados para acceder a esta ruta.',
+          'E_BACKUP_NO_LOGIN' => 'No se pudo conectar a su servidor ftp. Asegúrese de que introdujo el nombre de usuario y la contraseña correctos para este servidor.',
+          'WGQ_INSTALLING_ADDITIONA' => 'Instalando módulo adicional.',
+          'E_BACKUP_NUMBACKUPS' => 'Número de copias de seguridad no válido (1-99)',
+          'E_BACKUP_NO_DELETE' => 'El acceso fue correcto, la ruta es correcta, y el archivo de prueba se escribió correctamente, pero no se pudo eliminar dicho archivo.<br/>Asegúrese de que tiene permisos de eliminación para esta ruta.',
+          'OPN_SUCCESSFULLY_INSTALL' => 'El módulo rpm se instaló correctamente.',
+          'E_BACKUP_SUFFIX' => 'Es necesario su sufijo de copia de seguridad.',
+          'E_BACKUP_WEEKDAY' => 'Debe seleccionar qué día se realizará esta copia de seguridad',
+          'E_BACKUP_FTPPASS' => 'Se necesita una contraseña FTP que debe tener entre 1 y 32 caracteres de largo.'
+        };

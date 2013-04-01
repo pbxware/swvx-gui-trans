@@ -1,0 +1,8 @@
+$VAR1 = {
+          'BHU_PROB_DL_REG_FILE' => 'Problème de téléchargement du fichier d\'enregistrement.',
+          'TGX_UNABLE_SPAWN_UPDATE' => 'Impossible de lancer le processus de mise à jour.',
+          'FDD_PROB_FETCH_LIC' => 'Problèmes de récupération du fichier de licence.  Veuillez essayer à nouveau',
+          'YYH_PROB_DL_LIC' => 'Problèmes de téléchargement du fichier de licence.  Veuillez essayer à nouveau',
+          'TGC_PROB_GETTING_MAC' => 'Impossible d\'obtenir l\'adresse MAC de votre machine. Peut-être que le matériel n\'est pas standard ?',
+          'XUJ_PROB_SUBMIT_CONFIG' => 'Problèmes pour envoyer votre fichier de configuration.  Veuillez essayer à nouveau'
+        };

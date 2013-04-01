@@ -1,0 +1,21 @@
+$VAR1 = {
+          'YHE_ERROR_OPENING_AUTHOR' => 'Se produjo un error al abrir el archivo de autorización.',
+          'OPM_COULD_NOT_CONNECT_TO' => 'No se pudo conectar a %1 (posible caída del servidor).',
+          'FYS_MISSING_OR_CORRUPT_C' => 'El archivo de certificado CA está corrupto o no puede encontrarse.',
+          'MJB_COULD_NOT_CONNECT_TO' => 'No se pudo conectar con el soporte técnico de Switchvox (error desconocido).',
+          'SLY_TIMED_OUT_TRYING_TO' => 'Tiempo agotado para intentar conectar con %1 (compruebe la conectividad de la red).',
+          'NKF_UNABLE_TO_RETRIEVE_R' => 'No se pudo recuperar el código de registro.',
+          'YLF_SUCCESSFULLY_CONNECT' => 'Conectado correctamente a %1 con la dirección IP %2.',
+          'JJT_COULD_NOT_RESOLVE_HO' => 'No se pudo solucionar la dirección de alojamiento %1.',
+          'GFR_CLIENT_ASSIGNED_IP_A' => 'Dirección IP asignada al cliente %1.',
+          'PNZ_MISSING_OR_CORRUPT_C' => 'El archivo de certificado del cliente está corrupto o no puede encontrarse.',
+          'FKE_ATTEMPTING_TO_CONNEC' => 'Intentando conectar con (%1).',
+          'HXE_YOU_ARE_ALREADY_CONN' => 'Ya está conectado con el Soporte técnico de Switchvox.',
+          'LZE_ERROR_READING_AUTHOR' => 'Se produjo un error al leer el archivo de autorización.',
+          'HNJ_AUTHORIZATION_ERROR' => 'Error de autorización (cuenta desactivada o nombre de usuario/contraseña no válido).',
+          'LRS_CLIENT_CONNECTION_IN' => 'La conexión del cliente se inició en el servidor (%1).',
+          'LDB_CONNECTED_TO_1_SUCC' => 'Se conectó a %1 correctamente, pero el cliente cayó inesperadamente.',
+          'ILW_ERROR_OPENING_CONFIG' => 'Se produjo un error al abrir el archivo de configuración.',
+          'DYB_UNABLE_TO_CREATE_AUT' => 'Fue imposible crear el archivo de autorización.',
+          'PFK_MISSING_OR_CORRUPT_P' => 'El archivo de clave privada está corrupto o no puede encontrarse.'
+        };

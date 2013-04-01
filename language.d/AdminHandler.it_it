@@ -1,0 +1,18 @@
+$VAR1 = {
+          'DFZ_TOTAL_BILLABLE' => 'Fatturabile totale',
+          'WON_SUCCESSFULLY_CHANGED' => 'Impossibile modificare la password amministratore.',
+          'OYA_WEEKENDS_ONLY' => 'Solo nei weekend',
+          'UJB_VOIP_PROVIDER_REMIND' => 'Promemoria fornitore VOIP',
+          'WEL_YOU_ARE_ONLY_ALLOWED' => 'È possibile impostare l\'account iniziale solo una volta',
+          'IJX_ADMIN' => 'Amministratore',
+          'FLU_SUCCESSFULLY_LOGGED' => 'Connessione come estensione riuscita (%1)',
+          'OXO_DURING_BUSINESS' => 'Durante l\'orario lavorativo',
+          'WWU_THIS_SYSTEM_HAS_NOT' => 'Il sistema non è stato registrato',
+          'RDO_TOTAL_DURATION' => 'Durata totale',
+          'DYT_MISSING_THE_NEW_MAX' => 'Nuovo max mancante',
+          'UMD_SUCCESSFULLY_MODIFIE' => 'Modifica Impostazioni agente riuscita.',
+          'WBI_MISSING_THE_ADMIN_ID' => 'ID amministratore mancante',
+          'OPP_OUTSIDE_BUSINESS' => 'Al di fuori dell\'orario lavorativo',
+          'HRB_SUCCESSFULLY_ENABLED' => 'Francese attivato correttamente',
+          'KBQ_PARAMETER_VALUE_MUST' => 'Il valore del parametro deve essere "on" o "off".',
+        };

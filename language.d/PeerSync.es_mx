@@ -1,0 +1,15 @@
+$VAR1 = {
+          'UMC_INVALID_FILE_HANDLE' => 'Se recibió un identificador de archivo no válido (%1) para el archivo cargado.',
+          'ZDR_INVALID_SYNC_STATUS' => 'Estado de sincronización no válido (%1). El valor debe ser PENDIENTE, CORRECTO O FALLO.',
+          'JKI_PEER_SYNC_ERROR' => 'Error de sincronización de vínculo interno: %1 : (%2) %3',
+          'GYA_EVENT_IS_PENDING' => 'El evento %1 sigue pendiente. La etiqueta forzar_eliminar tiene que configurarse para eliminar un evento pendiente.',
+          'ZPL_THERE_IS_A_VERSION_M' => 'Las versiones del vínculo interno %1 y de este servidor son distintas.',
+          'DWR_UNKNOWN_PEER_VERSION' => 'La versión del vínculo interno %1 es desconocida. Esperando al vínculo interno para completar la conexión con este servidor antes de continuar.',
+          'MOB_SERVER_UUID_MISMATCH' => 'El UUID del servidor remoto no coincide con la copia local.',
+          'EAS_THE_1_PEER_VERSION' => 'La versión del vínculo interno %1 no es compatible con este servidor.',
+          'MXG_EXTENSION_CONFLICT' => 'La extensión %1 de %2 entra en conflicto con la extensión %3 de %4',
+          'MHQ_INVALID_EVENT_ID_1' => 'Id_evento (%1) no válido. Los id_evento sólo pueden contener dígitos.',
+          'ZYZ_REMOTE_PEER_SYNC_ERR' => 'Error (%1) de sincronización de vínculo interno remoto: %2 : (%3) %4',
+          'GXH_THE_REQUESTED_EVENT' => 'El id_evento (%1) solicitado no existe.',
+          'PCJ_CALL_RULE_CONFLICT' => 'Las extensiones %1 pueden entrar en conflicto con la regla de llamada saliente %2 en este servidor.'
+        };

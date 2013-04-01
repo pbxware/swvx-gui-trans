@@ -1,0 +1,15 @@
+$VAR1 = {
+          'IVR_EXAMPLE_DESC' => 'Ceci est un exemple de RVI qui est fourni avec la première installation. Vous êtes libre de la modifier et de la personnaliser pour l\'adapter à vos besoins commerciaux.',
+          'KRW_INTERCOM_PAGING' => 'Intercom / Recherche d\'appel',
+          'IVR_HANGUP_DESC' => 'Dit au revoir et raccroche.',
+          'TZX_DEFAULT_GROUP' => 'Groupe par défaut',
+          'RFK_PROCESSING_CSV_FILE' => 'En cours de traitement du Fichier CSV',
+          'OXY_DEFAULT' => 'par défaut',
+          'IVR_HANGUP' => 'Raccrocher',
+          'IVR_SALES' => 'Vente',
+          'IVR_CUSTOMER_SUPPORT_DESC' => 'Ceci est un exemple de contexte de service clientèle. Pour l\'instant, il émet simplement un son, mais des actions peuvent être ajouter pour transférer vers votre poste de service clientèle.',
+          'IVR_SALES_DESC' => 'Ceci est un exemple de contexte de vente. Pour l\'instant, il émet simplement un son, mais des actions peuvent être ajouter pour transférer vers votre poste de vente.',
+          'IVR_EXAMPLE' => 'Exemple de RVI',
+          'IVR_CUSTOMER_SUPPORT' => 'Service clientèle',
+          'ENL_IF_A_DTMF_MODE_OF_IN' => 'SI un mode DTMF Inband est utilisé, les seuls codecs audio valides sont ULAW et ALAW.'
+        };

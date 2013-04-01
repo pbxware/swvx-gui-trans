@@ -1,0 +1,4 @@
+$VAR1 = {
+          'N_VOICEMAIL' => 'Segreteria / Fax',
+          'N_VOICEMAIL_DESC' => 'Controlla e gestisci la segreteria e il fax, registra il messaggio di benvenuto e imposta un messaggio di notifica.'
+        };

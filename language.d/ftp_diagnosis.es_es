@@ -1,0 +1,17 @@
+$VAR1 = {
+          'FTP_E_DELETE_FILE' => 'No se pudo eliminar el archivo de prueba cargado. Asegúrese de que el usuario tiene permisos en la ruta ftp.',
+          'FTP_E_LOGIN' => 'No se pudo conectar al servidor ftp. Asegúrese de que ha introducido el nombre de usuario y la contraseña correctos para este servidor.',
+          'FTP_SM_CHANGE_PATH' => 'Se ha cambiado correctamente a la ruta adecuada.',
+          'FTP_SM_UPLOAD_FILE' => 'Se ha cargado correctamente un archivo de prueba.',
+          'FTP_SM_DELETE_FILE' => 'Se ha eliminado correctamente el archivo de prueba.',
+          'FTP_E_CHANGE_PATH' => 'No se pudo cambiar a la ruta ftp. Asegúrese de que la ruta existe y que el usuario tiene los permisis adecuados para acceder a esta ruta.',
+          'FTP_E_CONNECT' => 'No se pudo establecer una conexión con el servidor ftp. Asegúrese de que ha escrito el host correctamente, que hay un servidor ftp válido en funcionamniento y que su máquina PBX tiene una ruta a su host ftp (por ejemplo, sin restricciones debidas al firewall). Si utiliza un nombre de host para su servidor ftp, pruebe a introducir la dirección IP del servidor ftp.',
+          'FTP_SM_CONNECT' => 'Se ha conectado correctamente al servidor ftp.',
+          'FTP_D_LOGIN' => 'Prueba de acceso al servidor FTP',
+          'FTP_SM_LOGIN' => 'Se ha conectado correctamente utilizando el nombre de usuario y la contraseña.',
+          'FTP_D_CONNECT' => 'Prueba de conectividad del servidor FTP',
+          'FTP_D_CHANGE_PATH' => 'Prueba de cambio de ruta FTP',
+          'FTP_D_DELETE_FILE' => 'Prueba de eliminación de archivos en el FTP',
+          'FTP_E_UPLOAD_FILE' => 'No se pudo cargar un archivo de prueba. Asegúrese de que el usuario tiene permisos de escritura en la ruta ftp.',
+          'FTP_D_UPLOAD_FILE' => 'Prueba de carga de archivos en el FTP'
+        };

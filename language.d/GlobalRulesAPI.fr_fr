@@ -1,0 +1,16 @@
+$VAR1 = {
+          'HCS_VALUE_FOR_ATTRNA' => 'Valeur de %1 incorrecte.',
+          'LCS_MISSING_TYPE' => 'Type manquant',
+          'FSI_TRANSFER_CALL' => 'Transférer l\'appel',
+          'NWF_BLOCK_NUMBER' => 'Bloquer le numéro',
+          'FRU_MISSING_RULE_NAME' => 'Nom de règle manquant',
+          'SKV_MISSING_RULE_ID' => 'ID de règle manquant',
+          'ERC_RULE_IS_ALREADY_AT_T' => 'La règle est déjà en début de liste',
+          'AMO_MISSING_RULE_TYPE' => 'Type de règle manquant',
+          'WQB_MISSING_DBO' => 'DBO manquant',
+          'ZRN_MISSING_CGI' => 'CGI manquant',
+          'GLZ_MISSING_RULE' => 'Règle manquante',
+          'FZE_MISSING_VALUE_FOR_A' => 'Valeur manquante pour %1',
+          'UWY_ACTION_IS_ALREADY_AT' => 'L\'action déjà en fin de liste',
+          'PHG_RULE_DOES_NOT_EXISTS' => 'La règle n\'existe pas (vous avez peut-être rafraichi)'
+        };

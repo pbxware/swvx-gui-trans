@@ -1,0 +1,11 @@
+$VAR1 = {
+          'API_MISSING_METHOD' => 'Falta el método en su solicitud.',
+          'API_EMPTY_XML' => 'Su solicitud xml estaba vacía.',
+          'ZTW_MISSING_THE_REQUEST' => 'Falta la matriz de solicitudes en su solicitud por lotes.',
+          'API_METHOD_NOT_FOUND' => 'No se encontró su método solicitado (%1).',
+          'API_PARSE_REQUEST' => 'Se ha producido un error al analizar su solicitud de XML. Error XML: %1.',
+          'DWT_YOUR_JSON_REQUEST_IS' => 'Su solicitud de json no se ha estructurado correctamente.',
+          'YEN_YOU_DO_NOT_HAVE_THE' => 'No dispone de los permisos adecuados para ejecutar el método api.',
+          'SAQ_THE_POST_BODY_OF_YOU' => 'El cuerpo posterior de su solicitud de JSON estaba vacío.',
+          'API_XML_RESPONSE_PARSE' => 'Error al analizar su respuesta XML. Error XML: %1'
+        };

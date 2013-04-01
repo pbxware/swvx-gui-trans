@@ -1,0 +1,8 @@
+$VAR1 = {
+          'BHU_PROB_DL_REG_FILE' => 'Problemi durante il download del file di registrazione',
+          'TGX_UNABLE_SPAWN_UPDATE' => 'Impossibile generare il processo di aggiornamento',
+          'FDD_PROB_FETCH_LIC' => 'Problemi durante il recupero del file della licenza. Riprovare',
+          'YYH_PROB_DL_LIC' => 'Problems downloading your license file. Please try again',
+          'TGC_PROB_GETTING_MAC' => 'Problemi durante l\'ottenimento dell\'indirizzo MAC della macchina. Si tratta forse di hardware non standard?',
+          'XUJ_PROB_SUBMIT_CONFIG' => 'Problemi durante l\'invio del file config. Riprovare'
+        };

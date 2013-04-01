@@ -1,0 +1,10 @@
+$VAR1 = {
+          'IIU_ACCOUNT_ID_IS_MISSIN' => 'Falta el ID de cuenta',
+          'LNM_SUCCESSFULLY_UPDATED' => 'Se actualizó correctamente la extensión del código de función',
+          'CGJ_MISSING_THE_CALL_QUE' => 'Falta el ID de cola de llamadas',
+          'ALM_SUCCESSFULLY_DELETED' => 'Se borró con éxito la extensión de la supervisión de llamadas.',
+          'QBM_SUCCESSFULLY_DELETED' => 'Se borró correctamente el código de función del fax.',
+          'QUR_SUCCESSFULLY_DELETED' => 'Se borró correctamente la extensión de respuesta dirigida.',
+          'LEY_EXTENSION_MUST_BE_F' => 'La extensión sólo debe tener %1 dígitos.',
+          'BVC_SUCCESSFULLY_CREATE' => 'Se creó correctamente la extensión del código de función'
+        };

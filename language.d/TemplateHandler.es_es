@@ -1,0 +1,14 @@
+$VAR1 = {
+          'XIX_INTERNAL' => 'Interna',
+          'PLM_ONE_NINE_HUNDRED' => 'Números 1-900',
+          'HCH_LOCAL' => 'Local',
+          'GNK_INVALID_CALL_API_PRE' => 'Configuración no válida de anteposición en la API de llamadas',
+          'TZX_DEFAULT_GROUP' => 'Grupo predeterminado',
+          'ZAZ_INTERNATIONAL' => 'Internacional',
+          'OXY_DEFAULT' => 'Predeterminado',
+          'TOO_ID' => 'ID',
+          'RFR_NINE_ONE_ONE' => '911',
+          'YGV_LONG_DISTANCE' => 'Larga distancia',
+          'E_PREPEND_FOR_OUTGOING' => 'Sólo puede anteponer dígitos para la API de llamadas',
+          'RPX_TOLL_FREE' => 'Llamada gratuita'
+        };

@@ -1,0 +1,21 @@
+$VAR1 = {
+          'YHE_ERROR_OPENING_AUTHOR' => 'Erreur d\'ouverture du fichier d\'autorisation.',
+          'OPM_COULD_NOT_CONNECT_TO' => 'Impossible de se connecter à %1 (le serveur est peut être en panne).',
+          'MJB_COULD_NOT_CONNECT_TO' => 'Impossible de se connecter au support technique (erreur inconnue).',
+          'FYS_MISSING_OR_CORRUPT_C' => 'Fichier certificat CA manquant ou corrompu.',
+          'SLY_TIMED_OUT_TRYING_TO' => 'Expiration des tentatives de connexion de %1 (vérifier la connectivité du réseau).',
+          'NKF_UNABLE_TO_RETRIEVE_R' => 'Impossible de récupérer le code d\'enregistrement.',
+          'YLF_SUCCESSFULLY_CONNECT' => 'Connexion réussie à %1 avec l\'adresse IP %2.',
+          'JJT_COULD_NOT_RESOLVE_HO' => 'Impossible de trouver l\'adresse de l\'hôte %1.',
+          'GFR_CLIENT_ASSIGNED_IP_A' => 'Adresse IP %1 attribuée au client.',
+          'PNZ_MISSING_OR_CORRUPT_C' => 'Fichier certificat du client manquant ou corrompu.',
+          'FKE_ATTEMPTING_TO_CONNEC' => 'Essai de connexion à (%1).',
+          'HXE_YOU_ARE_ALREADY_CONN' => 'Vous êtes déjà connecté au support technique Switchbox.',
+          'LZE_ERROR_READING_AUTHOR' => 'Erreur de lecture du fichier d\'autorisation.',
+          'HNJ_AUTHORIZATION_ERROR' => 'Erreur d\'autorisation (compte désactivé ou nom d\'utilisateur/mot de passe non valide).',
+          'LRS_CLIENT_CONNECTION_IN' => 'Tentative de connexion du client au serveur (%1).',
+          'ILW_ERROR_OPENING_CONFIG' => 'Erreur d\'ouverture du fichier de configuration.',
+          'LDB_CONNECTED_TO_1_SUCC' => 'Connexion à %1 réussie, mais interruption inattendue du client.',
+          'DYB_UNABLE_TO_CREATE_AUT' => 'Impossible de créer le fichier d\'autorisation.',
+          'PFK_MISSING_OR_CORRUPT_P' => 'Clé de fichier privée manquante ou corrompue.'
+        };

@@ -1,0 +1,3 @@
+$VAR1 = {
+          'NBK_NO_SCHEDULES_WERE_FO' => 'No se encontraron programaciones con ese ID de programación (%1)'
+        };

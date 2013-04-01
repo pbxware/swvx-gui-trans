@@ -1,0 +1,6 @@
+$VAR1 = {
+          'KYS_FAX' => 'Fax',
+          'OKN_SENT' => 'Sent',
+          'NJI_DRAFTS' => 'Drafts',
+          'NZY_OUTBOX' => 'Outbox',
+        };

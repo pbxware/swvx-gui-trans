@@ -1,0 +1,7 @@
+$VAR1 = {
+          'SYI_MISSING_ID_IN_GET_CA' => 'Missing id in get_call_queue_values',
+          'FYM_MISSING_THE_VALUES_T' => 'Missing the values to the create agent',
+          'CVY_MISSING_EXTENSION_IN' => 'Missing Extension in agent extension creation',
+          'FIR_MISSING_ACCOUNT_ID' => 'Missing Account ID',
+          'TYA_PLEASE_CHOOSE_ANOTHER' => 'Please choose another Conference Room Number as that Conference Room Number is already in use.',
+        };

@@ -1,0 +1,18 @@
+$VAR1 = {
+          'XIX_INTERNAL' => 'Interna',
+          'PLM_ONE_NINE_HUNDRED' => 'Números 1-900',
+          'HCH_LOCAL' => 'Local',
+          'ZAZ_INTERNATIONAL' => 'Internacional',
+          'REY_YOU_MUST_CHOOSE_AT_L' => 'Debe elegir al menos 1 códec.',
+          'NBM_INVALID_SIP_EXPIRY' => 'Expiración SIP no válida. Debe tener de 0 a 4 dígitos.',
+          'BWM_MISSING_THE_SIP_PROV' => 'Falta el proveedor de SIP',
+          'LZV_SUCCESSFULLY_ADDED_N' => 'Se añadió correctamente un nuevo proveedor de SIP.',
+          'NNN_A_SIP_PROVIDER_WITH' => 'Ya existe un proveedor SIP con ese nombre en su sistema. Por favor, elija un nombre diferente.',
+          'FGN_SUCCESSFULLY_MODIFIE' => 'Se modificó correctamente el proveedor de SIP.',
+          'RFR_NINE_ONE_ONE' => '911',
+          'USL_PROVIDER_ID_IS_MISSI' => 'Falta el proveedor de ID',
+          'YGV_LONG_DISTANCE' => 'Larga distancia',
+          'EMR_SUCCESSFULLY_DELETE' => 'Proveedor SIP eliminado correctamente ',
+          'WWD_MISSING_THE_SIP_PROV' => 'Falta el proveedor de SIP',
+          'RPX_TOLL_FREE' => 'Llamada gratuita'
+        };

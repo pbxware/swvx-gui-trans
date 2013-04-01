@@ -1,0 +1,5 @@
+#- not generated
+$VAR1 = {
+	'N_VOICEMAIL' => 'Voicemail / Fax',
+    'N_VOICEMAIL_DESC' => 'Check and manage your voicemail and fax, record your voicemail greeting, and set up message notification.',
+};

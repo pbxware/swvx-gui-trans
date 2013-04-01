@@ -1,0 +1,17 @@
+$VAR1 = {
+          'SPF_PROBLEMS_COMMITTING' => 'Se experimentaron problemas al realizar los cambios. Por favor, inténtelo de nuevo (%1)',
+          'NJI_DRAFTS' => 'Borradores',
+          'OLK_RECORDINGS' => 'Grabaciones',
+          'KYS_FAX' => 'Fax',
+          'OAK_FRIENDS' => 'Amigos',
+          'YBB_WORK' => 'Trabajo',
+          'VGG_YOUR_NEW_PASSWORD_MU' => 'Su nueva contraseña debe ser distinta de la contraseña antigua.',
+          'NUC_THE_PASSWORDS_YOU_EN' => 'Las contraseñas que introdujo no coinciden.',
+          'RAT_IS_A_NON_EDITABLE_FIELD' => '%1" es un campo no editable',
+          'WOL_YOU_MUST_CHANGE_YOUR' => 'Debe cambiar su contraseña para continuar.',
+          'YVF_SWITCHJAB_CHANGE_PRO' => 'Problema de cambio de Switchjab: %1',
+          'FVJ_YOUR_QUEUE_SETTINGS' => 'La configuración de cola se guardó correctamente pero la cola no se recargó de forma adecuada.',
+          'YHY_FAMILY' => 'Familia',
+          'OKN_SENT' => 'Enviado',
+          'NZY_OUTBOX' => 'Bandeja de salida'
+        };

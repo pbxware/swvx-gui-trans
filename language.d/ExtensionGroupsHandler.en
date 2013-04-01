@@ -1,0 +1,4 @@
+$VAR1 = {
+          'IRA_VOICEMAIL_QUOTA_MUST' => 'Voicemail quota must be numeric',
+          'TZX_DEFAULT_GROUP' => 'Default Group'
+        };

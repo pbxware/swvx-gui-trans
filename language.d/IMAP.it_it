@@ -1,0 +1,13 @@
+$VAR1 = {
+          'UXM_COULD_NOT_OPEN_MIME' => 'Impossibile aprire dir cache MIME',
+          'MBF_INCORRECT_ARGS' => 'Arg non corretti',
+          'SGO_COULD_NOT_OPEN_TEMPF' => 'Impossibile aprire tempfile: %1',
+          'GFX_MISSING_FOLDER_ANDO' => 'Cartella mancante e/o uid',
+          'DXB_MISSING_FOLDER' => 'Cartella mancante',
+          'IOA_CANNOT_MOVE_MESSAGES' => 'Impossibile spostare messaggi tra cartelle fax e segreteria',
+          'BPY_COULD_NOT_CREATE_NEW' => 'Impossibile creare nuova cartella IMAP: Nome cartella mancante',
+          'NCL_MESSAGE_HAS_BEEN_FOR' => 'Il messaggio è stato inoltrato più di %1 volte. Inoltro infinito possibile',
+          'FHH_UNABLE_TO_APPEND_MES' => 'Impossibile postporre messaggio: %1',
+          'OBX_COULD_NOT_READ_MIME' => 'Impossibile leggere file di cache MIME',
+          'TKF_COULD_NOT_OPEN_MIME' => 'Impossibile aprire file di cache MIME'
+        };

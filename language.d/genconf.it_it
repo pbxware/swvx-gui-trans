@@ -1,0 +1,5 @@
+$VAR1 = {
+          'KCP_ERROR_LOCKING_ASTERI' => 'Errore durante il blocco di asterisk config: %1',
+          'ZRT_ERROR_RELOADING_ASTE' => 'Errore durante il reload di asterisk config',
+          'JDS_ERROR_OPENING_ASTERI' => 'Errore durante l\'apertura di asterisk config: %1'
+        };

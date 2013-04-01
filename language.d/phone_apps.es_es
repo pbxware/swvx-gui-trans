@@ -1,0 +1,7 @@
+$VAR1 = {
+          'DZA_PHONE_APP_REDIRECT' => 'Redireccionar aplicaciones telefónicas. La persona conectada a la cuenta (%1) no coincidió con la cuenta solicitada (%2).',
+          'KZA_PHONE_APP_AUTH_FAILE' => 'Error de autentificación de aplicaciones telefónicas. El IP del solicitante (%1) no coincidió con el teléfono (%2).',
+          'KFB_PHONE_APP_AUTH_FAILE' => 'Error de autentificación de aplicaciones telefónicas. No se ha encontrado ninguna fila en la base de datos para el teléfono configurado automáticamente (%1).',
+          'IDV_INVALID_PHONE_APP_TO' => 'phone_app_token no válido en la URL (%1).',
+          'KTM_MISSING_PHONE_APP_TO' => 'Falta phone_app_token en la URL (%1).'
+        };

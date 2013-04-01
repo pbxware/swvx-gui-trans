@@ -1,0 +1,14 @@
+$VAR1 = {
+          'ZBY_RECURRENCE' => 'Modello di ricorrenza',
+          'NWT_END_EVENT' => 'Termina evento',
+          'DCD_YOU_DONT' => 'Non sono presenti rapporti programmati',
+          'OTG_MODIFY' => 'Modifica',
+          'NCN_SCHEDULED_REPORTS' => 'Rapporti programmati',
+          'HEX_FULL_RECURRENCE' => 'Modello completo di ricorrenza',
+          'YHB_MISSING_REPORT_ID' => 'Id rapporto programmato mancante',
+          'USU_REPORT_TYPE' => 'Tipo di rapporto',
+          'ALB_START_DATE' => 'Data di inizio',
+          'HHR_DELETE' => 'Elimina',
+          'ZRP_REPORT_NAME' => 'Nome rapporto',
+          'BRS_MODIFY_DELETE' => 'Modifica / Elimina'
+        };

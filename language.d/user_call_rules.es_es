@@ -1,0 +1,11 @@
+$VAR1 = {
+          'LDE_ACTIVATED_DATE' => 'fecha de activación',
+          'YGD_INVALID_VALUE_1_F' => 'Valor no válido (%1) para su tipo de conjunto de reglas de llamadas.',
+          'EGF_YOUR_CALL_RULE_SET_I' => 'Su ID de conjunto de reglas de llamadas sólo debe contener dígitos.',
+          'EFN_A_CALL_RULE_SET_WITH' => 'No existe un conjunto de reglas de llamadas con ese ID o se puede acceder al mismo a través de su cuenta.',
+          'ZRO_YOU_ALREADY_HAVE_A_C' => 'Usted ya tiene un conjunto de reglas de llamadas con ese nombre. Por favor, seleccione un nombre diferente para su conjunto de reglas de llamadas.',
+          'PJC_INVALID_VALUE_1_F' => 'Valor no válido (%1) para su estado de conjunto de reglas de llamadas.',
+          'KAU_YOUR_CALL_RULE_SET_I' => 'Su call_rule_set_id no existe para esta cuenta.',
+          'RQI_INVALID_CALL_RULE_SE' => 'Orden del conjunto de reglas de llamadas no válido (%1) Su orden del conjunto de reglas de llamadas debe ser un número entero superior a cero.',
+          'BPC_INVALID_CALL_RULE_SE' => 'Nombre del conjunto de reglas de llamadas no válido (%1) El nombre del conjunto de reglas sólo puede contener caracteres alfanuméricos y debe tener entre 1 y 32 caracteres.'
+        };

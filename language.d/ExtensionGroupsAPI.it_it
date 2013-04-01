@@ -1,0 +1,7 @@
+$VAR1 = {
+          'RNS_THE_GROUP_YOU_HAVE_A' => 'Non è consentito. Il gruppo estensioni attuale è il gruppo estensioni già aggiunto.',
+          'SWI_PROBLEMS_SETTING_UP' => 'Problemi durante l\'impostazione di symlink gruppo: %1',
+          'HAO_YOU_MAY_NOT_UPDATE_O' => 'Non è possibile modificare o eliminare il Gruppo Estensioni.',
+          'VKY_YOU_MUST_PROVIDE_AN' => 'Fornire una descrizione gruppo.',
+          'ZUI_INVALID_EXTENSION_GR' => 'La Descrizione Gruppo deve avere una lunghezza massima di 32 caratteri e contenere solo lettere, numeri o trattini bassi.'
+        };

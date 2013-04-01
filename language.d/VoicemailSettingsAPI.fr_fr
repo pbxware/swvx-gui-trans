@@ -1,0 +1,11 @@
+$VAR1 = {
+          'BBT_EXTERNAL_TEXT' => '<p>Cher %VM_NAME%:</p><p>Vous avez reçu un message de %VM_CALLERID%. Ce message est dans la boîte aux lettres %VM_MAILBOX%, daté du %VM_DATE%.</p><p>Vous pouvez accéder à ce message par le téléphone, ou utiliser les liens ci-dessous pour télécharger le message.</p><p><a href="%DOWNLOAD_LINK%">Télécharger le message et le marquer comme lu</a></p><p><a href="%DOWNLOAD_LINK_AND_MARK_DELETED%">Télécharger le message et le supprimer</a><br>Important: Votre message sera alors supprimé et ce lien ne fonctionnera plus.</p><p>Merci!</p><p>--Switchvox</p>',
+          'QAK_COULD_NOT_RELOAD_YOU' => 'Impossible de recharger votre serveur PBX.  Est-il hors connexion ?',
+          'IID_SMS_TEXT' => 'Vous venez de recevoir un message d\'une durée de %VM_DUR% dans la boîte aux lettres %VM_MAILBOX% provenant de %VM_CALLERID%, le %VM_DATE%.',
+          'BVY_EXTERNAL_SUBJECT' => '%VM_CALLERID% vous a laissé un nouveau message d\'une durée de %VM_DUR%',
+          'AOP_MOBILE_SUBJECT' => '%VM_CALLERID% vous a laissé un nouveau message d\'une durée de %VM_DUR%',
+          'PXF_DEFAULT_TEXT' => '<p>Cher %VM_NAME% :</p><p>Vous venez de recevoir un message d\'une durée de %VM_DUR% dans la boîte aux lettres %VM_MAILBOX% provenant de %VM_CALLERID%, le %VM_DATE%.</p><p>Merci !</p><p>Switchvox</p> ',
+          'OUX_DEFAULT_SUBJECT' => '%VM_CALLERID% vous a laissé un nouveau message d\'une durée de %VM_DUR%',
+          'IAC_NO_USERS_FOUND' => 'Aucun utilisateur trouvé',
+          'WWI_MOBILE_TEXT' => 'Vous venez de recevoir un message d\'une durée de %VM_DUR% dans la boîte aux lettres %VM_MAILBOX% provenant de %VM_CALLERID%, le %VM_DATE%.'
+        };

@@ -1,0 +1,10 @@
+$VAR1 = {
+          'YSQ_MISSING_GROUP_2_IN_T' => 'Groupe 2 manquant dans ce groupe',
+          'RCS_MISSING_ACCOUNT_ID_A' => 'account_id et pg_id manquants lors de l\'appel de delete_permission_groups',
+          'FJU_MISSING_ACCOUNT_ID_I' => 'account_id manquant lors de l\'appel de create_permission_groups',
+          'AMM_MISSING_DBO_IN_CALL' => 'dbO manquant lors de l\'appel de update_permission_groups',
+          'HUL_MISSING_DBO_IN_CALL' => 'dbO manquant lors de l\'appel de create_permission_groups',
+          'JSE_MISSING_PG_IDS_IN_CA' => 'pg_ids manquant lors de l\'appel de update_permission_groups',
+          'LJY_MISSING_DBO_IN_CALL' => 'dbO manquant lors de l\'appel de delete_permission_groups',
+          'UFZ_MISSING_GROUP_1_IN_T' => 'Groupe 1 manquant dans ce groupe'
+        };

@@ -1,0 +1,13 @@
+$VAR1 = {
+          'ZBT_DELETE_DELETED_AN_AB' => 'la eliminación eliminó un número anormal de filas: %1',
+          'OSJ_INVALID_CONTEXT_OR_C' => 'contexto o ID de contexto no válidos',
+          'SYC_UPDATE_AFFECTED_AN_A' => 'la actualización afectó a un número anormal de filas: %1',
+          'WGM_INVALID_OR_MISSING_A' => 'falta ID de cuenta o no es válido',
+          'KDH_INVALID_CHANNEL_STRI' => 'cadena de canales no válida',
+          'UTH_UNKNOWN_CONTEXT_ID' => 'ID de contexto desconocido: %1',
+          'RGB_INVALID_1_OUTGOING' => '%1 no válido. La regla de llamada saliente debe tener un estado y un id.',
+          'VUT_UNABLE_TO_DETERMINE' => 'no se pudo determinar el ID del proveedor',
+          'IWD_INVALID_ARGS_ACCO' => 'argumentos no válidos: (%1, %2)',
+          'FGC_ERROR_FROM_FILENAME' => 'Error de %1:%2 en %3 - %4',
+          'OHU_CANT_UPDATE_A_CONTE' => 'no se pudo actualizar un contexto sin el outgoing_context_id'
+        };

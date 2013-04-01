@@ -1,0 +1,13 @@
+$VAR1 = {
+          'UXM_COULD_NOT_OPEN_MIME' => 'No se pudo abrir el dir caché MIME',
+          'MBF_INCORRECT_ARGS' => 'args incorrecto',
+          'SGO_COULD_NOT_OPEN_TEMPF' => 'No se pudo abrir el archivo temporal: %1',
+          'GFX_MISSING_FOLDER_ANDO' => 'falta carpeta y/o uid',
+          'DXB_MISSING_FOLDER' => 'Falta carpeta',
+          'IOA_CANNOT_MOVE_MESSAGES' => 'no se pueden mover los mensajes entre las carpetas de fax y buzón de voz',
+          'BPY_COULD_NOT_CREATE_NEW' => 'No se pudo crear la nueva carpeta IMAP: falta el nombre de la carpeta',
+          'NCL_MESSAGE_HAS_BEEN_FOR' => 'El mensaje fue reenviado más de %1 veces. Posible reenvío infinito',
+          'FHH_UNABLE_TO_APPEND_MES' => 'No se puede adjuntar el mensaje: %1',
+          'OBX_COULD_NOT_READ_MIME' => 'No se pudo leer el archivo de caché MIME',
+          'TKF_COULD_NOT_OPEN_MIME' => 'No se pudo abrir el archivo de caché MIME'
+        };

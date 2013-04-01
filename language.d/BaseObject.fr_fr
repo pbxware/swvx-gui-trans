@@ -1,0 +1,3 @@
+$VAR1 = {
+          'MSI_MISSING_PARAMETERP' => 'Paramètre  manquant! %1, lors de l\'appel vers: %2[3] (%3[2]) '
+        };

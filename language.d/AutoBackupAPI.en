@@ -1,0 +1,5 @@
+$VAR1 = {
+          'KJS_CANNOT_CHANGE_WORKIN' => 'Cannot change working directory ',
+          'FJZ_COULD_NOT_FTP_LOGIN' => '%1',
+          'WNM_COULD_NOT_OPEN_CRONF' => 'could not open cronfile: %1'
+        };

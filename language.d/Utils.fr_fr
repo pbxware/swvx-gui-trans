@@ -1,0 +1,8 @@
+$VAR1 = {
+          'IDY_COULD_NOT_OPEN_CLOCK' => 'Impossible d\'ouvrir le fichier sysconfig horloge',
+          'DEN_ERROR_SETTING_NTP_SE' => 'Erreur configuration serveur NTP',
+          'TIW_UNKNOWN_ZONE_ZONE' => 'Zone inconnue :  %1',
+          'SHS_COULDNT_STOP_NTPD' => 'Impossible d\'arrêter ntpd :  %1',
+          'LOT_COULDNT_RUN_CHKCONF' => 'Impossible de lancer chkconfig pour ntpd :  %1',
+          'KTI_PROBLEM_RUNNING_SETZ' => 'Problème pour exécuter setzone'
+        };

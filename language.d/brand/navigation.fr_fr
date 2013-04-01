@@ -1,0 +1,4 @@
+$VAR1 = {
+          'N_VOICEMAIL' => 'Messagerie vocale / Fax',
+          'N_VOICEMAIL_DESC' => 'Vérifier et gérer votre messagerie vocale et vos fax, enregistrer vos messages d\'accueil vocaux et configurer les notifications de messages.'
+        };

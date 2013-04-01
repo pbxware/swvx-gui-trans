@@ -1,0 +1,18 @@
+$VAR1 = {
+          'EXL_PLEASE_ENTER_A_VALID' => 'Please enter a valid email.',
+          'CMT_PLEASE_ENTER_A_VALID' => 'Please enter a valid phone number.',
+          'JUA_PLEASE_ENTER_A_VALID' => 'Please enter a valid address 1.',
+          'ANP_PLEASE_ENTER_A_VALID' => 'Please enter a valid city.',
+          'WET_PLEASE_ENTER_A_VALID' => 'Please enter a valid postal code.',
+          'MPR_PLEASE_ENTER_AN_ALPH' => 'Please enter an alphanumeric last name',
+          'MWK_PLEASE_ENTER_A_VALID' => 'Please enter a valid G729 license key.',
+          'PMO_NOW_INSTALLING_AND_I' => 'Now installing and initializing your G729 codec.',
+          'OGP_PLEASE_ENTER_AN_ALPH' => 'Please enter an alphanumeric first name',
+          'CJY_PLEASE_ENTER_A_VALID' => 'Please enter a valid country.',
+          'YZU_SUCCESSFULLY_UNINSTA' => 'Successfully uninstalled your license',
+          'JZK_PLEASE_ENTER_A_VALID' => 'Please enter a valid address 2.',
+          'BJY_PLEASE_ENTER_A_VALID' => 'Please enter a valid company name.',
+          'GFK_CAN_NOT_FIND_FILE_AS' => 'Can not find file associated with this update.',
+          'NGK_PLEASE_ENTER_A_VALID' => 'Please enter a valid state.',
+          'EKD_UNABLE_TO_SPAWN_YOUR' => 'Unable to spawn your update process.'
+        };

@@ -1,0 +1,13 @@
+$VAR1 = {
+          'ZBT_DELETE_DELETED_AN_AB' => 'Elimina eliminato numero anormale di righe: %1',
+          'OSJ_INVALID_CONTEXT_OR_C' => 'Contesto non valido o id contesto',
+          'SYC_UPDATE_AFFECTED_AN_A' => 'aggiorna interessato un numero anormale di righe: %1',
+          'WGM_INVALID_OR_MISSING_A' => 'Id account non valido o mancante',
+          'KDH_INVALID_CHANNEL_STRI' => 'Stringa canale non valida',
+          'UTH_UNKNOWN_CONTEXT_ID' => 'Id contesto sconosciuto: %1',
+          'RGB_INVALID_1_OUTGOING' => '%1 non valido. La regola di chiamata in uscita deve avere uno stato e un id.',
+          'VUT_UNABLE_TO_DETERMINE' => 'Impossibile determinare id fornitore',
+          'IWD_INVALID_ARGS_ACCO' => 'arg. non validi: (%1, %2)',
+          'FGC_ERROR_FROM_FILENAME' => 'Errore da %1:%2 in %3 - %4',
+          'OHU_CANT_UPDATE_A_CONTE' => 'Impossibile aggiornare un contesto senza nessun outgoing_context_id'
+        };

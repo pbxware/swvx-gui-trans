@@ -1,0 +1,4 @@
+$VAR1 = {
+          'MVP_TRANSLATE_COULD_NOT' => 'impossible de fermer le point de connexion réseau asterisk',
+          'UBX_TRANSLATE_COULD_NOT' => 'impossible de se connecter au point de connexion réseau asterisk: %1'
+        };

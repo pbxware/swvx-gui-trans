@@ -1,0 +1,18 @@
+$VAR1 = {
+          'ASO_SALESFORCE' => 'Salesforce',
+          'MDX_SUCCESS_UPDATE_PLUGIN' => 'Aggiornamento impostazioni plugin riuscito',
+          'NSX_MISSING_ID_OF_RESULTS' => 'ID mancante dai risultati. Rieseguire il test',
+          'TXT_TESTING_YOUR_CRM_SE' => 'Testing delle impostazioni CRM',
+          'TSX_SUCCESS_CREATE_CUSTOM' => 'Creazione del pannello personalizzato riuscita',
+          'BVC_INVALID_URL' => 'URL non valida. Deve avere una lunghezza compresa tra 1 e 1024 caratteri.',
+          'WMI_TESTING_YOUR_GOOGLE' => 'Testing delle impostazioni di Google Maps.',
+          'PSO_SUGAR_CRM' => 'SugarCRM',
+          'XIU_MISSING_PLUGIN_ID' => 'Id plugin mancante',
+          'RSS_INVALID_ZOOM' => 'Livello di zoom predefinito non valido. Deve essere tra 1e 15',
+          'MOT_INVALID_PANEL_NAME' => 'Nome pannello non valido. Sono consentiti solo caratteri alfanumerici e spazi (1-32 caratteri di lunghezza).',
+          'KSI_INVALID_PANEL_DESC' => 'Descrizione pannello non valida. Deve avere una lunghezza di 1-1024 caratteri.',
+          'UHC_GOOGLE_MAPS' => 'Google Maps',
+          'WRX_SUCCESSFULLY_UPDATED_GOOGLE' => 'Aggiornamento impostazioni plugin google maps riuscito',
+          'RTR_SUCCESSFULLY_UPDATED_CRM' => 'Aggiornamento impostazioni plugin crm riuscito',
+          'RSX_MISSING_PLUGIN_NAME' => 'plugin_name mancante'
+        };

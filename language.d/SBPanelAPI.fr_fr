@@ -1,0 +1,25 @@
+$VAR1 = {
+          'UNO_PHONEBOOKS' => 'Répertoires Téléphoniques',
+          'NNJ_SUGARCRM' => 'SugarCRM',
+          'PKR_DIRECTORY' => 'Répertoire',
+          'VRM_MISSING_LABEL_IN_CAL' => 'Etiquette manquante pour l\'appel de insert_sbpanel',
+          'IDM_GOOGLE_MAPS' => 'Google Maps',
+          'KDZ_SALESFORCE' => 'Service commercial',
+          'SHK_MISSING_ACCOUNT_ID_I' => 'account_id manquant lors de l\'appel de insert_sbpanel',
+          'PDH_CUSTOM_PANEL' => 'Panneau personnalisé',
+          'ZOV_CALL_QUEUES' => 'Files d\'attente',
+          'NEZ_CHAT' => 'Chat',
+          'SLE_MISSING_DBO_IN_CALL' => 'DBO manquant lors de l\'appel de insert_sbpanel',
+          'JRE_MISSING_KEY_IN_CALL' => 'Clé manquante lors de l\'appel de remove_sbpanel',
+          'MZY_PARKING_LOT' => 'Parking',
+          'SN_CALL_MON' => 'Appels en cours',
+          'PFJ_PROFILE' => 'Profil',
+          'PZQ_PHONEBOOK' => 'Répertoire téléphonique',
+          'CGI_MISSING_DBO_IN_CALL' => 'DBO manquant lors de l\'appel de remove_sbpanel',
+          'FQJ_MISSING_QUEUE_ACCOUN' => 'queue_account_id manquant lors de l\'appel de insert_sbpanel',
+          'OHU_MISSING_VALUE_IN_CAL' => 'Valeur manquante lors de l\'appel de remove_sbpanel',
+          'LIJ_DEMO' => 'Démo',
+          'CHT_CALL_QUEUE' => 'File d\'attente',
+          'DYB' => '
+'
+        };

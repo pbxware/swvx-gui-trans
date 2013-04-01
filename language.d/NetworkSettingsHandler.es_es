@@ -1,0 +1,21 @@
+$VAR1 = {
+          'PXT_ENABLED_MUST_BE_EITH' => 'Activado debe ser 1 ó 0.',
+          'JKT_PORT_MUST_BE_A_1_TO' => 'El puerto debe ser una cifra de 1-5 dígitos para ser válido.',
+          'IQO_ERROR_CREATING_SIPC' => 'Error en la creación de configuración_sip',
+          'ABA_NETWORK_IS_CURRENTLY' => 'La red se está reiniciando en estos momentos.',
+          'WGY_PROBLEMS_FETCHING_YO' => 'Se han producido problemas al buscar su configuración de red',
+          'TXA_EXTERNAL_IP_ADDRESS' => 'La dirección IP externa / el nombre de host sólo puede incluir caracteres alfanuméricos.',
+          'WEI_NETMASK_IS_IN_THE_FO' => 'La máscara de red sigue el formato de xxx xxx xxx xxx en el que cada cuadrante consta de un valor que puede ser 128, 192, 224, 240, 248, 252, 254, 255 ó 0.',
+          'OCR_INVALID_AUDIOVIDEO' => 'Valor ToS de Audio/Vídeo no válido.',
+          'EXB_YOU_MUST_ENTER_AN_EX' => 'Debe introducir una dirección IP externa / nombre de host si desea permitir el reenvío de puertos NAT.',
+          'VRH_YOUR_HOSTNAME_CAN_NO' => 'Su nombre de host no puede incluir espacios.',
+          'OHQ_YOU_ARE_ONLY_ALLOWED' => 'Sólo se le permiten 3 entradas de dns.',
+          'TBE_IP_ADDRESS_SHOULD_BE' => 'La dirección_IP debería seguir el formato xxx xxx xxx xxx.',
+          'IOT_ERROR_GENERATING_IAX' => 'Error al generar configuración IAX',
+          'LKT_YOUR_EXTERNAL_IP_ADD' => 'Su dirección IP / nombre de host no puede incluir espacios.',
+          'MMS_PLEASE_SUPPLY_A_SSL' => 'Facilite una clave SSL RSA que no esté protegida mediante contraseña.',
+          'EHE_YOU_MUST_FILL_IN_BOT' => 'Debe rellenar la clave ssl y el certificado ssl.',
+          'LEO_ADDITIONAL_LOCAL_NET' => 'Red Local Adicional',
+          'LHF_PROTOCOL_MUST_BE_DHC' => 'El protocolo debe ser dhcp o estático.',
+          'JGF_HOSTNAME_CAN_ONLY_IN' => 'El nombre de host sólo puede incluir caracteres alfanuméricos.'
+        };

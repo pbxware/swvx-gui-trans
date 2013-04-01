@@ -1,0 +1,6 @@
+$VAR1 = {
+          'IOX_SUCCESS_MODIFY' => 'Successfully modified your extension',
+          'AOS_SUCCESS_DELETE' => 'Successfully deleted extension',
+          'TXY_MISSING_CALL_QUEUE_ID' => 'Missing Call Queue ID',
+          'IXT_MISSING_ACCOUNT_ID' => 'Missing Account ID',
+        };

@@ -1,0 +1,15 @@
+$VAR1 = {
+          'IVR_EXAMPLE_DESC' => 'Éste es un sistema IVR de ejemplo incluido con la instalación inicial. Puede modificarlo y personalizarlo totalmente según sus necesidades individuales.',
+          'KRW_INTERCOM_PAGING' => 'Intercomunicador / Busca',
+          'IVR_HANGUP_DESC' => 'Dice adiós y cuelga el teléfono.',
+          'TZX_DEFAULT_GROUP' => 'Grupo predeterminado',
+          'OXY_DEFAULT' => 'Predeterminado',
+          'RFK_PROCESSING_CSV_FILE' => 'Procesando archivo CSV',
+          'IVR_SALES' => 'Ventas',
+          'IVR_HANGUP' => 'Colgar',
+          'IVR_CUSTOMER_SUPPORT_DESC' => 'Este es un contexto de servicio al cliente de ejemplo. En estos momentos, sólo reproduce un sonido, pero pueden añadirse acciones de modo que le transfiera a su extensión de atención al cliente.',
+          'IVR_EXAMPLE' => 'IVR de ejemplo',
+          'IVR_SALES_DESC' => 'Este es un contexto de ventas de ejemplo. En estos momentos, sólo reproduce un sonido, pero pueden añadirse acciones de modo que le transfiera a su extensión de ventas.',
+          'IVR_CUSTOMER_SUPPORT' => 'Atención al cliente',
+          'ENL_IF_A_DTMF_MODE_OF_IN' => 'Si se usa un modo DTMF de banda de entrada, los únicos códecs de audio válidos son ULAW y ALAW.'
+        };

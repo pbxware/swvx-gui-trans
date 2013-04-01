@@ -1,0 +1,18 @@
+$VAR1 = {
+          'NSX_MISSING_ID_OF_RESULTS' => 'ID manquant pour vos résultats. Veuillez relancer le test.',
+          'BVC_INVALID_URL' => 'URL non valide. Doit avoir une longueur de 1 à 1024 caractères.',
+          'TXT_TESTING_YOUR_CRM_SE' => 'En cours de test de vos paramètres CRM.',
+          'XIU_MISSING_PLUGIN_ID' => 'ID de plugin manquant.',
+          'MOT_INVALID_PANEL_NAME' => 'Nom de panneau non valide. Seuls les caractères alphanumériques et espaces sont autorisés (de 1 à 32 caractères de long).',
+          'KSI_INVALID_PANEL_DESC' => 'Description de panneau non valide. Doit avoir une longueur de 1 à 1024 caractères.',
+          'UHC_GOOGLE_MAPS' => 'Google Maps',
+          'WRX_SUCCESSFULLY_UPDATED_GOOGLE' => 'Les paramètres de votre plugin Google Maps ont été correctement mis à jour.',
+          'RTR_SUCCESSFULLY_UPDATED_CRM' => 'Les paramètres de votre plugin CRM ont été correctement mis à jour.',
+          'ASO_SALESFORCE' => 'Service commercial',
+          'MDX_SUCCESS_UPDATE_PLUGIN' => 'Les paramètres de votre plugin ont été correctement mis à jour.',
+          'TSX_SUCCESS_CREATE_CUSTOM' => 'Votre panneau personnalisé a été correctement créé.',
+          'WMI_TESTING_YOUR_GOOGLE' => 'En cours de test de vos paramètres Google Maps.',
+          'PSO_SUGAR_CRM' => 'SugarCRM',
+          'RSS_INVALID_ZOOM' => 'Niveau de zoom par défaut non valide. Doit être compris entre 1 et 15.',
+          'RSX_MISSING_PLUGIN_NAME' => 'Plugin_name manquant'
+        };

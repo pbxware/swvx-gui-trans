@@ -1,0 +1,22 @@
+$VAR1 = {
+          'E_DATE_RANGE_ERROR' => '\'A data\' è precedente a \'Da data\'',
+          'E_MISSING_CALLER_ID_NAME' => 'È necessario inserire o un nome o numero id chiamante ',
+          'E_INVALID_START_DATE' => 'Data di inizio non valida. Il formato data è (gg/mm/aaaa)',
+          'E_INVALID_SORT_FIELD' => 'Ordinamento campo non valido',
+          'E_INVALID_REPORT_FIELD' => 'report_field non valido (%1)',
+          'E_CHART' => 'È possibile tracciare solo 1 campo per volta',
+          'E_INVALID_REPORT_FORMAT' => 'Formato non valido',
+          'E_INVALID_END_DATE' => 'Data di fine non valida. Il formato data è (gg/mm/aaaa)',
+          'E_INVALID_SORT_ORDER' => 'Ordine ordinamento non valido',
+          'E_SEARCH_NUMBER_TOO_SHORT' => 'Il numero di ricerca deve avere una lunghezza di almeno 2 cifre',
+          'E_INVALID_BREAKDOWN' => 'Segmentazione non valida',
+          'FPR_INCOMING_DID_IS_INVA' => 'DID in arrivo non valido. Deve essere un numero con una lunghezza compresa tra 3 e 32 caratteri.',
+          'E_PAGE_NUMBER_NUM_ONLY' => 'page_number può solo contenere cifre',
+          'WUD_COULD_NOT_WRITE_GRAP' => 'Impossibile scrivere file grafico su disco (%1).',
+          'E_INVALID_SEARCH_TYPE' => 'Tipo ricerca non valido',
+          'E_SEARCH_NAME_TOO_SHORT' => 'Il nome di ricerca deve avere una lunghezza di almeno 2 caratteri',
+          'E_ITEMS_PER_PAGE_NUM_ONLY' => 'items_per_page può solo contenere cifre',
+          'VRL_COULD_NOT_PLOT_GRAPH' => 'Impossibile tracciare file grafico (%1).',
+          'E_INVALID_IGNORE_WEEKENDS' => 'ignore_weekends non valido',
+          'E_MISSING_ACCOUNT' => 'È necessario fornire almeno 1 ID account e/o fornitore'
+        };

@@ -1,0 +1,19 @@
+$VAR1 = {
+          'MAX_QUEUE_MEMBER_REPORT' => 'Rapports des Membres de la File',
+          'CMP_SCHEDULED_QUEUE_MEMB' => 'Rapport Programmé des Membres de la File :  %1',
+          'BLC_YOUR_REQUESTED_SCHED' => 'Le rapport programmé demandé n\'existe pas.',
+          'HRG_INVALID_VALUE_1_F' => 'Valeur du nom de rapport programmé non valide.',
+          'EDJ_PROBLEMS_PARSING_THE' => 'Problèmes de lecture du modèle de rapport programmé (%1).',
+          'ECY_THAT_SCHEDULE_NAME_A' => 'Ce nom de planification existe déjà dans le système.',
+          'SFN_MISSING_THE_HTML_TEM' => 'Modèle HTML (%1) manquant lors de l\'exécution d\'un rapport programmé.',
+          'LGQ_SCHEDULED_REPORT_ID' => 'ID rapport programmé',
+          'GAY_INVALID_VALUE_1_F' => 'Valeur du type de rapport programmé non valide.',
+          'VRW_PROBLEMS_CANCELING_Y' => 'Problèmes pour l\'annulation de votre rapport programmé.',
+          'AWJ_REQUESTED_SCHEDULED' => 'L\'ID du rapport programmé demandée n\'existe pas dans le système.',
+          'SJY_INVALID_VALUE_1_F' => 'Valeur saisie non valide pour commencer depuis le début.  Valeurs possibles: jour, semaine, mois, année.',
+          'HWS_INVALID_START_FROM_D' => 'Valeur de votre décrément de date/heure de début non valide.  Exemple de format:  1A, 2M, 3S, 4J, 5h = 1 an, 2 mois, 3 semaines, 4 jours, 5 heures.',
+          'KPJ_FROM_THE_DATETIME' => 'à partir de la date/heure',
+          'KOU_INVALID_ACCOUNT_TYPE' => 'Type de compte non valide pour votre rapport.',
+          'KUN_START_FROM_LAST_OCCU' => 'débuter à partir du dernier cas',
+          'BMV_INVALID_SCHEDULED_RE' => 'Format de rapport programmé non valide.  Doit être html, graphique ou XML.'
+        };

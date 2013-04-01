@@ -1,0 +1,17 @@
+$VAR1 = {
+          'E_BACKUP_FTPPATH' => 'Un chemin FTP est requis et doit avoir une longueur comprise entre 1 et 255 caractères.',
+          'E_BACKUP_TIME' => 'Votre heure de sauvegarde est incorrecte  (exemple 2:00)',
+          'E_BACKUP_NO_WRITE' => 'Connexion réussie et le chemin est correct mais impossible de transférer le fichier de test.<br/>Assurez-vous que vous avez des droits en écriture sur ce chemin.',
+          'E_BACKUP_FTPHOST' => 'Un hôte FTP est requis et doit avoir une longueur comprise entre 1 et 64 caractères.',
+          'E_BACKUP_NO_CONNECTION' => 'Aucune connexion n\'a pu être établie avec le serveur FTP.<br/>Assurez-vous d\'avoir tapé le nom d\'hôte correctement, qu\'il héberge un serveur FTP, et que votre PBX peut atteindre votre hôte FTP (par ex. Aucune blocage de pare-feu).',
+          'E_BACKUP_NO_PATH' => 'La connexion est réussie mais le chemin FTP donné n\'est pas accessible.<br/>Veuillez vous assurer que le chemin existe et que vous avez les permissions requises pour y accéder.',
+          'E_BACKUP_FTPUSER' => 'Un utilisateur FTP est requis et doit avoir une longueur comprise entre 1 et 32 caractères',
+          'WGQ_INSTALLING_ADDITIONA' => 'Installation de module supplémentaire.',
+          'E_BACKUP_NO_LOGIN' => 'Impossible de se connecter au serveur FTP.  Assurez-vous que vous avez saisi un nom d\'utilisateur et un mot de passe corrects pour ce serveur.',
+          'E_BACKUP_NUMBACKUPS' => 'Nombre de sauvegardes non valide (1-99)',
+          'E_BACKUP_NO_DELETE' => 'La connexion est réussie, le chemin correct, et le fichier de test a pu être écrit mais impossible de le supprimer.<br/>Assurez-vous que vous avez le droit de suppression sur ce chemin.',
+          'OPN_SUCCESSFULLY_INSTALL' => 'Module RPM installé correctement.',
+          'E_BACKUP_SUFFIX' => 'Un suffixe de sauvegarde est requis.',
+          'E_BACKUP_WEEKDAY' => 'Vous devez choisir un jour pour la sauvegarde',
+          'E_BACKUP_FTPPASS' => 'Un mot de passe FTP est requis et doit avoir une longueur comprise entre 1 et 32 caractères'
+        };

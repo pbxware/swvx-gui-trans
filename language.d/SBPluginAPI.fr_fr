@@ -1,0 +1,11 @@
+$VAR1 = {
+          'NBN_YOU_HAVE_SELECTED' => 'Vous avez sélectionné plus de membre que votre licence ne le permet (license_count).',
+          'EMF_DID_NOT_REC_VALID_DIG' => 'Aucune réponse valide reçue de la part de la passerelle d\'application.',
+          'RAS_ERROR_READING_XML' => 'Erreur de lecture XML de la passerelle d\'application (%1)',
+          'TYU_COULD_NOT_FIND_CREATE' => 'Impossible de trouver/créer un ID de panneau/tableau',
+          'KNC_INVALID_LIC_CNT_DB' => 'Nombre de licences trouvé dans la base de donnée non valide.',
+          'AXX_INVALID_LIC_CNT' => 'Nombre de licences non valide',
+          'ASD_COULD_NOT_ACCESS' => 'Impossible d\'accéder à la passerelle d\'application.  Veuillez vérifier que votre PBX a accès à internet. (%1)',
+          'XBC_DID_NOT_RECEIVE_A_VALID' => 'Nombre de licences reçu de la passerelle d\'application non valide.',
+          'BOQ_INTERNAL_SQL_ERROR' => 'Erreur SQL interne.'
+        };

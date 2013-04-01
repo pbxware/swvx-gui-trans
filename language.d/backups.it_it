@@ -1,0 +1,17 @@
+$VAR1 = {
+          'E_BACKUP_FTPPATH' => 'Il percorso FTP è richiesto e deve avere una lunghezza di 1-255 caratteri',
+          'E_BACKUP_FTPHOST' => 'L\'host FTP è richiesto e deve avere una lunghezza di 1-64 caratteri',
+          'E_BACKUP_NO_WRITE' => 'Accesso eseguito e percorso corretto ma non è possibile caricare un file di test.<br/>Assicurarsi di disporre del permesso di scrittura in questo percorso.',
+          'E_BACKUP_TIME' => 'Il tempo di backup non è corretto. (Esempio 2:00)',
+          'E_BACKUP_NO_CONNECTION' => 'Non è stato possibile stabilire una connessione con il server ftp.<br/>Assicurarsi di aver digitato l\'host correttamente, che sia in esecuzione un server ftp valido e che la macchina PBX disponga di un percorso all\'host ftp utilizzato (ad es. presenza di firewall).',
+          'E_BACKUP_FTPUSER' => 'L\'utente FTP è richiesto e deve avere una lunghezza di 1-32 caratteri',
+          'E_BACKUP_NO_PATH' => 'Accesso eseguito ma non è possibile accedere al percorso FTP fornito.<br/>Assicurarsi che il percorso esista e di disporre dei permessi adeguati per accedervi.',
+          'E_BACKUP_NO_LOGIN' => 'Impossibile accedere al server ftp. Assicurarsi di aver inserito nome utente e password corretti per questo server.',
+          'WGQ_INSTALLING_ADDITIONA' => 'Installazione di modulo aggiuntivo.',
+          'E_BACKUP_NUMBACKUPS' => 'Numero backup non valido (1-99)',
+          'E_BACKUP_NO_DELETE' => 'Accesso eseguito, percorso corretto, e scrittura file di test riuscita ma impossibile eliminare file di test.<br/>Assicurarsi di disporre dei permessi di eliminazione in questo percorso.',
+          'OPN_SUCCESSFULLY_INSTALL' => 'Modulo rpm installato correttamente.',
+          'E_BACKUP_SUFFIX' => 'Suffisso backup richiesto.',
+          'E_BACKUP_WEEKDAY' => 'È necessario scegliere il giorno del backup',
+          'E_BACKUP_FTPPASS' => 'Pass FTP è richiesto e deve avere una lunghezza di 1-32 caratteri'
+        };

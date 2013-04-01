@@ -1,0 +1,10 @@
+$VAR1 = {
+          'BAB_YOU_ARE_NOT_ALLOWED' => 'Usted no tiene permiso para cambiar el nombre de la cuenta de administrador predeterminada.',
+          'NEN_INVALID_ACCESS_LEVEL' => 'Configuración del nivel de acceso no válida (%1) El nivel de acceso para %2 debe estar situado en (%3)',
+          'TRH_THE_LOGIN_YOU_ENTERE' => 'El nombre de acceso que ha introducido (%1) ya está siendo utilizado por otro administrador.',
+          'XLF_INVALID_ADMIN_ID_1' => 'Admin_id no válido (%1). admin._ids solo puede contener dígitos.',
+          'SDY_YOU_ARE_NOT_ALLOWED' => 'Usted no tiene permiso para modificar los permisos de acceso para la cuenta de administrador predeterminada.',
+          'WVD_ADMIN_NAME_MAY_ONLY' => 'Nombre de admin. no válido (%1). El nombre de la administración sólo puede contener caracteres alfanuméricos y debe tener entre 1 y 32 caracteres.',
+          'MNX_THE_REQUESTED_ADMIN' => 'El id de administrador (%1) solicitado no existe.',
+          'WWP_YOU_ARE_NOT_ALLOWED' => 'Usted no tiene permiso para eliminar la cuenta de administrador predeterminada.'
+        };

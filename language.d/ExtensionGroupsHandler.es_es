@@ -1,0 +1,4 @@
+$VAR1 = {
+          'IRA_VOICEMAIL_QUOTA_MUST' => 'La cuota del buzón de voz debe ser numérica',
+          'TZX_DEFAULT_GROUP' => 'Grupo predeterminado'
+        };

@@ -1,0 +1,19 @@
+$VAR1 = {
+          'UNO_PHONEBOOKS' => 'Répertoires Téléphoniques',
+          'CVC_SUCCESS_SAVE_PANEL_SETTINGS' => 'Les paramètres ont été correctement enregistrés',
+          'NNJ_SUGARCRM' => 'SugarCRM',
+          'PKR_DIRECTORY' => 'Répertoire',
+          'IDM_GOOGLE_MAPS' => 'Google Maps',
+          'KDZ_SALESFORCE' => 'Service commercial',
+          'BHB_MISSING_YOUR_EXYENSION' => 'Numéro de poste manquant pour l\'appel de save_sbpanel_settings',
+          'PDH_CUSTOM_PANEL' => 'Panneau personnalisé',
+          'ZOV_CALL_QUEUES' => 'Files d\'attente',
+          'NEZ_CHAT' => 'Chat',
+          'MZY_PARKING_LOT' => 'Parking',
+          'SN_CALL_MON' => 'Appels en cours',
+          'PZQ_PHONEBOOK' => 'Répertoire téléphonique',
+          'PPD_YOUR_SB_EXT_DID_NOT_MATCH' => 'Votre numéro de poste au Standard ne correspond à pas au numéro de poste de connexion. Veuillez actualiser votre Standard.',
+          'LIJ_DEMO' => 'Démo',
+          'CHT_CALL_QUEUE' => 'File d\'attente',
+          'AOZ_MISSING_YOUR_SBPANEL_ID' => 'sbpanel_id manquant pour l\'appel de save_sbpanel_settings'
+        };

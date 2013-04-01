@@ -1,0 +1,9 @@
+$VAR1 = {
+          'ZFU_INVALID_CALLER_ID_NA' => 'Nombre de ID de persona que llama no válido. El nombre de ID de la persona que llama solo puede contener caracteres alfanuméricos, espacios,_,o &.',
+          'GTH_PROBLEMS_CONNECTING' => 'Problemas con la conexión al servidor en Asterisk (%1).',
+          'WOH_INVALID_VARIABLE_FOR' => 'Formato de variable no válido para el parámetro (%1). El formato de la variable debe ser VARIABLE_NAME=VARIABLE_VALUE.',
+          'HGG_INVALID_DIAL_AS_EXTE' => 'Marcado como extensión no válido. Esa extensión no existe en el sistema o es de un tipo no válido. Por favor, seleccione una extensión SIP, analógica o virtual válida.',
+          'ZJQ_INVALID_PHONE_NUMBER' => 'Número de teléfono o extensión no válidos para el parámetro %1. El número sólo puede contener dígitos, *, o #.',
+          'UFZ_YOUR_CALL_FAILED_TO' => 'Su llamada no pudo conectarse (%1).',
+          'FVN_INVALID_TIMEOUT_MUS' => 'Tiempo de espera no válido. Debe ser un número entre 0 y 999.'
+        };

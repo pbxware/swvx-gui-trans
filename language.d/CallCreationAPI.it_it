@@ -1,0 +1,17 @@
+$VAR1 = {
+          'OSC_THE_PASSWORD_YOU_SUP' => 'La password fornita non è corretta. Per cercare una password di chiamata API visitare la sezione ‘Modifica password amministratore\' nella suite di amministrazione on line del PBX.',
+          'DJD_THE_NUMBER_NUM_YO' => 'Il numero (%1) inserito nella variabile %2 contiene caratteri non validi.',
+          'WAB_YOU_DID_NOT_AUTHENTI' => 'L\'autenticazione come amministratore non è stata eseguita correttamente',
+          'OTC__YOU_MUST_BE_LOGGED' => ' È necessario essere connessi alla suite on line di PBX per l\'autenticazione.',
+          'RWE_YOUR_TIMEOUT_MUST_BE' => 'Il timeout deve essere un numero valido tra o e 99.',
+          'AHH_MISSING_THE_DIAL_FI' => 'Parametro  "dial_first" mancante in Chiamata API',
+          'GDT_THE_DIAL_AS_EXTENS' => 'L\'estensione \'dial_as\' extension inserita non esistenel sistema o è un tipo di estensione non valida. Scegliere un\'estensione SIP, Analogica o Virtuale valida.',
+          'KJB_YOU_ARE_DIALING_AS_T' => 'Si sta componendo in qualità di amministrazione ma non è stata definita l\'estensione di composizione nel sistema.  Aggiungi \'&dial_as=XXX\' (dove XXX è il numero di estensione) alla fine dell\'URL per utilizzare le regole di chiamata in uscita di tale estensione. ',
+          'EGK_YOU_ATTEMPTING_TO_DI' => 'Tentativo di comporre un numero esterno ma non è stata definita l\'estensione di composizione nel sistema. Aggiungi \'&dial_as=XXX\' (dove XXX è il numero di estensione) alla fine dell\'URL per utilizzare le regole di chiamata in uscita di tale estensione.',
+          'MCE_COULD_NOT_AUTHENTICA' => 'Impossibile autenticare l\'estensione (%1). Forse è stata inviata una password errata',
+          'WNY_MISSING_YOUR_PASSWOR' => 'Password mancante per accesso come amministratore',
+          'TSI_PROBLEMS_CONNECTING' => 'Problemi durante la connessione al server asterisk:',
+          'CRQ_COULD_NOT_AUTHENTICA' => 'Impossibile autenticare l\'estensione (%1). Poiché non è stata fornita una password',
+          'HOM_MISSING_THE_DIAL_SE' => 'Parametro  "dial_second" mancante in Chiamata API',
+          'QWH_THE_EXTENSION_EXTE' => 'L\'estensione (%1) richiesta per la chiamata non esiste nel sistema. '
+        };

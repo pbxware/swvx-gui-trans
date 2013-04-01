@@ -1,0 +1,5 @@
+$VAR1 = {
+          'OGU_ABANDONED' => 'abandonado',
+          'IRU_REDIRECTED' => 'redigirido',
+          'LSK_COMPLETED' => 'completado'
+        };

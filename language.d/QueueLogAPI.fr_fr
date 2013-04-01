@@ -1,0 +1,10 @@
+$VAR1 = {
+          'QXU_CANT_PLOT_GRAPH' => 'Impossible de tracer le graphe :  %1',
+          'PDK_PROBLEMS_MOVING_QUEU' => 'Problème pour déplacer le fichier d\'historique de file :  %1 (%2)',
+          'OAK_NOT_AVAILABLE' => 's/o',
+          'QTD_MISSING_START_DATE' => 'start_date manquante',
+          'SLS_CANT_OPEN_GRAPH_FOR' => 'Impossible d\'ouvrir le graphe pour écrire :  %1',
+          'AGD_QUEUE_LOG_HAS_NOT_CH' => 'queue_log n\'a pas changé.  Analyse à partir de la position :  %1',
+          'IBM_COULDNT_READ_LOG_FI' => 'Impossible de lire le fichier de log (%1) :  %2',
+          'NPP_MISSING_END_DATE' => 'end_date manquante'
+        };

@@ -1,0 +1,9 @@
+$VAR1 = {
+          'NBB_THE_XML_TEMPLATE_1' => 'La plantilla xml (%1) que solicitó no existe.',
+          'ZCQ_MISSING_REQUEST_TA' => 'Falta la etiqueta <request> en su solicitud de xml.',
+          'QMH_YOUR_XML_IS_MALFORME' => 'Su XML está mal generado junto a la etiqueta (%1).',
+          'HED_PROBLEMS_PARSING_THE' => 'Problemas al analizar la plantilla xml (%1).',
+          'ZSI_THE_XML_IN_YOUR_XMLR' => 'El xml de su solicitud xmlrpc estaba mal generado.',
+          'SPX_THE_XMLRPC_METHODNAM' => 'El XMLRPC methodName (%1) no coincide con el método (%2) de su solicitud.',
+          'YMX_YOUR_XML_IS_NOT_CORR' => 'Su xml no se formateó correctamente.'
+        };

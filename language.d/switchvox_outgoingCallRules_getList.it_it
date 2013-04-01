@@ -1,0 +1,14 @@
+$VAR1 = {
+          'EKD_IAX_PROVIDER' => 'Fornitore IAX',
+          'EQJ_SIP_PROVIDER' => 'Fornitore SIP',
+          'KVC_REMOVED' => 'Rimosso',
+          'XIX_INTERNAL' => 'Interni',
+          'HCH_LOCAL' => 'Locali',
+          'PLM_ONE_NINE_HUNDRED' => 'Numeri 1-900',
+          'ZAZ_INTERNATIONAL' => 'Internazionali',
+          'JXQ_CHANNEL_GROUP' => 'Gruppo canali',
+          'DYO_UNKNOWN' => 'Sconosciuto',
+          'RFR_NINE_ONE_ONE' => '911',
+          'YGV_LONG_DISTANCE' => 'Interurbani',
+          'RPX_TOLL_FREE' => 'Numeri verdi'
+        };

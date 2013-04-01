@@ -1,0 +1,11 @@
+$VAR1 = {
+          'EMF_DID_NOT_REC_VALID_DIG' => 'Impossibile ricevere un digest valido dal gateway dell\'applicazione',
+          'NBN_YOU_HAVE_SELECTED' => 'Sono stati selezionati più utenti rispetto al license_count valido',
+          'RAS_ERROR_READING_XML' => 'Si è verificato un errore durante la lettura dell\'XML dal gateway dell\'applicazione (%1)',
+          'KNC_INVALID_LIC_CNT_DB' => 'Conteggio licenza non valido trovato nel database',
+          'TYU_COULD_NOT_FIND_CREATE' => 'Impossibile trovare/creare un id panello',
+          'AXX_INVALID_LIC_CNT' => 'Conteggio licenza non valido',
+          'ASD_COULD_NOT_ACCESS' => 'Impossibile accedere al gateway dell\'applicazione. Verificare che il PBX disponga di accesso a internet. (%1)',
+          'XBC_DID_NOT_RECEIVE_A_VALID' => 'Impossibile ricevere un conteggio licenza valida dal gateway dell\'applicazione.',
+          'BOQ_INTERNAL_SQL_ERROR' => 'Errore Interno di SQL.'
+        };

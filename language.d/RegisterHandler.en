@@ -1,0 +1,8 @@
+$VAR1 = {
+          'TGC_PROB_GETTING_MAC' => 'Problems getting the MAC Address of your machine. Perhaps this is non standard hardware?',
+          'BHU_PROB_DL_REG_FILE' => 'Problems downloading registration file',
+          'XUJ_PROB_SUBMIT_CONFIG' => 'Problems submitting your config file. Please try again',
+          'FDD_PROB_FETCH_LIC' => 'Problems fetching your license file. Please try again',
+          'YYH_PROB_DL_LIC' => 'Problems downloading your license file. Please try again',
+          'TGX_UNABLE_SPAWN_UPDATE' => 'Unable to spawn your update process.'
+        };

@@ -1,0 +1,4 @@
+$VAR1 = {
+          'LIS_MAIN_EXTENSION' => 'Estensione principale',
+          'ABO_CONVERGING_WITH_THAT' => 'La convergenza con questo account non è supportata.'
+        };

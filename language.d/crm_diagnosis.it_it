@@ -1,0 +1,12 @@
+$VAR1 = {
+          'RSD_E_NO_APPS_RESPONSE' => 'Non è stato possibile ricevere una risposta adeguata dal gateway dell\'applicazione. Verificare la propria connessione e assicurarsi di non avere regole di firewall che bloccano le richieste https in uscita.',
+          'RSD_E_MISSING_REG' => 'È necessario registrare il sistema prima di utilizzare i plugin.',
+          'RSD_D_APP_LOOKUP' => 'Test ricerca numero di telefono',
+          'RSD_D_DNS_APPS' => 'Test ricerca server applicazione',
+          'RSD_D_DNS_LOOKUP_URI' => 'Risoluzione DNS di URI su test server applicazione',
+          'RSD_E_DNS_APPS' => 'Impossibile risolvere il server di applicazione ( %1 ), probabilmente il server DNS non sta cercando gli host correttamente. Visitare la sezione <a href="/admin?cmd=network_settings">Impostazioni di rete</a> per assicurarsi che l\'indirizzo IP DNS sia stato inserito correttamente e verificare che il server DNS funzioni correttamente.',
+          'RSD_SM_DNS_APPS' => 'Ricerca DNS sul server applicazione riuscita.',
+          'RSD_D_VALID_REG' => 'Convalida stato assistenza in corso',
+          'RSD_D_APP_LOGIN' => 'Test di accesso',
+          'RSD_NT_DNS_APPS' => 'Questo test non è necessario perchè il servizio CRM è accessibile pubblicamente.'
+        };

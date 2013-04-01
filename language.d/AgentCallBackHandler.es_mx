@@ -1,0 +1,6 @@
+$VAR1 = {
+          'TXY_MISSING_CALL_QUEUE_ID' => 'Falta el ID de cola de llamadas',
+          'IOX_SUCCESS_MODIFY' => 'se modificó su extensión correctamente',
+          'IXT_MISSING_ACCOUNT_ID' => 'Falta el ID de cuenta',
+          'AOS_SUCCESS_DELETE' => 'Se eliminó la extensión correctamente'
+        };

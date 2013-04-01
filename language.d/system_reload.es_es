@@ -1,0 +1,10 @@
+$VAR1 = {
+          'SM_RESTARTING' => 'El software se ha reiniciado correctamente.',
+          'E_RESTARTING' => 'Error al reiniciar su servidor.',
+          'SM_RELOADING' => 'El software se ha recargado correctamente.',
+          'E_RELOADING' => 'Error al recargar su configuración.',
+          'E_SHUTDOWN' => 'Error al apagar su servidor.',
+          'SM_REBOOT' => 'En estos momentos, se está reiniciado su sistema. Debería estar operativo en breve.',
+          'E_REBOOT' => 'Error al reiniciar su servidor.',
+          'SM_SHUTDOWN' => 'En estos momentos, el sistema se está apagando.'
+        };

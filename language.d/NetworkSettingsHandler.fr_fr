@@ -1,0 +1,21 @@
+$VAR1 = {
+          'PXT_ENABLED_MUST_BE_EITH' => 'Activé doit être 1 ou 0.',
+          'JKT_PORT_MUST_BE_A_1_TO' => 'Le port doit être un nombre de 1 à 5 chiffres pour être valide.',
+          'IQO_ERROR_CREATING_SIPC' => 'Erreur de création de sip.conf',
+          'ABA_NETWORK_IS_CURRENTLY' => 'Le réseau est en cours de redémarrage.',
+          'WGY_PROBLEMS_FETCHING_YO' => 'Problème de récupération de la configuration réseau',
+          'TXA_EXTERNAL_IP_ADDRESS' => 'L\'adresse IP externe/nom d\'hôte peut uniquement contenir des caractères alphanumériques.',
+          'WEI_NETMASK_IS_IN_THE_FO' => 'Le masque réseau est au format xxx.xxx.xxx.xxx avec chaque quadrant ayant une valeur de 128, 192, 224, 240, 248, 252, 254, 255 ou 0.',
+          'OCR_INVALID_AUDIOVIDEO' => 'Valeur de TOS Audio/Vidéo non valide.',
+          'VRH_YOUR_HOSTNAME_CAN_NO' => 'Votre nom d\'hôte ne peut contenir d\'espaces.',
+          'EXB_YOU_MUST_ENTER_AN_EX' => 'Vous devez saisir une adresse IP externe / nom d\'hôte si vous choisissez une redirection de port NAT.',
+          'OHQ_YOU_ARE_ONLY_ALLOWED' => 'Seules 3 entrées DNS sont autorisées.',
+          'TBE_IP_ADDRESS_SHOULD_BE' => 'L\'adresse IP doit être au format xxx.xxx.xxx.xxx.',
+          'IOT_ERROR_GENERATING_IAX' => 'Erreur de génération de la config IAX',
+          'LKT_YOUR_EXTERNAL_IP_ADD' => 'Votre adresse IP externe / nom d\'hôte ne peut contenir d\'espaces.',
+          'MMS_PLEASE_SUPPLY_A_SSL' => 'Veuillez fournir une clé SSL RSA qui ne soit pas protégée par mot de passe.',
+          'EHE_YOU_MUST_FILL_IN_BOT' => 'Vous devez donner la clé SSL et le certificat SSL.',
+          'LEO_ADDITIONAL_LOCAL_NET' => 'Réseau Local Supplémentaire',
+          'LHF_PROTOCOL_MUST_BE_DHC' => 'Le protocole doit être DHCP ou statique.',
+          'JGF_HOSTNAME_CAN_ONLY_IN' => 'Le nom d\'hôte peut uniquement contenir des caractères alphanumériques.'
+        };

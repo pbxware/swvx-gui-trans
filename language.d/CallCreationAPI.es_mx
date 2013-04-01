@@ -1,0 +1,17 @@
+$VAR1 = {
+          'OSC_THE_PASSWORD_YOU_SUP' => 'La contraseña que introdujo es incorrecta. Para comprobar su contraseña del API de llamadas, visite la sección Cambiar contraseña Admin del paquete de administración online de PBX.',
+          'DJD_THE_NUMBER_NUM_YO' => 'El número (%1) que introdujo en la variable %2 contiene caracteres que no son válidos.',
+          'WAB_YOU_DID_NOT_AUTHENTI' => 'No realizó una autentificación correcta como administrador.',
+          'OTC__YOU_MUST_BE_LOGGED' => ' Tiene que haberse conectado al paquete online PBX para realizar una autentificación.',
+          'RWE_YOUR_TIMEOUT_MUST_BE' => 'Su tiempo de espera debe ser un número válido entre 0 y 99.',
+          'AHH_MISSING_THE_DIAL_FI' => 'Falta el parámetro "dial_first" en su llamada API.',
+          'GDT_THE_DIAL_AS_EXTENS' => 'La extensión \'dial_as\'  que indicó no existe en el sistema o se trata de un tipo de extensión que no es válido. Por favor, seleccione una extensión SIP, analógica o virtual válida.',
+          'KJB_YOU_ARE_DIALING_AS_T' => 'Está marcando como administrador pero no definió la extensión del sistema con la que desea marcar.  Añada \'&dial_as=XXX\' (siendo XXX el número de extensión) al final de su URL para utilizar esas reglas de llamadas salientes de la extensión. ',
+          'EGK_YOU_ATTEMPTING_TO_DI' => 'Está intentando marcar un número externo pero no definió la extensión del sistema con la que desea marcar. Añada \'&dial_as=XXX\' (siendo XXX el número de extensión) al final de su URL para utilizar esas reglas de llamadas salientes de la extensión.',
+          'MCE_COULD_NOT_AUTHENTICA' => 'No se pudo autentificar su extensión (%1). Puede que haya enviado la contraseña incorrecta.',
+          'WNY_MISSING_YOUR_PASSWOR' => 'Falta su contraseña para su acceso de administrador',
+          'TSI_PROBLEMS_CONNECTING' => 'Problemas al conectar con el servidor en Asterisk:',
+          'CRQ_COULD_NOT_AUTHENTICA' => 'No se pudo autentificar su extensión (%1). Ya que no recibió una contraseña ',
+          'HOM_MISSING_THE_DIAL_SE' => 'Falta el parámetro "dial_second" en su llamada API.',
+          'QWH_THE_EXTENSION_EXTE' => 'La extensión (%1) que solicitó llamar no existe en el sistema. '
+        };

@@ -1,0 +1,7 @@
+$VAR1 = {
+          'YLA_MISSING_ACCOUNT_ID' => 'ID du compte manquant',
+          'GCY_MISSING_THE_VALUES' => 'Valeurs manquantes pour l\'agent de création',
+          'MXL_MISSING_EXTENSION_IN' => 'Poste manquant lors de l\'appel de create_gp_extension',
+          'JET_MISSING_EXTENSION_IN' => 'Poste manquant pour l\'agent de création de poste',
+          'EAB_MISSING_ID_IN_GET_CA' => 'ID de get_call_queue_values manquant'
+        };

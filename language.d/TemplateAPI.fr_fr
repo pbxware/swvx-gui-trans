@@ -1,0 +1,8 @@
+$VAR1 = {
+          'AJX_YOU_ARE_NOT_ALLOWED' => 'Vous n\'êtes pas autorisé(e) à supprimer le modèle de poste par défaut.',
+          'QSN_AN_EXTENSION_TEMPLAT' => 'Un modèle de poste de ce nom existe déjà. Veuillez choisir un autre nom.',
+          'CMH_MISSING_ACCOUNT_ID' => 'ID du compte manquant',
+          'XKZ_MISSING_TEMPLATE_NAM' => 'Nom de Modèle Manquant',
+          'HAN_MISSING_VALUES' => 'Valeurs Manquantes',
+          'OXY_DEFAULT' => 'par défaut'
+        };

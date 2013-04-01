@@ -1,0 +1,8 @@
+$VAR1 = {
+          'AJX_YOU_ARE_NOT_ALLOWED' => 'Non è consentito rimuovere il modello di estensione predefinito.',
+          'QSN_AN_EXTENSION_TEMPLAT' => 'Esiste già un modello di estensione con quel nome. Scegliere un nome differente.',
+          'CMH_MISSING_ACCOUNT_ID' => 'ID account mancante',
+          'XKZ_MISSING_TEMPLATE_NAM' => 'Nome modello mancante',
+          'HAN_MISSING_VALUES' => 'Valori mancanti',
+          'OXY_DEFAULT' => 'Predefiniti'
+        };

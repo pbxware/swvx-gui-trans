@@ -1,0 +1,6 @@
+$VAR1 = {
+          'GJC_INVALID_VALUE_ENTERE' => 'Valeur saisie non valide',
+          'TWP_NO_MAPPING' => 'Aucun mappage',
+          'PGD_SUCCESSFULLY_SET_YOU' => 'Visibilité de vos fournisseurs de Voix sur IP correctement définie',
+          'BRE_INVALID_VALUE_ENTERE' => 'Valeur saisie non valide'
+        };

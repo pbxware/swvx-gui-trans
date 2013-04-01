@@ -1,0 +1,22 @@
+$VAR1 = {
+          'E_DATE_RANGE_ERROR' => 'Le \'Jusqu\'à\' est avant votre \'A Partir De\'',
+          'E_MISSING_CALLER_ID_NAME' => 'Vous devez saisir soit un Nom soit un Numéro de ID Appelant',
+          'E_INVALID_START_DATE' => 'Date de début non valide.  Le format de date est (jj/mm/aaaa)',
+          'E_INVALID_SORT_FIELD' => 'Champ de tri non valide',
+          'E_INVALID_REPORT_FIELD' => 'report_field (%1) non valide',
+          'E_CHART' => 'Vous ne pouvez grapher qu\'un seul champ à la fois.',
+          'E_INVALID_REPORT_FORMAT' => 'Format de non valide',
+          'E_INVALID_END_DATE' => 'Date de fin non valide. Le format de date est (jj/mm/aaaa)',
+          'E_INVALID_SORT_ORDER' => 'Ordre de tri non valide',
+          'E_SEARCH_NUMBER_TOO_SHORT' => 'Notre numéro de recherche doit avoir une longueur minimale de 2 chiffres',
+          'E_INVALID_BREAKDOWN' => 'Détail non valide',
+          'FPR_INCOMING_DID_IS_INVA' => 'DID entrant non valide.  Doit être un nombre de 3 à 32 caractères de long.',
+          'E_PAGE_NUMBER_NUM_ONLY' => 'page_number ne peut contenir que des chiffres',
+          'WUD_COULD_NOT_WRITE_GRAP' => 'Impossible d\'écrire le fichier du graphe sur le disque (%1).',
+          'E_INVALID_SEARCH_TYPE' => 'Type de recherche non valide',
+          'E_SEARCH_NAME_TOO_SHORT' => 'Votre nom de recherche doit faire au moins 2 caractères de long',
+          'E_ITEMS_PER_PAGE_NUM_ONLY' => 'items_per_page ne doit contenir que des chiffres',
+          'VRL_COULD_NOT_PLOT_GRAPH' => 'Impossible de tracer le fichier du graphe (%1).',
+          'E_INVALID_IGNORE_WEEKENDS' => 'ignore_weekends non valide',
+          'E_MISSING_ACCOUNT' => 'Vous devez fournir au moins 1 compte et/ou ID de fournisseur'
+        };

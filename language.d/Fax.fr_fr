@@ -1,0 +1,23 @@
+$VAR1 = {
+          'VVA_MISSING_TIFF_FILE' => 'Fichier TIFF Manquant !',
+          'KYS_FAX' => 'Fax',
+          'SRU_OVER_QUOTA' => 'Quota Dépassé !!',
+          'ISV_FAX_FOR_EXTENSION' => 'Echec de l\'envoi du fax du poste (%1) pour le numéro (%2r) le nombre de fois maximum. (%3)',
+          'BYA_PROBLEMS_CONNECTING' => 'Problèmes de connexion au serveur asterisk:',
+          'SNJ_FAILED_TO_ORIGINATE' => 'Impossible d\'initier un appel et d\'envoyer un fax (%1)',
+          'QHU_THERE_WAS_AN_ERROR_F' => 'Une erreur est survenue pour distribuer...',
+          'DZV_MISSING_PROGRESS_ID' => 'progress_id manquant',
+          'PYP_MISSING_CALLER_ID_NU' => 'Numéro ID appelant manquant!!',
+          'CIN_FAILED_TO_CREATE_TIF' => 'Impossible de créer le fichier TIFF à faxer',
+          'NJK_MISSING_FAX_NUMBER' => 'Numéro de fax manquant !',
+          'XLM_YOUR_FAX_WAS_SUCCESS' => 'Votre fax a été envoyé correctement',
+          'XFF_MISSING_PROVIDER' => 'Fournisseur manquant !!',
+          'NJI_DRAFTS' => 'Brouillons',
+          'DXB_MISSING_FOLDER' => 'Dossier manquant',
+          'PDV_MISSING_USER' => 'Utilisateur manquant',
+          'LBQ_MISSING_UID' => 'UID manquant',
+          'DJZ_MISSING_CALLER_ID_NA' => 'Nom d\'ID de l\'appelant manquant!!',
+          'OKN_SENT' => 'Envoyé',
+          'NZY_OUTBOX' => 'Boite d\'envoi',
+          'YAA_MISSING_SOURCE' => 'Origine manquante !!'
+        };

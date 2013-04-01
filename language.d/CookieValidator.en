@@ -1,0 +1,7 @@
+$VAR1 = {
+          'UGK_MISSING_USER_NAME' => 'Missing User Name',
+          'HRX_MISSING_PASSWORD' => 'Missing Password',
+          'IAT_MISSING_USER_NAME' => 'Missing User Name',
+          'UJX_EXTENSIONS_MAY' => 'Extension must be only valid digits',
+          'OAK_YOU_ARE_NOT_ALLOWED' => 'You are not allowed to access the web administration.',
+        };

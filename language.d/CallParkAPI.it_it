@@ -1,0 +1,16 @@
+$VAR1 = {
+          'TLS_MISSING_EXTENSION_IN' => 'Estensione mancante in creazione estensione',
+          'WAA_YOUR_CALL_PARK_EXTEN' => 'L\'estensione di parcheggio chiamata non può essere inclusa nell\'area parcheggio. Scegliere un\'estensione differente o un intervallo di area parcheggio differente.',
+          'XIX_INTERNAL' => 'Interni',
+          'HCH_LOCAL' => 'Locali',
+          'PLM_ONE_NINE_HUNDRED' => 'Numeri 1-900',
+          'ZAZ_INTERNATIONAL' => 'Internazionali',
+          'JET_MISSING_EXTENSION_IN' => 'Estensione mancante in creazione estensione agente',
+          'EAB_MISSING_ID_IN_GET_CA' => 'Id mancante in get_call_queue_values',
+          'NYO_THE_RANGE_OF_RESERVE' => 'L\'intervallo di estensioni parcheggio riservate non può includere più di 99 estensioni.',
+          'PFA_THE_PARKING_LOT_END' => 'L\'estensione di fine dell‘area parcheggio deve essere maggiore dell\'inizio dell\'area parcheggio.',
+          'RFR_NINE_ONE_ONE' => '911',
+          'YLA_MISSING_ACCOUNT_ID' => 'ID account mancante',
+          'YGV_LONG_DISTANCE' => 'Interurbani',
+          'RPX_TOLL_FREE' => 'Numeri verdi'
+        };

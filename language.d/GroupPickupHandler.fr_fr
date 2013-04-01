@@ -1,0 +1,10 @@
+$VAR1 = {
+          'RTC_ACCOUNT_ID_MISSING' => 'ID de compte manquant',
+          'OKX_SUCCESS_DELETE' => 'Numéro de poste du groupe de prise d\'appel ciblé correctement supprimé.',
+          'UXR_MISSING_USR_GRP_TYPE' => 'Type de groupe d\'utilisateur manquant',
+          'MMA_MISSING_AUTH_GRP_TYPE' => 'Type de groupe autorisé manquant',
+          'TZX_DEFAULT_GROUP' => 'Groupe par défaut',
+          'MNB_MISSING_AUTH_GRP_ID' => 'ID de groupe autorisé manquant',
+          'TXF_MISSING_GRP_TYPE' => 'ID de groupe d\'utilisateur manquant',
+          'UIX_SUCCESS_MODIFY' => 'Votre numéro de prise d\'appel ciblé a été correctement modifié'
+        };

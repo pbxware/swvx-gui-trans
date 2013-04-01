@@ -1,0 +1,6 @@
+$VAR1 = {
+          'TFD_HOME_OFFICE' => 'Bureau Maison',
+          'TBS_LUNCH' => 'Déjeuner',
+          'STG_VACATION' => 'Congé',
+          'JDT_WITH_CUSTOMER' => 'Avec Client'
+        };

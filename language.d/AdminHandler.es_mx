@@ -1,0 +1,17 @@
+$VAR1 = {
+          'DFZ_TOTAL_BILLABLE' => 'Total facturable',
+          'WON_SUCCESSFULLY_CHANGED' => 'Su contraseña de administrador se cambió correctamente.',
+          'OYA_WEEKENDS_ONLY' => 'Sólo fines de semana',
+          'UJB_VOIP_PROVIDER_REMIND' => 'Recordatorio de proveedor VOIP',
+          'WEL_YOU_ARE_ONLY_ALLOWED' => 'Usted sólo puede configurar una vez el valor máx. inicial de la cuenta',
+          'IJX_ADMIN' => 'Admin',
+          'FLU_SUCCESSFULLY_LOGGED' => 'Conectado correctamente como extensión (%1)',
+          'OXO_DURING_BUSINESS' => 'Durante el horario laborable',
+          'WWU_THIS_SYSTEM_HAS_NOT' => 'Este sistema no fue registrado',
+          'RDO_TOTAL_DURATION' => 'Duración total',
+          'DYT_MISSING_THE_NEW_MAX' => 'Falta el nuevo valor máx.',
+          'UMD_SUCCESSFULLY_MODIFIE' => 'Configuración de agente modificada correctamente.',
+          'WBI_MISSING_THE_ADMIN_ID' => 'Falta el ID de administrador',
+          'HRB_SUCCESSFULLY_ENABLED' => 'Idioma francés activado correctamente',
+          'OPP_OUTSIDE_BUSINESS' => 'Fuera del horario laborable'
+        };

@@ -1,0 +1,10 @@
+$VAR1 = {
+          'RTC_ACCOUNT_ID_MISSING' => 'ID Account mancante',
+          'OKX_SUCCESS_DELETE' => 'Eliminazione estensione gruppo ricezione diretta',
+          'UXR_MISSING_USR_GRP_TYPE' => 'Tipo gruppo utente mancante',
+          'MMA_MISSING_AUTH_GRP_TYPE' => 'Tipo gruppo autorizzato mancante',
+          'TZX_DEFAULT_GROUP' => 'Gruppo predefinito',
+          'MNB_MISSING_AUTH_GRP_ID' => 'Id gruppo autorizzato mancante',
+          'TXF_MISSING_GRP_TYPE' => 'Id gruppo utente mancante',
+          'UIX_SUCCESS_MODIFY' => 'Modifica estensione riuscita ricezione diretta riuscita'
+        };

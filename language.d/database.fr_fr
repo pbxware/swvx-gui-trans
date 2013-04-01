@@ -1,0 +1,10 @@
+$VAR1 = {
+          'E_DB_NO_VERIFY_CONNECT' => 'Impossible de vérifier votre connexion à la base de données.',
+          'E_DB_FAIL_PREPARE' => 'Echec de préparation SQL de la base de données.',
+          'E_DB_LABEL_NOT_FOUND' => 'Etiquette de la base de données (%1) introuvable.',
+          'E_DB_FAIL_ROLLBACK' => 'Impossible d\'exécuter le rollback SQL.',
+          'E_DB_COULD_NOT_CONNECT' => 'Impossible de se connecter à la base de données.',
+          'E_DB_FAIL_BEGIN' => 'Impossible d\'exécuter le début SQL.',
+          'E_DB_FAIL_EXECUTE' => 'Echec d\'exécution SQL de la base.',
+          'E_DB_FAIL_COMMIT' => 'Impossible d\'exécuter le commit SQL.'
+        };

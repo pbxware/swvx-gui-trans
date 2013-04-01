@@ -1,0 +1,16 @@
+$VAR1 = {
+          'NYK_DB_LABEL_LABEL_NO' => 'db label [%1] not found. Or incomplete params',
+          'LZF_DB_CONNECTION_ERROR' => 'DB Connection Error: %1',
+          'CAP_FAILED_TO_CONNECT_TO' => 'Failed to connect to the database (%1)',
+          'UNX_DB_PREP_ERROR_ERR' => 'DB Prep Error: %1',
+          'HUH_BEGIN_TRANSACTION' => 'Begin transaction',
+          'DDO_PROBLEMS_STORING_YOU' => 'Problems storing your changes. Please try again.',
+          'UEO_PROBLEMS_EXECUTING_S' => 'Problems executing sql database',
+          'UDL_DB_ERROR_ERR' => 'DB Error: %1',
+          'HOL_DATABASE_ERROR_ER' => 'Database Error: (%1)',
+          'TIT_MISSING_DATABASE' => 'Missing database',
+          'JOF_PROBLEMS_STORING_YOU' => 'Problems storing your changes. Please try again. (%1)',
+          'OEJ_DB_EXECUTION_ERROR' => 'DB Execution Error: %1',
+          'EYY_PROBLEMS_QUERY_DATAB' => 'Problems query database',
+          'STS_RECONNECT_SUCCESSFUL' => 'Reconnect successful'
+        };

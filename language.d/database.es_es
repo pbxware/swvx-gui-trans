@@ -1,0 +1,10 @@
+$VAR1 = {
+          'E_DB_NO_VERIFY_CONNECT' => 'No se ha podido verificar la conexión a su base de datos.',
+          'E_DB_FAIL_PREPARE' => 'La preparación de la base de datos sql ha fallado.',
+          'E_DB_FAIL_EXECUTE' => 'La ejecución de la base de datos sql ha fallado.',
+          'E_DB_FAIL_COMMIT' => 'No ha podido realizarse el inicio de sql.',
+          'E_DB_LABEL_NOT_FOUND' => 'No se ha encontrado la etiqueta de la base de datos (%1).',
+          'E_DB_FAIL_ROLLBACK' => 'No ha podido ejecutarse la reducción de sql.',
+          'E_DB_COULD_NOT_CONNECT' => 'No ha podido conectar con la base de datos.',
+          'E_DB_FAIL_BEGIN' => 'No ha podido ejecutarse el inicio de sql.'
+        };

@@ -1,0 +1,14 @@
+$VAR1 = {
+          'ZBY_RECURRENCE' => 'Schéma récurrent',
+          'NWT_END_EVENT' => 'Evènement de fin',
+          'DCD_YOU_DONT' => 'Vous n\'avez aucun rapport programmé.',
+          'OTG_MODIFY' => 'Modifier',
+          'NCN_SCHEDULED_REPORTS' => 'Rapports Programmés',
+          'HEX_FULL_RECURRENCE' => 'Schéma récurrent complet',
+          'YHB_MISSING_REPORT_ID' => 'ID de rapport programmé manquant.',
+          'USU_REPORT_TYPE' => 'Type de compte-rendu',
+          'ALB_START_DATE' => 'Date de début',
+          'HHR_DELETE' => 'Supprimer',
+          'ZRP_REPORT_NAME' => 'Nom de compte-rendu',
+          'BRS_MODIFY_DELETE' => 'Modifier / Supprimer'
+        };

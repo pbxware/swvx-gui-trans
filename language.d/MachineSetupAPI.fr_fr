@@ -1,0 +1,9 @@
+$VAR1 = {
+          'SWU_MISSING_OUTGOING_RUL' => 'ID de règle d\'appel sortant manquant',
+          'KLZ_THERE_IS_A_PROBLEM_W' => 'Il y a un problème avec votre expression régulière.',
+          'KIS_MISSING_DATA' => 'Données manquantes',
+          'NTK_MISSING_OUTGOING_RUL' => 'règles pour les appels sortants manquantes pour le réordonnancement',
+          'CQC_MISSING_CGI' => 'CGI manquant',
+          'ALI_INVALID_OUTGOING_CON' => 'Règle contextuelle sortante non valide.  Aucune priorité.',
+          'AYT_MISSING_DATABASE_OBJ' => 'Objet de base de données manquant'
+        };

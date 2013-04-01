@@ -1,0 +1,22 @@
+$VAR1 = {
+          'TQP_INVALID_SERVER_NAME' => 'Nom de serveur (%1) manquant. Le nom du serveur doit faire entre 2 et 30 caractères de long et contenir uniquement des lettres, des nombres et des tirets bas.',
+          'GUP_THE_REQUESTED_PEER_I' => 'Le peer_id (%1) demandé n\'existe pas.',
+          'LKX_THE_SERVER_NAME_YOU' => 'Le nom de serveur que vous avez saisi (%1) est déjà en cours d\'utilisation par un autre homologue/poste.',
+          'ASZ_THIS_RULE_WAS_CREATE' => 'Cette règle a été créée automatiquement et est utilisée pour traiter les appels entrants de l\'homologue %1.',
+          'NOK_INVALID_PEER_ID_1' => 'peed_id non valide (%1). Peer_ids doivent uniquement contenir des chiffres.',
+          'HBG_NUMBER_IS_ONE_OF_THE' => 'Le numéro fait partie des postes publiés %1.',
+          'MRQ_INVALID_USER_NAME' => 'Nom d\'utilisateur non valide (%1). Le champ nom utilisateur doit faire entre 6 et 15 caractères et uniquement contenir des lettres, des nombres et des tirets bas.',
+          'MGR_ANY_LOCAL_EXTENSION' => 'N\'importe quel poste local publié pour l\'homologue %1.',
+          'LBB_1_OUTGOING' => '%1 Sortant',
+          'RJF_INVALID_PEER_NAME' => 'Nom d\'homologue non valide (%1). Le champ nom d\'homologue doit faire entre 2 et 30 caractères et doit uniquement contenir des lettres, des nombres et des tirets bas.',
+          'VYP_BEGINS_WITH_1_AND_I' => 'Commence par %1 et fait partie des postes d\'homologues %2 publiés.',
+          'GQZ_ERROR_GENERATING_PEER' => 'Erreur de génération de fichiers de configuration d\'homologues.',
+          'YGR_INVALID_INCOMING_IP' => 'icoming_ip_address (%1) non valide. L\'incoming_ip_address devrait suivre le format xxx.xxx.xxx.xxx.',
+          'OWJ_THE_HOSTNAME_YOU_ENT' => 'Le nom d\'hôte que vous avez saisi (%1) est déjà d\'utilisé par un autre homologue.',
+          'UKE_INVALID_DIAL_PREFIX' => 'dial_prefix non valide (%1). Le champ de dial_prefix doit uniquement contenir des chiffres.',
+          'NSL_THE_PEER_NAME_YOU_EN' => 'Le nom d\'homologue que vous avez saisi (%1) est déjà utilisé par un autre homologue.',
+          'XHH_INVALID_PASSWORD_TH' => 'Mot de passe non valide.  Le champ mot de passe doit faire entre 6 et 15 caractères de long.',
+          'UEQ_INVALID_HOSTNAME_1' => 'Nom d\'hôte non valide (%1).',
+          'XUL_THIS_RULE_WAS_CREATE' => 'Cette règle a été créée automatiquement et est utilisée pour traiter les appels sortants vers l\'homologue %1.',
+          'XQT_1_INCOMING' => '%1 Entrant'
+        };

@@ -1,0 +1,13 @@
+$VAR1 = {
+          'LVJ_ON_INCOMING_CALL_EVE' => 'En Cas d\'Appel Entrant',
+          'OCM_SUCCESSFULLY_SAVED' => 'Valeurs d\'URL correctement sauvegardées',
+          'YWZ_ON_CALL_ANSWERED_EVE' => 'En Cas d\'Appel Décroché',
+          'ZIO_ON_OUTGOING_CALL_EVE' => 'En Cas d\'Appel Sortant',
+          'XDF_ON_NEW_VOICEMAIL_EVE' => 'En Cas de Nouveau Message Vocal',
+          'GXL_ON_CHECKED_VOICEMAIL' => 'En Cas de Message Vocal Ecouté',
+          'RXG_ON_AGENT_LOGGED_IN_E' => 'En Cas de Connexion d\'Agent',
+          'YXU_DEFAULT' => 'par défaut',
+          'OCE_ON_CALL_HANGUP_EVENT' => 'En Cas de Raccrochage',
+          'UZH_ON_AGENT_LOGGED_OUT' => 'En Cas de Déconnexion d\'Agent',
+          'XPR_ON_ROUTE_TO_EXTENSIO' => 'En Cas de Routage vers Poste'
+        };

@@ -1,0 +1,19 @@
+$VAR1 = {
+          'CMP_SCHEDULED_QUEUE_MEMB' => 'Rapporto su membro di coda programmato: %1',
+          'EDJ_PROBLEMS_PARSING_THE' => 'Problemi durante l\'analisi del modello del rapporto programmato (%1).',
+          'KOU_INVALID_ACCOUNT_TYPE' => 'Tipo account non valido per il rapporto.',
+          'KUN_START_FROM_LAST_OCCU' => 'Inzia da ultima occorrenza',
+          'BLC_YOUR_REQUESTED_SCHED' => 'Il rapporto programamto richiesto non esiste.',
+          'MAX_QUEUE_MEMBER_REPORT' => 'Rapporti su membro di coda',
+          'ECY_THAT_SCHEDULE_NAME_A' => 'Il nome della programmazione esiste già nel sistema.',
+          'HRG_INVALID_VALUE_1_F' => 'Valore non valido nome rapporto programmato.',
+          'LGQ_SCHEDULED_REPORT_ID' => 'Id rapporto programmato',
+          'SFN_MISSING_THE_HTML_TEM' => 'Modello HTML mancante (%1) quando si esegue un rapporto programmato.',
+          'GAY_INVALID_VALUE_1_F' => 'Valore non valido tipo rapporto programmato.',
+          'VRW_PROBLEMS_CANCELING_Y' => 'Problemi durante l\'annullamento del rapporto programmato.',
+          'AWJ_REQUESTED_SCHEDULED' => 'Id rapporto programmato richiesto inesistente nel sistema.',
+          'SJY_INVALID_VALUE_1_F' => 'Valore non valido inserito per Comincia dall\'inizio. Valori possibili: Giorno, settimana, mese, anno.',
+          'HWS_INVALID_START_FROM_D' => 'Valore non valido per valore decrementale data/ora di inizio. Esempio formato: 1A,2M,3S,4G,5H = 1 anno,2 mesi,3 settimane, 4 giorni, 5 ore.',
+          'KPJ_FROM_THE_DATETIME' => 'da data/ora',
+          'BMV_INVALID_SCHEDULED_RE' => 'Formato rapporto programmato non valido. Deve essere html, grafico o xml.'
+        };

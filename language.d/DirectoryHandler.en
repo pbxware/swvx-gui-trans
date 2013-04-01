@@ -1,0 +1,17 @@
+$VAR1 = {
+          'MSR_MISSING_THE_DIRECTOR' => 'Missing the directory search type',
+          'IZQ_MISSING_COLLECTION_I' => 'Missing Collection ID',
+          'UPI_INVALID_EXIT_EXTENSI' => 'Invalid Exit Extension',
+          'XPH_SUCCESSFULLY_MODIFIE' => 'Successfully modified your directory extension',
+          'JKJ_CAN_DIAL_FROM_IVR' => 'Can Dial from IVR',
+          'QJP_MISSING_COLLECTION_T' => 'Missing Collection Type',
+          'FGA_SUCCESSFULLY_DELETED' => 'Successfully deleted directory extension.',
+          'UGK_MISSING_THE_CALL_QUE' => 'Missing the Call Queue ID',
+          'NZQ_EXTENSION_MUST_BE_C' => 'Extension must be %1 digits in length',
+          'ISZ_MISSING_YOUR_MEMBERS' => 'Missing Your Members',
+          'KQU_EXTENSION_MUST_BE_C' => 'Extension must be %1 digits in length',
+          'UVM_MISSING_INDIVIDUALS' => 'Missing Individuals vs Group Choice',
+          'DBK_MISSING_THE_DIRECTOR' => 'Missing the directory search type',
+          'SFT_MISSING_ACCOUNT_ID' => 'Missing Account ID',
+          'TZX_DEFAULT_GROUP' => 'Default Group',
+        };

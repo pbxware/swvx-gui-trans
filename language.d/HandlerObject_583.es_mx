@@ -1,0 +1,10 @@
+$VAR1 = {
+          'IKH_CANT_OPEN_N' => 'No se puede abrir: %1\\n',
+          'KUJ_CAN_NOT_LOCATE_YOUR' => 'No se puede localizar su archivo de registro de errores: (%1)',
+          'MGY_MISSING_CMD' => 'Falta el cmd',
+          'EHR_MAJOR_ERROR_COULD' => '(Error importante) No se pudo abrir el archivo para informar del error: %1\\n',
+          'SIZ_MAJOR_ERROR_KRONOS' => '(Error importante) Instalación de Kronos incorrecta: ',
+          'KYO_LOGIN_SUCCESSFUL' => 'Conexión correcta',
+          'IOZ_YOU_HAVE_BEEN_SUCCES' => 'Usted se desconectócorrectamente.',
+          'UKK_REPORTED_ERROR_SUCCE' => 'Error informado correctamente. Gracias.'
+        };

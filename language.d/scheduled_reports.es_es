@@ -1,0 +1,19 @@
+$VAR1 = {
+          'CMP_SCHEDULED_QUEUE_MEMB' => 'Informe de miembros en colas programado: %1',
+          'EDJ_PROBLEMS_PARSING_THE' => 'Problemas al analizar la plantilla del informe programado (%1).',
+          'KOU_INVALID_ACCOUNT_TYPE' => 'Tipo de cuenta no válido para su informe.',
+          'KUN_START_FROM_LAST_OCCU' => 'iniciar desde el último caso',
+          'BLC_YOUR_REQUESTED_SCHED' => 'Su informe programado solicitado no existe.',
+          'MAX_QUEUE_MEMBER_REPORT' => 'Informes de miembros en cola',
+          'HRG_INVALID_VALUE_1_F' => 'Valor no válido de nombre de informe programado.',
+          'ECY_THAT_SCHEDULE_NAME_A' => 'Ese nombre de programación ya existe en el sistema.',
+          'SFN_MISSING_THE_HTML_TEM' => 'Falta la plantilla HTML (%1) al ejecutar un informe programado.',
+          'LGQ_SCHEDULED_REPORT_ID' => 'id de informe programado',
+          'GAY_INVALID_VALUE_1_F' => 'Valor no válido de tipo de informe programado.',
+          'VRW_PROBLEMS_CANCELING_Y' => 'Problemas al cancelar su informe programado.',
+          'AWJ_REQUESTED_SCHEDULED' => 'El ID del informe programado solicitado no existe en el sistema.',
+          'SJY_INVALID_VALUE_1_F' => 'Valor no válido introducido para comienzo desde el inicio. Valores posibles: día, semana, mes, año.',
+          'HWS_INVALID_START_FROM_D' => 'Valor no válido para su valor de decremento de fecha/hora de inicio. Formato de ejemplo: 1A,2M,3S,4D,5h = 1 año, 2 meses, 3 semanas, 4 días, 5 horas.',
+          'KPJ_FROM_THE_DATETIME' => 'Desde la fecha/hora',
+          'BMV_INVALID_SCHEDULED_RE' => 'Formato de informe programado no válido. Debe ser html, diagrama o xml.'
+        };

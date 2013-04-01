@@ -1,0 +1,4 @@
+$VAR1 = {
+          'TZX_DEFAULT_GROUP' => 'Groupe par défaut',
+          'IRA_VOICEMAIL_QUOTA_MUST' => 'Le quota de messagerie vocale doit être numérique'
+        };

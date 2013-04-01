@@ -1,0 +1,13 @@
+Object.extend(switchvox.lang._LANG.keys,{UPT_MANAGE_APPS:["Digium Phone Apps"],
+BTN_ADD_APP:["Create App"],
+TBL_HEAD_ALL_APPS:["Digium Phone Apps"],
+TBL_MSG_NO_APPS:["There are no apps"],
+TBL_COL_APP_NAME:["Name"],
+TBL_COL_AUTOSTART:["Always Running"],
+TBL_COL_USER_COUNT:["Number of Users"],
+TBL_COL_HAS_IDLE:["Has Idle Screen"],
+TBL_COL_APP_HIDDEN:["Is Hidden"],
+TBL_COL_APP_TYPE:["Type"],
+TBL_COL_APP_DESC:["Description"],
+TBL_COL_APP_INCL_CRED:["Include API Credentials"],
+T_H_APP_DETAILS:["Additional Details"]});

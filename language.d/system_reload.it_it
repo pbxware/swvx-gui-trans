@@ -1,0 +1,10 @@
+$VAR1 = {
+          'E_RESTARTING' => 'Errore durante il riavvio del server.',
+          'SM_RESTARTING' => 'Riavvio software riuscito.',
+          'SM_RELOADING' => 'Reload software riuscito.',
+          'E_RELOADING' => 'Errore durante il reload della configurazione.',
+          'E_SHUTDOWN' => 'Errore durante la chiusura del server.',
+          'E_REBOOT' => 'Errore durante il reboot del server.',
+          'SM_REBOOT' => 'Reboot del sistema in corso. Sarà disponibile a breve.',
+          'SM_SHUTDOWN' => 'Chiusura del sistema in corso.'
+        };

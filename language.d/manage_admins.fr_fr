@@ -1,0 +1,10 @@
+$VAR1 = {
+          'NEN_INVALID_ACCESS_LEVEL' => 'Réglage du niveau d\'accès non valide (%1).  Le niveau d\'accès de %2 doit être défini à (%3).',
+          'BAB_YOU_ARE_NOT_ALLOWED' => 'Vous n\'êtes pas autorisé à modifier le nom sur le compte administrateur par défaut.',
+          'XLF_INVALID_ADMIN_ID_1' => 'admin_id non valide (%1). Admin_ids peut uniquement contenir des chiffres.',
+          'TRH_THE_LOGIN_YOU_ENTERE' => 'Le nom d\'utilisateur que vous avez saisi (%1) est déjà utilisé par un autre administrateur.',
+          'SDY_YOU_ARE_NOT_ALLOWED' => 'Vous n\'êtes pas autorisé à modifier les droits d\'accès au compte administrateur par défaut.',
+          'WWP_YOU_ARE_NOT_ALLOWED' => 'Vous n\'êtes pas autorisé à supprimer le compte administrateur par défaut.',
+          'WVD_ADMIN_NAME_MAY_ONLY' => 'Nom d\'administrateur non valide (%1). Le nom d\'administrateur peut uniquement contenir des caractères alphanumériques et doit avoir une longueur comprise entre 1 et 32 caractères.',
+          'MNX_THE_REQUESTED_ADMIN' => 'L\'admin_id demandé (%1) n\'existe pas.'
+        };

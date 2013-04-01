@@ -1,0 +1,4 @@
+$VAR1 = {
+          'FRH_THERE_WAS_AN_ERROR_W' => 'Se produció un error al escribir el XML con formato.',
+          'YAE_YOU_ARE_MISSING_REQU' => 'No es un XML válido. Intentando procesar el archivo como un CSV. No se han encontrado los campos necesarios en la línea del encabezado (%1).'
+        };

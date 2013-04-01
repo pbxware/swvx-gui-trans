@@ -1,0 +1,14 @@
+$VAR1 = {
+          'XIX_INTERNAL' => 'Interne',
+          'HCH_LOCAL' => 'Local',
+          'PLM_ONE_NINE_HUNDRED' => 'Numéros 1-900',
+          'TZX_DEFAULT_GROUP' => 'Groupe par défaut',
+          'GNK_INVALID_CALL_API_PRE' => 'API (interface de programmation d\'applications) d\'appels non valide Call API Prepend One Setting',
+          'ZAZ_INTERNATIONAL' => 'International',
+          'OXY_DEFAULT' => 'Par défaut',
+          'TOO_ID' => 'ID',
+          'RFR_NINE_ONE_ONE' => '911',
+          'YGV_LONG_DISTANCE' => 'Longue Distance',
+          'RPX_TOLL_FREE' => 'Numéro vert',
+          'E_PREPEND_FOR_OUTGOING' => 'Vous pouvez uniquement ajouter des chiffres en début pour l\'API d\'appels'
+        };

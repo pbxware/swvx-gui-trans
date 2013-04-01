@@ -1,0 +1,17 @@
+$VAR1 = {
+          'OSC_THE_PASSWORD_YOU_SUP' => 'The password you supplied is incorrect. To look up your Call API password please visit the \'Change Admin Password\' section in your PBX\'s online administration suite.',
+          'DJD_THE_NUMBER_NUM_YO' => 'The number (%1) you entered in the %2 variable contains invalid characters.',
+          'WAB_YOU_DID_NOT_AUTHENTI' => 'You did not authenticate properly as an admin',
+          'OTC__YOU_MUST_BE_LOGGED' => ' you must be logged into the PBX\'s online suite to authenticate.',
+          'RWE_YOUR_TIMEOUT_MUST_BE' => 'Your timeout must be a valid number from 0 to 99.',
+          'AHH_MISSING_THE_DIAL_FI' => 'Missing the "dial_first" parameter in your API Call',
+          'GDT_THE_DIAL_AS_EXTENS' => 'The \'dial_as\' extension you have entered does not exist in the system or is an invalid extension type. Please choose a valid SIP, Analog, or Virtual extension.',
+          'KJB_YOU_ARE_DIALING_AS_T' => 'You are dialing as the admin but you haven\'t defined which extension in the system you wish to dial as.  Add \'&dial_as=XXX\' (where XXX is the extension number) to the end of your URL to use that extensions\'s outgoing call rules. ',
+          'EGK_YOU_ATTEMPTING_TO_DI' => 'You attempting to dial an external number but haven\'t defined which extension in the system you wish to dial as. Add \'&dial_as=XXX\' (where XXX is the extension number) to the end of your URL to use that extensions\'s outgoing call rules.',
+          'MCE_COULD_NOT_AUTHENTICA' => 'Could not authenticate your extension (%1). You may have sent an incorrect password',
+          'WNY_MISSING_YOUR_PASSWOR' => 'Missing your password for you admin login',
+          'TSI_PROBLEMS_CONNECTING' => 'Problems connecting to asterisk server:',
+          'CRQ_COULD_NOT_AUTHENTICA' => 'Could not authenticate your extension (%1). Since you did not provide a password ',
+          'HOM_MISSING_THE_DIAL_SE' => 'Missing the "dial_second" parameter in your API Call',
+          'QWH_THE_EXTENSION_EXTE' => 'The extension (%1) you requested to call does not exist in the system. '
+        };

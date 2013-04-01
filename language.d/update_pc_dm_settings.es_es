@@ -1,0 +1,4 @@
+$VAR1 = {
+          'DCC_DIGIT_MAP_ERROR' => 'Su petición de actualización Paquete de funciones de teléfono opciones no se pudo completar.',
+          'KLU_DIGIT_MAP_INVALID' => 'Su solicitud de actualización de los ajustes del mapa de dígitos de la configuración telefónica contenía entradas no válidas.'
+        };

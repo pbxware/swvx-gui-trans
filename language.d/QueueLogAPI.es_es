@@ -1,0 +1,10 @@
+$VAR1 = {
+          'QXU_CANT_PLOT_GRAPH' => 'No se puede trazar el gráfico. %1',
+          'PDK_PROBLEMS_MOVING_QUEU' => 'Problemas al mover el archivo de registro de la cola: %1 (%2)',
+          'OAK_NOT_AVAILABLE' => 'no disponible',
+          'QTD_MISSING_START_DATE' => 'Falta la start_date',
+          'NPP_MISSING_END_DATE' => 'Falta la end_date',
+          'IBM_COULDNT_READ_LOG_FI' => 'No se pudo leer el archivo de registro (%1) : %2',
+          'AGD_QUEUE_LOG_HAS_NOT_CH' => 'El Queue_log no ha sido modificado. Analizando desde la posición: %1',
+          'SLS_CANT_OPEN_GRAPH_FOR' => 'No se puede abrir el gráfico para su escritura: %1'
+        };

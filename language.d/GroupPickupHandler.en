@@ -1,0 +1,10 @@
+$VAR1 = {
+          'UIX_SUCCESS_MODIFY' => 'Successfully modified your directed pickup extension',
+          'OKX_SUCCESS_DELETE' => 'Successfully deleted directed pickup group extension.',
+          'TZX_DEFAULT_GROUP' => 'Default Group',
+          'RTC_ACCOUNT_ID_MISSING' => 'Account ID is missing',
+          'TXF_MISSING_GRP_TYPE' => 'Missing your user group id',
+          'UXR_MISSING_USR_GRP_TYPE' => 'Missing your user group type',
+          'MNB_MISSING_AUTH_GRP_ID' => 'Missing your authorized group id',
+          'MMA_MISSING_AUTH_GRP_TYPE' => 'Missing your authorized group type',
+        };

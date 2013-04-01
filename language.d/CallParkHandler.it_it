@@ -1,0 +1,14 @@
+$VAR1 = {
+          'OJS_YOUR_PARKING_LOT_TIM' => 'Il timeout dell\'area parcheggio deve essere 1-999 secondi',
+          'JBK_YOUR_PARKING_LOT_TIM' => 'Il timeout dell\'area parcheggio deve essere 1-9999 secondi',
+          'OJQ_MISSING_ACCOUNT_ID' => 'ID account mancante',
+          'YVX_ONLY_ONE_CALL_PARKIN' => 'È consentita solo un\'estensione di parcheggio chiamata per sistema. Eliminare o modificare l\'estensione esistente di parcheggio chiamata.',
+          'VKU_EXTENSION_MUST_BE_C' => 'L\'estensione deve avere una lunghezza di %1 ',
+          'YIV_MISSING_YOUR_CALLPAR' => 'Impostazione casuale parcheggio chiamata mancante.',
+          'TYM_SUCCESSFULLY_DELETED' => 'Eliminazione estensione parcheggio chiamata riuscita.',
+          'LWV_MISSING_PARKING_LOT' => 'Inizio area parcheggio mancante',
+          'TKR_SUCCESSFULLY_MODIFIE' => 'Modifica estensione parcheggio chiamata riuscita',
+          'CXW_MISSING_YOUR_CALLPAR' => 'Impostazione casuale parcheggio chiamata mancante.',
+          'PGQ_MISSING_PARKING_LOT' => 'Fine area parcheggio mancante',
+          'EQF_PARKING' => 'Parcheggio'
+        };
