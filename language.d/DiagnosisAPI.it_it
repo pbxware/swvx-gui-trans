@@ -1,7 +1,0 @@
-$VAR1 = {
-          'COA_MISSING_PLUGIN_INFO' => 'Info plugin mancanti per (%1)',
-          'IXC_THERE_WAS_A_SERIOUS' => 'Si è verificato un grave errore durante la diagnostica del fornitore SIP.',
-          'YZX_COULDNT_READ_THE_SI' => 'Impossibile leggere il registro sip_debug_lock: %1',
-          'ZPN_DID_NOT_RECIEVE_A_PR' => 'Non è stata ricevuta una risposta adeguata dal servizio web che testa il port forwarding.',
-          'YZU_COULDNT_READ_THE_PR' => 'Impossibile leggere il registro provider_log: %1'
-        };

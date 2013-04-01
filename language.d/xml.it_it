@@ -1,9 +1,0 @@
-$VAR1 = {
-          'NBB_THE_XML_TEMPLATE_1' => 'Il modello xml (%1) richiesto è inesistente.',
-          'ZCQ_MISSING_REQUEST_TA' => 'Tag <request> mancante nella richiesta xml.',
-          'QMH_YOUR_XML_IS_MALFORME' => 'Questo XML è malformato vicino al tag (%1).',
-          'HED_PROBLEMS_PARSING_THE' => 'Problemi durante l\'analisi del modello xml (%1).',
-          'ZSI_THE_XML_IN_YOUR_XMLR' => 'L\'xml nella richiesta xmlrpc era malformato.',
-          'SPX_THE_XMLRPC_METHODNAM' => 'Il nome metodo XMLRPC (%1) non corrisponde al metodo (%2) nella richiesta.',
-          'YMX_YOUR_XML_IS_NOT_CORR' => 'Xml non formattato correttamente.'
-        };

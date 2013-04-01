@@ -1,8 +1,0 @@
-$VAR1 = {
-          'IDY_COULD_NOT_OPEN_CLOCK' => 'no se pudo abrir el archivo sysconfig del reloj',
-          'DEN_ERROR_SETTING_NTP_SE' => 'error al configurar el servidor ntp',
-          'TIW_UNKNOWN_ZONE_ZONE' => 'zona desconocida: %1',
-          'SHS_COULDNT_STOP_NTPD' => 'no se pudo detener el ntpd: %1',
-          'LOT_COULDNT_RUN_CHKCONF' => 'no se pudo ejecutar chkconfig para ntpd: %1',
-          'KTI_PROBLEM_RUNNING_SETZ' => 'problema al ejecutar setzone'
-        };

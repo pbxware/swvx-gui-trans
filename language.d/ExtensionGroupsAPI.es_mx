@@ -1,7 +1,0 @@
-$VAR1 = {
-          'RNS_THE_GROUP_YOU_HAVE_A' => 'No está permitido. El grupo de extensiones actual ya está siendo añadido al grupo de extensiones.',
-          'SWI_PROBLEMS_SETTING_UP' => 'Problemas al configurar el symlink del grupo: %1',
-          'HAO_YOU_MAY_NOT_UPDATE_O' => 'No es posible modificar o eliminar este Grupo de extensiones.',
-          'VKY_YOU_MUST_PROVIDE_AN' => 'Usted debe proporcionar una descripción de grupo.',
-          'ZUI_INVALID_EXTENSION_GR' => 'La descripción de grupo debe tener un máximo de 32 caracteres, con tan sólo letras, números o guiones bajos.'
-        };

@@ -1,7 +1,0 @@
-$VAR1 = {
-          'LFI_COULD_NOT_OPEN_LIMI' => 'Impossible d\'ouvrir %1',
-          'PLG_COULD_NOT_VERIFY_LIM' => 'Impossible de vérifier la signature des limites',
-          'IWY_COULD_NOT_CREATE_TEM' => 'Impossible de créer le fichier temporaire',
-          'IHA_PROBLEM_SETTING_LICE' => 'Problème de configuration des informations concernant les licences',
-          'GDY_INVALID_LIMITS_FILE' => 'Fichier de limites non valide (%1)\\n'
-        };

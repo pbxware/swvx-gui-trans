@@ -1,9 +1,0 @@
-$VAR1 = {
-          'ZCQ_MISSING_REQUEST_TA' => 'Balise <request> manquante dans votre demande XML.',
-          'NBB_THE_XML_TEMPLATE_1' => 'Le modèle XML (%1) que vous avez demandé n\'existe pas.',
-          'QMH_YOUR_XML_IS_MALFORME' => 'Votre XML est malformé au niveau de la balise (%1).',
-          'ZSI_THE_XML_IN_YOUR_XMLR' => 'L\'XML de votre requête xmlrpc est malformée.',
-          'HED_PROBLEMS_PARSING_THE' => 'Problèmes de lecture du modèle XML (%1).',
-          'YMX_YOUR_XML_IS_NOT_CORR' => 'Votre XML n\'est pas correctement formaté.',
-          'SPX_THE_XMLRPC_METHODNAM' => 'Le methodName XMLRPC (%1) ne correspond pas à la méthode (%2) dans votre demande.'
-        };

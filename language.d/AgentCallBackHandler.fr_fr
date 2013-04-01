@@ -1,6 +1,0 @@
-$VAR1 = {
-          'TXY_MISSING_CALL_QUEUE_ID' => 'ID de File d\'Appel Manquant',
-          'IOX_SUCCESS_MODIFY' => 'Votre poste a été correctement modifié.',
-          'IXT_MISSING_ACCOUNT_ID' => 'ID du compte manquant',
-          'AOS_SUCCESS_DELETE' => 'Poste correctement supprimé'
-        };

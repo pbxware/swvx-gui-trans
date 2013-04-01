@@ -1,9 +1,0 @@
-$VAR1 = {
-          'RWV_ERROR_FETCHING_PHONE' => 'Error al recuperar la información de la agenda.',
-          'ESN_THERE_WAS_AN_ERROR_F' => 'Se produjo un error al recuperar la información de perfiles.',
-          'BML_ERROR_FETCHING_PARKE' => 'Error al recuperar las llamadas estacionadas.',
-          'ZSL_ERROR_SEARCHING_DIRE' => 'Error al buscar en el directorio.',
-          'UPK_ERROR_FETCHING_VOICE' => 'Error al recuperar el buzón de voz.',
-          'KBT_THERE_WAS_A_PROBLEM' => 'Hubo un problema al recuperar sus llamadas actuales.',
-          'KQA_THE_REQUESTED_OPERAT' => 'La operación solicitada no pudo realizarse para la llamada indicada.'
-        };

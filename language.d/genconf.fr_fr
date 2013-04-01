@@ -1,5 +1,0 @@
-$VAR1 = {
-          'KCP_ERROR_LOCKING_ASTERI' => 'erreur de verrouillage de la config Asterisk:  %1',
-          'ZRT_ERROR_RELOADING_ASTE' => 'Erreur de rechargement de la config asterisk',
-          'JDS_ERROR_OPENING_ASTERI' => 'erreur d\'ouverture de la config Asterisk:  %1'
-        };

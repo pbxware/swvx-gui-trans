@@ -1,7 +1,0 @@
-$VAR1 = {
-          'DZA_PHONE_APP_REDIRECT' => 'Reindirizzamento app. telefonica. Accesso ad account (%1) non corrisponte ad account richiesto(%2).',
-          'KZA_PHONE_APP_AUTH_FAILE' => 'Autenticazione app. telefonica non riuscita. L\'IP del richiedente (%1) non corrisponde al telefono (%2).',
-          'KFB_PHONE_APP_AUTH_FAILE' => 'Autenticazione app. telefonica non riuscita. Non è stata trovata alcuna riga nel database per il telefono configurato automaticamente (%1).',
-          'IDV_INVALID_PHONE_APP_TO' => 'phone_app_token non valido in url (%1).',
-          'KTM_MISSING_PHONE_APP_TO' => 'phone_app_token mancante in url (%1).'
-        };

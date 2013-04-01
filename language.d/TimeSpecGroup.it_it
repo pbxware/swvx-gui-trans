@@ -1,6 +1,0 @@
-$VAR1 = {
-          'OYA_WEEKENDS_ONLY' => 'Solo nei weekend',
-          'OXO_DURING_BUSINESS' => 'Durante l\'orario lavorativo',
-          'OPP_OUTSIDE_BUSINESS' => 'Al di fuori dell\'orario lavorativo',
-          'URP_COULD_NOT_GET_NEXT_S' => 'Impossibile ottenere numero successivo sequenza'
-        };

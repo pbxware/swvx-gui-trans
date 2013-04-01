@@ -1,6 +1,0 @@
-$VAR1 = {
-          'E_NOT_REG_ACCOUNT_CREATE' => 'Votre système téléphonique n\'a pas encore été enregistré et est limité à %1 postes. <br />Pour enregistrer votre PBX veuillez visiter la <a href="/admin?cmd=register">page d\'Enregistrement Système</a>. Merci.',
-          'E_OVER_ACCOUNT_MAX' => 'Votre PBX est limité à la création de %1 postes.  Si vous voulez augmenter le nombre de postes merci de contacter votre revendeur de PBX.',
-          'E_NOT_REG_CONTEXT_CREATE' => 'Votre système téléphonique n\'a pas encore été enregistré et est limité à %1 menus RVI.<br />Pour enregistrer votre PBX veuillez visiter la <a href="/admin?cmd=register">page d\'Enregistrement Système</a>. Merci.',
-          'E_NOT_REG_ACTION_CREATE' => 'Votre système téléphonique n\'a pas encore été enregistré et est limité à %1 actions RVI.<br />Pour enregistrer votre PBX veuillez visiter la <a href="/admin?cmd=register">page d\'Enregistrement Système</a>. Merci.'
-        };

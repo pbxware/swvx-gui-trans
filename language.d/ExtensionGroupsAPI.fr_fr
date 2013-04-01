@@ -1,7 +1,0 @@
-$VAR1 = {
-          'RNS_THE_GROUP_YOU_HAVE_A' => 'Ceci est interdit. Le Groupe de Postes actuel est déjà dans le Groupe de Postes en cours d\'ajout.',
-          'SWI_PROBLEMS_SETTING_UP' => 'Problèmes de création de lien symbolique du groupe : %1',
-          'HAO_YOU_MAY_NOT_UPDATE_O' => 'Vous ne pouvez pas modifier ou supprimer ce Groupe de Postes.',
-          'VKY_YOU_MUST_PROVIDE_AN' => 'Vous devez donner une Description de Groupe.',
-          'ZUI_INVALID_EXTENSION_GR' => 'Une Description de Groupe doit faire au plus 32 caractères ne comprenant que des lettres, nombres ou tirets bas.'
-        };

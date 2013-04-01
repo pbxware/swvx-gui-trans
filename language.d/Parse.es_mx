@@ -1,4 +1,0 @@
-$VAR1 = {
-          'RTI_UNABLE_TO_PROCESS_PA' => 'no se pudo procesar el seguimiento de paquetes',
-          'UVE_PROBLEMS_PARSING_THE' => 'problemas al analizar el archivo de volcado'
-        };

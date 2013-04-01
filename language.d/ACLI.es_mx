@@ -1,4 +1,0 @@
-$VAR1 = {
-          'MVP_TRANSLATE_COULD_NOT' => 'no se pudo cerrar el socket de Asterisk',
-          'UBX_TRANSLATE_COULD_NOT' => 'no se pudo conectar con el socket de Asterisk: %1'
-        };

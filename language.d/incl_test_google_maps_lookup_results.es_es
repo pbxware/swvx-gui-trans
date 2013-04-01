@@ -1,7 +1,0 @@
-$VAR1 = {
-          'T_LOCATION_MATC' => 'Ubicación coincidente',
-          'T_LONGITUDE' => 'Longitud',
-          'T_LATITUDE' => 'Latitud',
-          'T_GOOGLE_MAP_OF' => 'Mapa de Google de la localización con un nivel de zoom del %1',
-          'T_ZIP_CODE' => 'Código zip'
-        };

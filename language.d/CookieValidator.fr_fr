@@ -1,7 +1,0 @@
-$VAR1 = {
-          'OAK_YOU_ARE_NOT_ALLOWED' => 'Vous n\'êtes pas autorisé à accéder aux pages d\'administration.',
-          'HRX_MISSING_PASSWORD' => 'Mot de passe manquant',
-          'UGK_MISSING_USER_NAME' => 'Nom d\'Utilisateur manquant',
-          'IAT_MISSING_USER_NAME' => 'Nom d\'Utilisateur manquant',
-          'UJX_EXTENSIONS_MAY' => 'Le numéro de poste ne doit contenir que des chiffres valides'
-        };

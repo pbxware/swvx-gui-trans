@@ -1,9 +1,0 @@
-$VAR1 = {
-          'ZFU_INVALID_CALLER_ID_NA' => 'Nome id chiamante non valido. Il nome id chiamante può contenere solo caratteri alfanumerici,spazi,_, o &.',
-          'GTH_PROBLEMS_CONNECTING' => 'Problemi durante la connessione al server asterisk (%1).',
-          'WOH_INVALID_VARIABLE_FOR' => 'Formato variabile non valido per parametro (%1). Il formato variabile deve essere VARIABLE_NAME=VARIABLE_VALUE.',
-          'HGG_INVALID_DIAL_AS_EXTE' => 'Composizione non valida come estensione. L\'estensione non esiste nel sistema o è di un tipo non valido. Scegliere un\'estensione SIP, Analogica o Virtuale valida.',
-          'UFZ_YOUR_CALL_FAILED_TO' => 'Connessione chiamata non riuscita (%1).',
-          'ZJQ_INVALID_PHONE_NUMBER' => 'Numero o estensione telefono non valida per parametro %1. Il numero deve contenere solo cifre,* o #.',
-          'FVN_INVALID_TIMEOUT_MUS' => 'Timeout non valido. Deve essere un numero tra 0 e 999.'
-        };

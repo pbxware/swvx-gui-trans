@@ -1,9 +1,0 @@
-$VAR1 = {
-          'RWV_ERROR_FETCHING_PHONE' => 'Errore durante il recupero delle informazioni della rubrica.',
-          'ESN_THERE_WAS_AN_ERROR_F' => 'Errore durante il recupero delle informazioni del profilo.',
-          'BML_ERROR_FETCHING_PARKE' => 'Errore durante il recupero delle chiamate parcheggiate.',
-          'ZSL_ERROR_SEARCHING_DIRE' => 'Errore durante la ricerca nella directory.',
-          'UPK_ERROR_FETCHING_VOICE' => 'Errore durante il recupero della segreteria.',
-          'KBT_THERE_WAS_A_PROBLEM' => 'Si è verificato un problema durante il recupero delle chiamate attuali.',
-          'KQA_THE_REQUESTED_OPERAT' => 'Impossibile eseguire l\'operazione richiesta sulla chiamata designata.'
-        };

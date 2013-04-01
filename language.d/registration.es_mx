@@ -1,6 +1,0 @@
-$VAR1 = {
-          'E_NOT_REG_ACCOUNT_CREATE' => 'Su sistema telefónico aún no fue registrado y está limitado a %1 extensiones. <br/>Para registrar su PBX , visite la <a href="/admin?cmd=register">página Registro del sistema</a>. Gracias.',
-          'E_OVER_ACCOUNT_MAX' => 'Su PBX está limitado a la creación de %1 extensiones. Si desea aumentar el número de extensiones, póngase en contacto con su revendedor de PBX.',
-          'E_NOT_REG_ACTION_CREATE' => 'Su sistema telefónico aún no fue registrado y está limitado a %1 acciones de IVR totales.<br/>Para registrar su PBX, visite la <a href="/admin?cmd=register">página Registro del sistema</a>. Gracias.',
-          'E_NOT_REG_CONTEXT_CREATE' => 'Su sistema telefónico aún no fue registrado y está limitado a %1 Menús IVR.<br/>Para registrar su PBX, visite la <a href="/admin?cmd=register">página Registro del sistema</a>. Gracias.'
-        };

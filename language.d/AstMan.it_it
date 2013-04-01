@@ -1,5 +1,0 @@
-$VAR1 = {
-          'ZWN_BAD_RESPONSE_TEXT' => 'Risposta errata: %1',
-          'TPV_COULDNT_CONNECT_TO' => 'Impossibile connettersi a interfaccia di gestione: %1',
-          'HYU_COULDNT_CONNECT_TO' => '%1'
-        };

@@ -1,6 +1,0 @@
-$VAR1 = {
-          'QTB_NO_SOUND_MATCHES_SOU' => 'ningún sonido coincide con sound_file_id %1',
-          'TBG_IMPROPER_XML_IMPORTE' => 'XML importado incorrectamente: %1 línea:%2 columna:%3',
-          'QML_CONFUSED_BY_SOUND_PA' => 'confundido por la ruta del sonido: %1',
-          'JAR_IMPROPER_XML_IMPORTE' => 'XML importado incorrectamente: %1'
-        };

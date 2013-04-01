@@ -1,9 +1,0 @@
-$VAR1 = {
-          'SWU_MISSING_OUTGOING_RUL' => 'Falta ID de regla de salida',
-          'KLZ_THERE_IS_A_PROBLEM_W' => 'Se produjo un problema con su expresión regular.',
-          'KIS_MISSING_DATA' => 'Faltan datos',
-          'NTK_MISSING_OUTGOING_RUL' => 'faltan reglas de llamadas salientes para reordenar',
-          'CQC_MISSING_CGI' => 'Falta CGI',
-          'ALI_INVALID_OUTGOING_CON' => 'Regla de contexto de llamadas salientes no válida. Sin prioridad.',
-          'AYT_MISSING_DATABASE_OBJ' => 'Falta objeto de la base de datos'
-        };

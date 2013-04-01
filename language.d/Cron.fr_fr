@@ -1,6 +1,0 @@
-$VAR1 = {
-          'NJI_DRAFTS' => 'Brouillons',
-          'KYS_FAX' => 'Fax',
-          'OKN_SENT' => 'Envoyé',
-          'NZY_OUTBOX' => 'Boite d\'envoi'
-        };

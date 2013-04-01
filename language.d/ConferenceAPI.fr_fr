@@ -1,7 +1,0 @@
-$VAR1 = {
-          'FYM_MISSING_THE_VALUES_T' => 'Valeurs manquantes pour l\'agent de création',
-          'SYI_MISSING_ID_IN_GET_CA' => 'ID de get_call_queue_values manquant',
-          'CVY_MISSING_EXTENSION_IN' => 'Poste manquant pour l\'agent de création de poste',
-          'TYA_PLEASE_CHOOSE_ANOTHER' => 'Merci de choisir un autre numéro de salle de conférence car celui-ci est déjà utilisé.',
-          'FIR_MISSING_ACCOUNT_ID' => 'ID du compte manquant'
-        };

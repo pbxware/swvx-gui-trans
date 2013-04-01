@@ -1,7 +1,0 @@
-$VAR1 = {
-          'OAK_YOU_ARE_NOT_ALLOWED' => 'Non è consentito l\'accesso all\'amministrazione web',
-          'HRX_MISSING_PASSWORD' => 'Password mancante',
-          'UGK_MISSING_USER_NAME' => 'Nome utente mancante',
-          'IAT_MISSING_USER_NAME' => 'Nome utente mancante',
-          'UJX_EXTENSIONS_MAY' => 'L\'estensione deve essere formata solo da cifre valide'
-        };

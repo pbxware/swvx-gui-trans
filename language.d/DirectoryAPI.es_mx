@@ -1,6 +1,0 @@
-$VAR1 = {
-          'VKX_MISSING_THE_VALUES_T' => 'Faltan los valores para el agente creado',
-          'YLA_MISSING_ACCOUNT_ID' => 'Falta el ID de cuenta',
-          'JET_MISSING_EXTENSION_IN' => 'Falta la extensión en la creación de la extensión del agente',
-          'EAB_MISSING_ID_IN_GET_CA' => 'Falta id en get_call_queue_values'
-        };

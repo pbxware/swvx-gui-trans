@@ -1,5 +1,0 @@
-$VAR1 = {
-          'TPV_COULDNT_CONNECT_TO' => 'No se ha podido conectar con la interfaz del manager: %1',
-          'ZWN_BAD_RESPONSE_TEXT' => 'Respuesta incorrecta: %1',
-          'HYU_COULDNT_CONNECT_TO' => '%1'
-        };

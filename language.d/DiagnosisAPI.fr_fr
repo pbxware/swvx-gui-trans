@@ -1,7 +1,0 @@
-$VAR1 = {
-          'COA_MISSING_PLUGIN_INFO' => 'Info de plugin manquante pour (%1)',
-          'IXC_THERE_WAS_A_SERIOUS' => 'Il y a eu un sérieux problème lors du diagnostic de votre fournisseur SIP.',
-          'YZX_COULDNT_READ_THE_SI' => 'Impossible de lire le rapport sip_debug_lock:  %1',
-          'ZPN_DID_NOT_RECIEVE_A_PR' => 'Aucune réponse adéquate n\'a été reçue du service web qui teste la redirection de port.',
-          'YZU_COULDNT_READ_THE_PR' => 'Impossible de lire le rapport provider_log:  %1'
-        };

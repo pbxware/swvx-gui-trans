@@ -1,6 +1,0 @@
-$VAR1 = {
-          'NJI_DRAFTS' => 'Bozze',
-          'KYS_FAX' => 'Fax',
-          'OKN_SENT' => 'Inviati',
-          'NZY_OUTBOX' => 'In uscita'
-        };

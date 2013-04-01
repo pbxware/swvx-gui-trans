@@ -1,4 +1,0 @@
-$VAR1 = {
-          'TZX_DEFAULT_GROUP' => 'Gruppo predefinito',
-          'IRA_VOICEMAIL_QUOTA_MUST' => 'Quantità segreteria deve essere numerico'
-        };

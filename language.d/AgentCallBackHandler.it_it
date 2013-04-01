@@ -1,6 +1,0 @@
-$VAR1 = {
-          'TXY_MISSING_CALL_QUEUE_ID' => 'ID coda chiamata mancante',
-          'IOX_SUCCESS_MODIFY' => 'Modifica estensione riuscita',
-          'IXT_MISSING_ACCOUNT_ID' => 'ID Account mancante',
-          'AOS_SUCCESS_DELETE' => 'Eliminazione estensione riuscita'
-        };

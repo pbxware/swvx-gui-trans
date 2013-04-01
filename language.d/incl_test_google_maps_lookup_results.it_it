@@ -1,7 +1,0 @@
-$VAR1 = {
-          'T_LOCATION_MATC' => 'Posizione abbinata per',
-          'T_LONGITUDE' => 'Longitudine',
-          'T_LATITUDE' => 'Latitudine',
-          'T_GOOGLE_MAP_OF' => 'Google map della località con livello di zoom %1',
-          'T_ZIP_CODE' => 'Codice postale'
-        };

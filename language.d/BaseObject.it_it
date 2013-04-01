@@ -1,3 +1,0 @@
-$VAR1 = {
-          'MSI_MISSING_PARAMETERP' => 'Parametro mancante:%1, in chiamata verso : %2[3] (%3[2]) '
-        };

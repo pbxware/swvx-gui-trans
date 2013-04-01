@@ -1,9 +1,0 @@
-$VAR1 = {
-          'RWV_ERROR_FETCHING_PHONE' => 'Erreur de récupération d\'informations du répertoire téléphonique.',
-          'ESN_THERE_WAS_AN_ERROR_F' => 'Une erreur est survenue lors de la récupération des informations de profil.',
-          'BML_ERROR_FETCHING_PARKE' => 'Erreur de récupération des appels parqués.',
-          'ZSL_ERROR_SEARCHING_DIRE' => 'Erreur de recherche de répertoire.',
-          'UPK_ERROR_FETCHING_VOICE' => 'Erreur de récupération de messagerie vocale.',
-          'KBT_THERE_WAS_A_PROBLEM' => 'Un problème est survenu lors de la récupération de vos appels actuels.',
-          'KQA_THE_REQUESTED_OPERAT' => 'L\'opération demandée n\'a pas pu être effectuée sur l\'appel désigné.'
-        };

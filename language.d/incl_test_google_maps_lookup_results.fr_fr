@@ -1,7 +1,0 @@
-$VAR1 = {
-          'T_LOCATION_MATC' => 'Lieu trouvé pour',
-          'T_LONGITUDE' => 'Longitude',
-          'T_LATITUDE' => 'Latitude',
-          'T_ZIP_CODE' => 'Code postal',
-          'T_GOOGLE_MAP_OF' => 'Carte Google pour le lieu au niveau de zoom %1'
-        };

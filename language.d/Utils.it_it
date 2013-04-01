@@ -1,8 +1,0 @@
-$VAR1 = {
-          'IDY_COULD_NOT_OPEN_CLOCK' => 'Impossibile aprire il file clock sysconfig',
-          'DEN_ERROR_SETTING_NTP_SE' => 'Errore durante l\'impostazione del server ntp',
-          'SHS_COULDNT_STOP_NTPD' => 'Impossibile arrestare ntpd: %1',
-          'TIW_UNKNOWN_ZONE_ZONE' => 'zona sconosciuta: %1',
-          'KTI_PROBLEM_RUNNING_SETZ' => 'Problema durante l\'esecuzione di setzone',
-          'LOT_COULDNT_RUN_CHKCONF' => 'Impossibile eseguire chkconfig per ntpd: %1'
-        };

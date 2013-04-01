@@ -1,4 +1,0 @@
-$VAR1 = {
-          'RTI_UNABLE_TO_PROCESS_PA' => 'Impossible de traiter trace de paquet',
-          'UVE_PROBLEMS_PARSING_THE' => 'Difficultés d\'analyse du fichier dump'
-        };
