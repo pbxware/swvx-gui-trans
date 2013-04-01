@@ -1,5 +1,4 @@
-Object.extend(switchvox.lang._LANG.keys,{
-T_IAX_PROVIDER:["Создать IAX провайдера"],
+Object.extend(switchvox.lang._LANG.keys,{T_IAX_PROVIDER:["Создать IAX провайдера"],
 T_SIP_PROVIDER:["Создать SIP провайдера"],
 T_GO:["Начать"],
 T_DOWNLOAD:["Скачать"],

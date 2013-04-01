@@ -32,5 +32,5 @@ UPLOAD_NAME_BLANK_E:["You must choose a name for your ringtone"],
 TT_DISABLED_POLYCOM:["This is a preloaded Polycom ringtone."],
 TT_DISABLED_DIGIUM:["This is a preloaded Digium ringtone."],
 TT_DISABLED_SILENCE:["No tone to play"],
-SH_UPLOAD_RT:["Upload Ringtone"],
+SH_UPLOAD_RT:["Create Ringtone"],
 SH_MODIFY_RT:["Modify Ringtone"]});

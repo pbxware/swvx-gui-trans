@@ -1,5 +1,6 @@
 Object.extend(switchvox.lang._LANG.keys,{T_EXT_PERMISSIONS:["Права внутренних номеров"],
 T_DEL_GROUP:["Удалить группу"],
+T_DEL_ACCOUNT:["Удалить Акаунт"],
 EPRM_CREATE_EXT_PERM_MAP:["Создать карту прав внутренних номеров"],
 EPRM_EXT_PERM_MAPS:["Карты прав внутренних номеров"],
 EPRM_NO_EXT_PERM_MAPS:["Не было создано карт прав внутренних номеров."],

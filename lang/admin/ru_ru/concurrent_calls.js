@@ -1,5 +1,4 @@
-Object.extend(switchvox.lang._LANG.keys,{
-MSG_LOADING_DATA:["Загружаются данные о звонках"],
+Object.extend(switchvox.lang._LANG.keys,{MSG_LOADING_DATA:["Загружаются данные о звонках"],
 T_SEE_WHAT_CALLS:["Используйте эту форму, чтобы создать график одновременных вызовов в вашей системе."],
 L_FROM_DATE:["С Даты"],
 L_TO_DATE:["До Даты"],

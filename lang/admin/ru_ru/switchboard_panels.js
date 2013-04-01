@@ -6,6 +6,7 @@ PT_CUSTOM:["Персональный"],
 PTS_PANELS:["Панели Switchboard"],
 T_CREATE_CUSTOM_PANEL:["Создать персональную панель"],
 T_CUSTOM_PANELS:["Персональные панели"],
+T_NO_CUSTOM_PANELS:["No Custom Panels"],
 COL_PANEL_NAME:["Название панели"],
 COL_DESCRIPTION:["Описание панели"],
 COL_MODIFY_DELETE:["Изменить / Удалить"]});
