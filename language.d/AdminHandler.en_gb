@@ -16,5 +16,5 @@ $VAR1 = {
           'WEL_YOU_ARE_ONLY_ALLOWED' => 'You are only allowed to set the initial account max once',
           'WON_SUCCESSFULLY_CHANGED' => 'Successfully changed your admin password.',
           'WWU_THIS_SYSTEM_HAS_NOT' => 'This system has not been registered',
-          'ZXQ_CONTACTS' => 'Contacts'
+          'ZXQ_CONTACTS' => 'Контакты'
         };

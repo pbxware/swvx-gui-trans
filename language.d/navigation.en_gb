@@ -184,6 +184,6 @@ $VAR1 = {
           'XDN_NETWORKING' => 'Сеть',
           'XMR_SERVER_INFORMATION' => 'Информация о сервере',
           'ZAW_HTTPS_AND_PROXY' => 'HTTPs и Proxy',
-          'ZFR_TEMPLATES' => 'Шаблоны внутренних номеров',
+          'ZFR_TEMPLATES' => 'Шаблоны',
           'ZKS_DISK_USAGE' => 'Использование диска'
         };
