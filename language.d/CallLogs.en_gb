@@ -1,0 +1,10 @@
+$VAR1 = {
+          'UYA_WEDNESDAY' => 'Wednesday',
+          'HGT_SUNDAY' => 'Sunday',
+          'APA_SATURDAY' => 'Saturday',
+          'EXT_TO_DATE_IS_BEFORE_FR' => 'To Date is before From Date.',
+          'KSI_FRIDAY' => 'Friday',
+          'QLB_MONDAY' => 'Monday',
+          'TPV_TUESDAY' => 'Tuesday',
+          'JLX_THURSDAY' => 'Thursday'
+        };

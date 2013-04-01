@@ -1,0 +1,4 @@
+$VAR1 = {
+          'RTI_UNABLE_TO_PROCESS_PA' => 'unable to process packet trace',
+          'UVE_PROBLEMS_PARSING_THE' => 'problems parsing the dumpfile'
+        };

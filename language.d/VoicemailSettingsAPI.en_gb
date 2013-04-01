@@ -1,0 +1,11 @@
+$VAR1 = {
+          'IAC_NO_USERS_FOUND' => 'no users found',
+          'QAK_COULD_NOT_RELOAD_YOU' => 'Could not reload your PBX Server. Is it offline?',
+          'OUX_DEFAULT_SUBJECT' => '%VM_CALLERID% left you a new %VM_DUR% long message',
+          'PXF_DEFAULT_TEXT' => '<p>Dear %VM_NAME%:</p><p>You just received a %VM_DUR% long message in mailbox %VM_MAILBOX% from %VM_CALLERID%, on %VM_DATE%.</p><p>Thank you!</p><p>--Switchvox</p>',
+          'BVY_EXTERNAL_SUBJECT' => '%VM_CALLERID% left you a new %VM_DUR% long message',
+          'BBT_EXTERNAL_TEXT' => '<p>Dear %VM_NAME%:</p><p>You received a message from %VM_CALLERID%. The message is in mailbox %VM_MAILBOX%, dated %VM_DATE%.</p><p>You can get this message via the phone, or use the links below to download the message.</p><p><a href="%DOWNLOAD_LINK%">Download the message and mark it as read</a></p><p><a href="%DOWNLOAD_LINK_AND_MARK_DELETED%">Download the message and delete it</a><br>Important: This will completely delete the message and this link will no longer work.</p><p>Thank you!</p><p>--Switchvox</p>',
+          'AOP_MOBILE_SUBJECT' => '%VM_CALLERID% left you a new %VM_DUR% long message',
+          'WWI_MOBILE_TEXT' => 'You just received a %VM_DUR% long message in mailbox %VM_MAILBOX% from %VM_CALLERID%, on %VM_DATE%.',
+          'IID_SMS_TEXT' => 'You just received a %VM_DUR% long message in mailbox %VM_MAILBOX% from %VM_CALLERID%, on %VM_DATE%.',
+        };

@@ -1,0 +1,18 @@
+$VAR1 = {
+          'REY_YOU_MUST_CHOOSE_AT_L' => 'You must choose at least 1 codec.',
+          'NBM_INVALID_SIP_EXPIRY' => 'Invalid Sip Expiry. Must be 0-4 digits in length',
+          'BWM_MISSING_THE_SIP_PROV' => 'Missing the Sip Provider',
+          'LZV_SUCCESSFULLY_ADDED_N' => 'Successfully Added new Sip Provider.',
+          'NNN_A_SIP_PROVIDER_WITH' => 'A SIP Provider with that name already exists in your system. Please choose a new name.',
+          'FGN_SUCCESSFULLY_MODIFIE' => 'Successfully modified sip provider.',
+          'USL_PROVIDER_ID_IS_MISSI' => 'Provider ID Is Missing',
+          'WWD_MISSING_THE_SIP_PROV' => 'Missing the Sip Provider',
+          'EMR_SUCCESSFULLY_DELETE' => 'Successfully deleted SIP provider',
+          'XIX_INTERNAL' => 'Internal',
+          'YGV_LONG_DISTANCE' => 'Long Distance',
+          'PLM_ONE_NINE_HUNDRED' => '1-900 Numbers',
+          'RPX_TOLL_FREE' => 'Toll Free',
+          'HCH_LOCAL' => 'Local',
+          'RFR_NINE_ONE_ONE' => '911',
+          'ZAZ_INTERNATIONAL' => 'International',
+        };

@@ -1,0 +1,8 @@
+$VAR1 = {
+          'IDY_COULD_NOT_OPEN_CLOCK' => 'could not open clock sysconfig file',
+          'DEN_ERROR_SETTING_NTP_SE' => 'error setting ntp server',
+          'SHS_COULDNT_STOP_NTPD' => 'couldn\'t stop ntpd: %1',
+          'TIW_UNKNOWN_ZONE_ZONE' => 'unknown zone: %1',
+          'KTI_PROBLEM_RUNNING_SETZ' => 'problem running setzone',
+          'LOT_COULDNT_RUN_CHKCONF' => 'couldn\'t run chkconfig for ntpd: %1'
+        };

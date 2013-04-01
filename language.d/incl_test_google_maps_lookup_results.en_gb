@@ -1,0 +1,7 @@
+$VAR1 = {
+          'T_GOOGLE_MAP_OF' => 'Google map of the location at zoom level %1',
+          'T_LATITUDE' => 'Latitude',
+          'T_LOCATION_MATC' => 'Location matched for',
+          'T_LONGITUDE' => 'Longitude',
+          'T_ZIP_CODE' => 'Zip Code'
+        };

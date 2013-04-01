@@ -1,0 +1,3 @@
+$VAR1 = {
+          'NBK_NO_SCHEDULES_WERE_FO' => 'No schedules were found with that schedule id (%1)'
+        };

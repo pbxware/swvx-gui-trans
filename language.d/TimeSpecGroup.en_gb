@@ -1,0 +1,6 @@
+$VAR1 = {
+          'URP_COULD_NOT_GET_NEXT_S' => 'could not get next sequence number',
+          'OXO_DURING_BUSINESS' => 'During Business Hours',
+          'OPP_OUTSIDE_BUSINESS' => 'Outside Business Hours',
+          'OYA_WEEKENDS_ONLY' => 'Weekends Only',
+        };

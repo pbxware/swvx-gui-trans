@@ -1,0 +1,8 @@
+$VAR1 = {
+          'AJX_YOU_ARE_NOT_ALLOWED' => 'You are not allowed to remove the default extension template',
+          'CMH_MISSING_ACCOUNT_ID' => 'Missing Account ID',
+          'QSN_AN_EXTENSION_TEMPLAT' => 'An extension template by that name already exists. Please choose a different name.',
+          'XKZ_MISSING_TEMPLATE_NAM' => 'Missing Template Name',
+          'HAN_MISSING_VALUES' => 'Missing Values',
+          'OXY_DEFAULT' => 'Default',
+        };

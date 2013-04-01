@@ -1,0 +1,15 @@
+$VAR1 = {
+          'AOX_CALLS' => 'calls',
+          'IXT_CONCURRENT_CALLS_FOR_THE' => 'Concurrent Calls for the past day',
+          'YUX_INCOMING_CALLS' => 'Incoming Calls',
+          'YZO_OUTGOING_CALLS' => 'Outgoing Calls',
+          'OOA_INTERNAL_CALLS' => 'Internal Calls',
+          'AZA_PHONES_IN_USE' => 'Phones in Use',
+          'AXT_CONCURRENT_CALLS' => 'Concurrent Calls',
+          'TZP_CHANNEL_GROUP' => 'Channel Group',
+          'QPA_IAX_PROVIDER' => 'IAX Provider',
+          'PZZ_SIP_PROVIDER' => 'SIP Provider',
+          'EKZ_DELETED' => 'Deleted ',
+          'TZT_MAX' => 'max',
+          'TBZ_LAST' => 'last',
+        };

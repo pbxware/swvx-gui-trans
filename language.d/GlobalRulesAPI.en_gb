@@ -1,0 +1,16 @@
+$VAR1 = {
+          'HCS_VALUE_FOR_ATTRNA' => 'Value for %1 is incorrect',
+          'FSI_TRANSFER_CALL' => 'Transfer Call',
+          'FRU_MISSING_RULE_NAME' => 'Missing Rule Name',
+          'SKV_MISSING_RULE_ID' => 'Missing Rule ID',
+          'ERC_RULE_IS_ALREADY_AT_T' => 'Rule is already at the top of list',
+          'AMO_MISSING_RULE_TYPE' => 'Missing Rule Type',
+          'ZRN_MISSING_CGI' => 'Missing CGI',
+          'FZE_MISSING_VALUE_FOR_A' => 'Missing value for %1',
+          'PHG_RULE_DOES_NOT_EXISTS' => 'Rule does not exists (perhaps you pressed refresh',
+          'LCS_MISSING_TYPE' => 'Missing type',
+          'NWF_BLOCK_NUMBER' => 'Block Number',
+          'WQB_MISSING_DBO' => 'Missing DBO',
+          'GLZ_MISSING_RULE' => 'Missing Rule',
+          'UWY_ACTION_IS_ALREADY_AT' => 'Action is already at the bottom of list'
+        };

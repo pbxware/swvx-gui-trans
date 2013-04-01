@@ -1,0 +1,10 @@
+$VAR1 = {
+          'SIZ_MAJOR_ERROR_KRONOS' => '(Major Error) Kronos Installation is incorrect: ',
+          'IKH_CANT_OPEN_N' => 'Can\'t open: %1\\n',
+          'KUJ_CAN_NOT_LOCATE_YOUR' => 'Can not locate your error log file: (%1)',
+          'KYO_LOGIN_SUCCESSFUL' => 'Login Successful',
+          'IOZ_YOU_HAVE_BEEN_SUCCES' => 'You have been successfully logged out.',
+          'MGY_MISSING_CMD' => 'Missing cmd',
+          'UKK_REPORTED_ERROR_SUCCE' => 'Reported error successfully. Thank you.',
+          'EHR_MAJOR_ERROR_COULD' => '(Major Error) Could not open file for reporting error: %1\\n'
+        };

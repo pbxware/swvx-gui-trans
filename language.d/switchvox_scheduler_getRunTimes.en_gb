@@ -1,0 +1,4 @@
+$VAR1 = {
+          'HWO_INVALID_VALUE' => 'Invalid value (',
+          'BEF__FOR_MONTH_POSITION' => ') for month_positioned_item for schedule_id : %1'
+        };

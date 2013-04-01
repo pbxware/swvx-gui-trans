@@ -1,0 +1,15 @@
+$VAR1 = {
+          'UNO_PHONEBOOKS' => 'Phonebooks',
+          'NNJ_SUGARCRM' => 'SugarCRM',
+          'PKR_DIRECTORY' => 'Directory',
+          'IDM_GOOGLE_MAPS' => 'Google Maps',
+          'KDZ_SALESFORCE' => 'Salesforce',
+          'PDH_CUSTOM_PANEL' => 'Custom Panel',
+          'ZOV_CALL_QUEUES' => 'Call Queues',
+          'NEZ_CHAT' => 'Chat',
+          'MZY_PARKING_LOT' => 'Parking Lot',
+          'SN_CALL_MON' => 'Current Calls',
+          'PZQ_PHONEBOOK' => 'Phonebook',
+          'LIJ_DEMO' => 'Demo',
+          'CHT_CALL_QUEUE' => 'Call Queue'
+        };

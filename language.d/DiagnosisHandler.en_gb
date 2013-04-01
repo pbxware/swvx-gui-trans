@@ -1,0 +1,18 @@
+$VAR1 = {
+          'JFW_BAD_RETURN_STATUS_WH' => 'Bad return status when starting your SIP Debug  (%1)',
+          'CAF_SIP_DEBUG_PACKETS' => 'SIP Debug Packets',
+          'SCU' => '#',
+          'ZQG_DEST_HOST' => 'Dest Host',
+          'IWE_SOURCE_HOST' => 'Source Host',
+          'KKX_DEST_PORT' => 'Dest Port',
+          'KDS_PACKET_HEAD' => 'Packet Head',
+          'JFO_BAD_RETURN_STATUS_FR' => 'Bad return status from diagnose_sip_provider (%1)',
+          'EOS_BAD_RETURN_STATUS_FR' => 'Bad return status from diagnose_sip_phone (%1)',
+          'NTB_BAD_RETURN_STATUS_FR' => 'Bad return status from diagnose_email (%1)',
+          'WYJ_SOURCE_PORT' => 'Source Port',
+          'WIG_NO_SIP_PACKETS_WERE' => 'No SIP packets were captured',
+          'HUP_TIMESTAMP' => 'Timestamp',
+          'PMY_FULL_PACKET' => 'Full Packet',
+          'AHH_BAD_RETURN_STATUS_FR' => 'Bad return status from diagnose_iax_provider (%1)',
+          'UAP_MISSING_EXTERNAL' => 'Missing External'
+        };

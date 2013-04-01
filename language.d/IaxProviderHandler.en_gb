@@ -1,0 +1,10 @@
+$VAR1 = {
+          'TXL_A_IAX_PROVIDER_WITH' => 'An IAX Provider with that name already exists in your system. Please choose a new name.',
+          'XIX_INTERNAL' => 'Internal',
+          'YGV_LONG_DISTANCE' => 'Long Distance',
+          'PLM_ONE_NINE_HUNDRED' => '1-900 Numbers',
+          'RPX_TOLL_FREE' => 'Toll Free',
+          'HCH_LOCAL' => 'Local',
+          'RFR_NINE_ONE_ONE' => '911',
+          'ZAZ_INTERNATIONAL' => 'International',
+        };

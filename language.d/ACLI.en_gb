@@ -1,0 +1,4 @@
+$VAR1 = {
+          'UBX_TRANSLATE_COULD_NOT' => 'could not connect to asterisk socket: %1',
+          'MVP_TRANSLATE_COULD_NOT' => 'could not close asterisk socket'
+        };

@@ -1,0 +1,6 @@
+$VAR1 = {
+          'GJC_INVALID_VALUE_ENTERE' => 'Invalid value entered',
+          'TWP_NO_MAPPING' => 'No Mapping',
+          'PGD_SUCCESSFULLY_SET_YOU' => 'Successfully set your voip providers visibility',
+          'BRE_INVALID_VALUE_ENTERE' => 'Invalid value entered'
+        };

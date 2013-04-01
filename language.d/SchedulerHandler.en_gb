@@ -1,0 +1,14 @@
+$VAR1 = {
+          'ZRP_REPORT_NAME' => 'Report Name',
+          'USU_REPORT_TYPE' => 'Report Type',
+          'ALB_START_DATE' => 'Start Date',
+          'NWT_END_EVENT' => 'End Event',
+          'ZBY_RECURRENCE' => 'Recurrence Pattern',
+          'HEX_FULL_RECURRENCE' => 'Full Recurrence Pattern',
+          'BRS_MODIFY_DELETE' => 'Modify / Delete',
+          'OTG_MODIFY' => 'Modify',
+          'HHR_DELETE' => 'Delete',
+          'NCN_SCHEDULED_REPORTS' => 'Scheduled Reports',
+          'DCD_YOU_DONT' => 'You don\'t have any scheduled reports.',
+          'YHB_MISSING_REPORT_ID' => 'Missing the scheduled report id.',
+        };

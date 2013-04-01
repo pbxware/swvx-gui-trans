@@ -1,0 +1,4 @@
+$VAR1 = {
+          'OBS_ALL_NETWORKS' => 'All Networks',
+          'HWF_LOCAL_NETWORK' => 'Local Network',
+        };

@@ -1,0 +1,10 @@
+$VAR1 = {
+          'IIU_ACCOUNT_ID_IS_MISSIN' => 'Account ID is missing',
+          'LNM_SUCCESSFULLY_UPDATED' => 'Successfully updated your feature code extension',
+          'CGJ_MISSING_THE_CALL_QUE' => 'Missing the Call Queue ID',
+          'LEY_EXTENSION_MUST_BE_F' => 'Extension must be %1 digits only.',
+          'BVC_SUCCESSFULLY_CREATE' => 'Successfully created your feature code extension',
+          'ALM_SUCCESSFULLY_DELETED' => 'Successfully deleted call monitor extension.',
+          'QBM_SUCCESSFULLY_DELETED' => 'Successfully deleted fax feature code.',
+          'QUR_SUCCESSFULLY_DELETED' => 'Successfully deleted directed pickup extension.',
+        };

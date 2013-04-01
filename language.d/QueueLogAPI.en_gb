@@ -1,0 +1,10 @@
+$VAR1 = {
+          'QXU_CANT_PLOT_GRAPH' => 'Can\'t plot graph: %1',
+          'PDK_PROBLEMS_MOVING_QUEU' => 'Problems moving queue log file: %1 (%2)',
+          'QTD_MISSING_START_DATE' => 'Missing start_date',
+          'NPP_MISSING_END_DATE' => 'Missing end_date',
+          'IBM_COULDNT_READ_LOG_FI' => 'Couldn\'t read log file (%1) : %2',
+          'AGD_QUEUE_LOG_HAS_NOT_CH' => 'Queue_log has not changed. Parsing from position: %1',
+          'SLS_CANT_OPEN_GRAPH_FOR' => 'Can\'t open graph for writing: %1',
+          'OAK_NOT_AVAILABLE' => 'n/a',
+        };

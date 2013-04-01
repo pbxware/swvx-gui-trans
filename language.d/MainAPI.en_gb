@@ -1,0 +1,17 @@
+$VAR1 = {
+          'NUC_THE_PASSWORDS_YOU_EN' => 'The passwords you entered did not match.',
+          'VGG_YOUR_NEW_PASSWORD_MU' => 'Your new password must be different than your old password.',
+          'SPF_PROBLEMS_COMMITTING' => 'Problems committing your changes, plese try again (%1)',
+          'WOL_YOU_MUST_CHANGE_YOUR' => 'You must change your password to continue.',
+          'YVF_SWITCHJAB_CHANGE_PRO' => 'Switchjab change problem: %1',
+          'FVJ_YOUR_QUEUE_SETTINGS' => 'Your queue settings were saved successfully but the queue did not reload properly.',
+          'RAT_IS_A_NON_EDITABLE_FIELD' => '%1 is a non-editable field',
+          'KYS_FAX' => 'Fax',
+          'OKN_SENT' => 'Sent',
+          'NJI_DRAFTS' => 'Drafts',
+          'NZY_OUTBOX' => 'Outbox',
+          'OLK_RECORDINGS' => 'Recordings',
+          'YBB_WORK' => 'Work',
+          'OAK_FRIENDS' => 'Friends',
+          'YHY_FAMILY' => 'Family',
+        };

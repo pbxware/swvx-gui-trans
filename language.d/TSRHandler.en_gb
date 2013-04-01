@@ -1,0 +1,7 @@
+$VAR1 = {
+          'QAX_TECH_SUPPORT_ACCESS' => 'Tech support access has been enabled.  Be sure to disable this when you are done.',
+          'AKW_PROBLEMS_RETRIEVING' => 'Problems retrieving stored file',
+          'UKJ_TECH_SUPPORT_ACCESS' => 'Tech support access has been disabled.',
+          'SHC_DID_NOT_RECIEVE_A_PR' => 'Did not recieve a proper response back from the support web service.',
+          'QWE_YOUR_TSR_REPORT_WAS' => 'Your TSR Report was sent successfully.'
+        };

@@ -1,0 +1,14 @@
+$VAR1 = {
+          'KVC_REMOVED' => 'Removed',
+          'EQJ_SIP_PROVIDER' => 'SIP Provider',
+          'EKD_IAX_PROVIDER' => 'IAX Provider',
+          'DYO_UNKNOWN' => 'Unknown',
+          'JXQ_CHANNEL_GROUP' => 'Channel Group',
+          'XIX_INTERNAL' => 'Internal',
+          'YGV_LONG_DISTANCE' => 'Long Distance',
+          'PLM_ONE_NINE_HUNDRED' => '1-900 Numbers',
+          'RPX_TOLL_FREE' => 'Toll Free',
+          'HCH_LOCAL' => 'Local',
+          'RFR_NINE_ONE_ONE' => '911',
+          'ZAZ_INTERNATIONAL' => 'International',
+        };

@@ -1,0 +1,9 @@
+$VAR1 = {
+          'OXD_PHONE_UNAVAILABLE' => 'phone-Unavailable',
+          'APS_PHONE_BUSY' => 'phone-Busy',
+          'MNT_PHONE_NAME' => 'phone-Name',
+          'OLK_RECORDINGS' => 'Recordings',
+          'YBB_WORK' => 'Work',
+          'OAK_FRIENDS' => 'Friends',
+          'YHY_FAMILY' => 'Family',
+        };

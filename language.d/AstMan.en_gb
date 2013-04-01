@@ -1,0 +1,5 @@
+$VAR1 = {
+          'ZWN_BAD_RESPONSE_TEXT' => 'Bad Response: %1',
+          'TPV_COULDNT_CONNECT_TO' => 'Couldn\'t connect to manager interface: %1',
+          'HYU_COULDNT_CONNECT_TO' => '%1'
+        };
